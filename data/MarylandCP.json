@@ -1,0 +1,1239 @@
+{
+    "view_size": [
+        3000,
+        1800
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 240",
+                "name": "Linear Algebra",
+                "description": "Basic concepts of linear algebra: vector spaces, applications to line and plane geometry, linear equations and matrices, similar matrices, linear transformations, eigenvalues, determinants and quadratic forms.",
+                "prerequisites": [
+                    "CMSC 131",
+                    "MATH 41"
+                ],
+                "cp": [
+                    1650,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "crs_id": "STAT 400",
+                "name": "Applied Probability and Statistics I",
+                "description": "Random variables, standard distributions, moments, law of large numbers and central limit theorem. Sampling methods, estimation of parameters, testing of hypotheses.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "26",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 320",
+                "name": "Introduction to Data Science",
+                "description": "An introduction to the data science pipeline, i.e., the end-to-end process of going from unstructured, messy data to knowledge and actionable insights. Provides a broad overview of several topics including statistical data analysis, basic data mining and machine learning algorithms, large-scale data management, cloud computing, and information visualization.",
+                "prerequisites": [
+                    "CMSC 216",
+                    "CMSC 250"
+                ],
+                "cp": [
+                    1950,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "24",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 422",
+                "name": "Introduction to Machine Learning",
+                "description": "Machine Learning studies representations and algorithms that allow machines to improve their performance on a task from experience. This is a broad overview of existing methods for machine learning and an introduction to adaptive systems in general. Emphasis is given to practical aspects of machine learning and data mining.",
+                "prerequisites": [
+                    "CMSC 320",
+                    "CMSC 330",
+                    "CMSC 351",
+                    "MATH 240",
+                    "MATH 461"
+                ],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 216",
+                "name": "Introduction to Computer Systems",
+                "description": "Introduction to the interaction between user programs and the operating system/hardware. Major topics include C programming, introductory systems programming, and assembly language. Other concepts covered include UNIX, machine data representation, thread management, optimization, and virtual memory. Programming is done in the Linux Environment.",
+                "prerequisites": [
+                    "CMSC 132",
+                    "MATH 141"
+                ],
+                "cp": [
+                    1650,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "76",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 250",
+                "name": "Discrete Structures",
+                "description": "Fundamental mathematical concepts related to computer science, includin finite and infinite sets, relations, functions, and propositional logic. Introduction to other techniques, modeling and solving problems in computer science. Introduction to permutations, combinations, graphs, and trees with selected applications.",
+                "prerequisites": [
+                    "CMSC 131",
+                    "MATH 141"
+                ],
+                "cp": [
+                    1950,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "65",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 132",
+                "name": "Object-Oriented Programming II",
+                "description": "Introduction to use of computers to solve problems using software engineering principles. Design, build, test, and debug medium -size software systems and learn to use relevant tools. Use object-oriented methods to create effective and efficient problem solutions. Use and implement application programming interfaces (APIs). Programming done in Java.",
+                "prerequisites": [
+                    "CMSC 131",
+                    "MATH 140"
+                ],
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "78",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 131",
+                "name": "Object-Oriented Programming I",
+                "description": "Introduction to programming and computer science. Emphasizes understanding and implementation of applications using object-oriented techniques. Develops skills such as program design and testing as well as implementation of programs using a graphical IDE. Programming done in Java.",
+                "prerequisites": [
+                    "MATH 140"
+                ],
+                "cp": [
+                    2550,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 140",
+                "name": "Calculus I",
+                "description": "Introduction to calculus, including functions, limits, continuity, derivatives and applications of the derivative, sketching of graphs of functions, definite and indefinite integrals, and calculation of area. The course is especially recommended for science, engineering and mathematics majors.",
+                "prerequisites": [
+                    "MATH 115"
+                ],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "85",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 115",
+                "name": "Precalculus",
+                "description": " Elementary functions and graphs: polynomials, rational functions, exponential and logarithmic functions, trigonometric functions. Algebraic techniques preparatory for calculus.",
+                "prerequisites": [
+                    "MATH 003",
+                    "MATH 113"
+                ],
+                "cp": [
+                    1650,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "97",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 003",
+                "name": "Developmental Mathematics",
+                "description": "Topics will be chosen from exponents, polynomials, linear equations, quadratic equations as well as polynomial, rational, exponential and logarithm functions and elementary probability or statistics, depending on the student.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2250,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "87",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 113",
+                "name": "College Algebra and Trigonometry",
+                "description": "Topics include elementary functions including graphs and applications of: polynomial, rational, exponential, and logarithmic functions. Systems of equations and applications. Trigonometric functions: angle and radian measure, graphs and applications.",
+                "prerequisites": [
+                    "MATH 003"
+                ],
+                "cp": [
+                    2250,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 141",
+                "name": "Calculus II",
+                "description": " including techniques of integration, improper integrals, applications of integration (such as volumes, work, arc length, moments), inverse functions, exponential and logarithmic functions, sequences and series.",
+                "prerequisites": [
+                    "MATH 140",
+                    "MATH 130",
+                    "MATH 136"
+                ],
+                "cp": [
+                    450,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "73",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 130",
+                "name": "Calculus for Life Science I ",
+                "description": "This is a first-semester course in calculus with applications in biology and life-sciences(Functions, Limits, Continuity/Derivatives/Applications of the Derivative/Integrals)",
+                "prerequisites": [
+                    "MATH 140",
+                    "MAHT 113",
+                    "MATH 115"
+                ],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "92",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 136",
+                "name": "Calculus for Life Sciences",
+                "description": "including basic ideas of differential integral calculus, with emphasis on elementary techniques and applications to the life sciences.",
+                "prerequisites": [
+                    "MATH 135"
+                ],
+                "cp": [
+                    750,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "93",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 135",
+                "name": "Discrete Mathematics for Life Sciences",
+                "description": "Basic discrete mathematics, with emphasis on relevant models and techniques to the life sciences.",
+                "prerequisites": [
+                    "MATH 115",
+                    "MATH 140"
+                ],
+                "cp": [
+                    1050,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "47",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 330",
+                "name": "Organization of Programming Languages",
+                "description": "A study of programming languages, including their syntax, semantics, and implementation. Several different models of languages are discussed, including dynamic, scripting (e.g., Ruby, Python) functional (e.g., OCaml, Haskell, Scheme), and memory safe systems programming (e.g., Rust). ",
+                "prerequisites": [
+                    "CMSC 250",
+                    "CMSC 216"
+                ],
+                "cp": [
+                    2250,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "7",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 351",
+                "name": "Introduction to Algorithms",
+                "description": "A systematic study of the complexity of some elementary algorithms related to sorting, graphs and trees, and combinatorics. Algorithms are analyzed using mathematical techniques to solve recurrences and summations.",
+                "prerequisites": [
+                    "CMSC 212",
+                    "CMSC 250"
+                ],
+                "cp": [
+                    2250,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "28",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 212",
+                "name": "Introduction to Low-Level Programming Concepts",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "21",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 461",
+                "name": "Linear Algebra for Scientists and Engineers",
+                "description": "Basic concepts of linear algebra. This course is similar to MATH 240, but with more extensive coverage of the topics needed in applied linear algebra: change of basis, complex eigenvalues, diagonalization, the Jordan canonical form.",
+                "prerequisites": [
+                    "MATH 141"
+                ],
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "16",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 424",
+                "name": "Database Design",
+                "description": "The focus of this course is on centralized, Relational database systems. In addition, more advanced topics such as Object-Oriented and Distributed databases are introduced towards the end of the course.",
+                "prerequisites": [
+                    "CMSC 351",
+                    "CMSC 330"
+                ],
+                "cp": [
+                    1950,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 402",
+                "name": "Bioinformatic Algorithms & Methods for Functional Genomics and Proteomics",
+                "description": "An introduction to the fundamental concepts in the computational analysis of biological systems with applications to: functional genomics, population genetics, proteomics and epigenetics. Computational concepts covered: network and graph algorithms, combinatorial algorithms, machine learning, large data/network visualization, statistical modeling and inference, probabilistic graphical models, sparse methods in data analysis, numerical optimization",
+                "prerequisites": [
+                    "CMSC 423"
+                ],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "14",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 420",
+                "name": "Advanced Data Structures",
+                "description": "Description, properties, and storage allocation functions of data structures including balanced binary trees, B-Trees, hash tables, skiplists, tries, KD-Trees and Quadtrees. Algorithms for manipulating structures. Applications from areas such as String Processing, Computer Graphics, Information Retrieval, Computer Networks, Computer Vision, and Operating Systems.",
+                "prerequisites": [
+                    "CMSC 351",
+                    "CMSC 330"
+                ],
+                "cp": [
+                    1350,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "18",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 421",
+                "name": "Introduction to Artificial Intelligence",
+                "description": "Introduces a range of ideas and methods in AI, varying semester to semester but chosen largely from: automated heuristic search, planning, games, knowledge representation, logical and statistical inference, learning, natural language processing, vision, robotics, cognitive modeling, and intelligent agents. ",
+                "prerequisites": [
+                    "CMSC 351",
+                    "CMSC 330"
+                ],
+                "cp": [
+                    2550,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 423",
+                "name": "Bioinformatic Algorithms, Databases, and Tools",
+                "description": "An introduction to the main algorithms, databases, and tools used in bioinformatics. Topics may include assembly and analysis of genome sequences, reconstructing evolutionary histories, predicting protein structure, and clustering of biological data.",
+                "prerequisites": [
+                    "CMSC 351"
+                ],
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 426",
+                "name": "Computer Vision",
+                "description": "An introduction to basic concepts and techniques in computervision. This includes low-level operations such as image filtering and edge detection, 3D reconstruction of scenes using stereo and structure from motion, and object detection, recognition and classification.",
+                "prerequisites": [
+                    "CMSC 351",
+                    "CMSC 330"
+                ],
+                "cp": [
+                    2250,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "15",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 427",
+                "name": "Computer Graphics",
+                "description": "An introduction to 3D computer graphics, focusing on the underlying building blocks and algorithms for applications such as 3D computer games, and augmented and virtual reality (AR/VR).",
+                "prerequisites": [
+                    "CMSC 351"
+                ],
+                "cp": [
+                    1650,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "19",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 451",
+                "name": "Design and Analysis of Computer Algorithms",
+                "description": "Fundamental techniques for designing efficient computer algorithms, proving their correctness, and analyzing their complexity. General topics include graph algorithms, basic algorithm design paradigms (such as greedy algorithms, divide-and-conquer, and dynamic programming), network flows, NP-completeness, and other selected topics in algorithms.",
+                "prerequisites": [
+                    "CMSC 351"
+                ],
+                "cp": [
+                    2850,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "35",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 460",
+                "name": "Computational Methods",
+                "description": "Basic computational methods for interpolation, least squares, approximation, numerical quadrature, numerical solution of polynomial and transcendental equations, systems of linear equations and initial value problems for ordinary differential equations",
+                "prerequisites": [
+                    "MATH 240",
+                    "MATH 341",
+                    "MATH 461",
+                    "MATH 241",
+                    "MATH 340",
+                    "CMSC 106",
+                    "CMSC 131",
+                    "MATH 246"
+                ],
+                "cp": [
+                    1650,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "42",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 341",
+                "name": "Multivariable Calculus, Linear Algebra, Differential Equations II",
+                "description": "Continuation of Math 340.",
+                "prerequisites": [
+                    "MATH 340"
+                ],
+                "cp": [
+                    750,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "52",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 340",
+                "name": "Multivariable Mathematics I",
+                "description": "This is the first semester of the two-semester honors sequence Math 340-341 which gives a unified and enriched treatment of multivariable calculus, linear algebra, and ordinary differential equations, with supplementary material from differential geometry, Fourier series and calculus of variations.",
+                "prerequisites": [
+                    "MATH 140",
+                    "MATH 141"
+                ],
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "54",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 241",
+                "name": "Calculus III",
+                "description": "Introduction to multivariable calculus, including vectors and vector-valued functions, partial derivatives and applications of partial derivatives (such as tangent planes and Lagrange multipliers), multiple integrals, volume, surface area, and the classical theorems of Green, Stokes and Gauss.",
+                "prerequisites": [
+                    "MATH 141"
+                ],
+                "cp": [
+                    1350,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "32",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 106",
+                "name": "Introduction to C Programming",
+                "description": "This includes a brief introduction to basic computer concepts, an understanding of the UNIX operating system sufficient for writing class programming assignments, studying the syntax and semantics of the basic control structures of C, learning C's fundamental data types and structures, understanding the design and methodical construction of computer programs, learning how to test and debug programs, and lastly, practice in these through creating several programs in C.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    750,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "62",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 246",
+                "name": "Differential Equations for Scientists and Engineers",
+                "description": "An introduction to the basic methods of solving ordinary differential equations. Equations of first and second order, linear differential equations, Laplace transforms, numerical methods and the qualitative theory of differential equations.",
+                "prerequisites": [
+                    "MATH 141"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "48",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 411",
+                "name": "Computer Systems Architecture",
+                "description": "Input/output processors and techniques. Intra-system communication, buses, caches. Addressing and memory hierarchies. Microprogramming, parallelism, and pipelining.",
+                "prerequisites": [
+                    "CMSC 330"
+                ],
+                "cp": [
+                    2550,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "58",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 412",
+                "name": "Operating Systems",
+                "description": "A hands-on introduction to operating systems, including topics in: multiprogramming, communication and synchronization, memory management, IO subsystems, and resource scheduling polices",
+                "prerequisites": [
+                    "CMSC 216"
+                ],
+                "cp": [
+                    2550,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "79",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 414",
+                "name": "Computer and Network Security",
+                "description": "An introduction to the topic of security in the context of computer systems and networks. Identify, analyze, and solve network-related security problems in computer systems. ",
+                "prerequisites": [
+                    "CMSC 131"
+                ],
+                "cp": [
+                    2850,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "69",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 417",
+                "name": "Computer Networks",
+                "description": "Computer networks and architectures. The OSI model including discussion and examples of various network layers. A general introduction to existing network protocols. Communication protocol specification, analysis, and testing.",
+                "prerequisites": [
+                    "CMSC 414"
+                ],
+                "cp": [
+                    2850,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "68",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 430",
+                "name": "Introduction to Compilers",
+                "description": "Topics include lexical analysis, parsing, intermediate representations, program analysis, optimization, and code generation.",
+                "prerequisites": [
+                    "CMSC 216"
+                ],
+                "cp": [
+                    2550,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "38",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 433",
+                "name": "Programming Language Technologies and Paradigms",
+                "description": "Programming language technologies (e.g., object-oriented programming), their implementations and use in software design and implementation.",
+                "prerequisites": [
+                    "CMSC 330"
+                ],
+                "cp": [
+                    2550,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "0",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 434",
+                "name": "Introduction to Human-Computer Interaction",
+                "description": "Assess usability by quantitative and qualitative methods. Conduct task analyses, usability tests, expert reviews, and continuing assessments of working products by interviews, surveys, and logging. Apply design processes and guidelines to develop professional quality user interfaces.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "20",
+            "ref": null,
+            "props": {
+                "crs_id": "CMSC 435",
+                "name": "Software Engineering",
+                "description": "State-of-the-art techniques in software design and development. Laboratory experience in applying the techniques covered. Structured design, structured programming, top-down design and development, segmentation and modularization techniques, iterative enhancement, design and code inspection techniques, correctness, and chief-programmer teams.",
+                "prerequisites": [
+                    "MATH 461"
+                ],
+                "cp": [
+                    150,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "0": "CMSC 434",
+        "1": "STAT 400",
+        "4": "CMSC 402",
+        "5": "CMSC 423",
+        "7": "CMSC 351",
+        "14": "CMSC 420",
+        "15": "CMSC 427",
+        "16": "CMSC 424",
+        "18": "CMSC 421",
+        "19": "CMSC 451",
+        "20": "CMSC 435",
+        "21": "MATH 461",
+        "24": "CMSC 422",
+        "26": "CMSC 320",
+        "27": "CMSC 426",
+        "28": "CMSC 212",
+        "32": "CMSC 106",
+        "35": "CMSC 460",
+        "38": "CMSC 433",
+        "42": "MATH 341",
+        "45": "MATH 240",
+        "47": "CMSC 330",
+        "48": "CMSC 411",
+        "52": "MATH 340",
+        "54": "MATH 241",
+        "55": "CMSC 216",
+        "58": "CMSC 412",
+        "62": "MATH 246",
+        "65": "CMSC 132",
+        "68": "CMSC 430",
+        "69": "CMSC 417",
+        "73": "MATH 130",
+        "76": "CMSC 250",
+        "78": "CMSC 131",
+        "79": "CMSC 414",
+        "81": "MATH 141",
+        "83": "MATH 140",
+        "85": "MATH 115",
+        "87": "MATH 113",
+        "92": "MATH 136",
+        "93": "MATH 135",
+        "97": "MATH 003"
+    }
+}

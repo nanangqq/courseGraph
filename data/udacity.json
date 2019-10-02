@@ -1,0 +1,897 @@
+{
+    "view_size":[3000, 1800],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "67",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 373",
+                "name": "Artificial Intelligence for Robotics",
+                "description": "Localization, Kalman Filters, Particle Filters, Search, PID Control, SLAM",
+                "prerequisites": [
+                    "ND 113"
+                ],
+                "cp": [
+                    2250,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "46",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 002",
+                "name": "Data Analysis",
+                "description": "Introduction to Data Analysis, Practical Statistics, Data Wrangling, Data Visualization with Python",
+                "prerequisites": [
+                    "UD 1110"
+                ],
+                "cp": [
+                    1950,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "93",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 009T",
+                "name": "Machine Learning Engineer",
+                "description": "Software Engineering Fundamentals, Machine Learning in Production, Machine Learning Case Studies, Machine Learning Capstone",
+                "prerequisites": [
+                    "ND 229"
+                ],
+                "cp": [
+                    1050,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "29",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 013",
+                "name": "Become a Self-Driving Car Engineer",
+                "description": "Computer Vision, Deep Learning, Sensor Fusion, Localization, Planning, Control, System Integration",
+                "prerequisites": [
+                    "ND 113"
+                ],
+                "cp": [
+                    2850,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "64",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 101",
+                "name": "Deep Learning",
+                "description": "Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, Deploying a Sentiment Analysis Model",
+                "prerequisites": [
+                    "UD 1110"
+                ],
+                "cp": [
+                    1350,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "37",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 113",
+                "name": "Intro to Self-Driving Cars",
+                "description": "Bayesian Thinking, Working with Matrices, C++ Basics, Performance Programming in C++, Navigating Complex Data Structures, Visualizing Calculus and Controls, Machine Learning and Computer Vision",
+                "prerequisites": [
+                    "UD 1110",
+                    "UD 827",
+                    "UD 201",
+                    "UD 953",
+                    "UD 359",
+                    "ND 002"
+                ],
+                "cp": [
+                    2250,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "39",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 209",
+                "name": "Robotics Software Engineer",
+                "description": "Gazebo World, ROS Essentials, Localization, Mapping and SLAM, Path Planning and Navigation",
+                "prerequisites": [
+                    "ND 113"
+                ],
+                "cp": [
+                    2850,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "18",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 213",
+                "name": "Become a C++ Developer",
+                "description": "C++ Foundations, Object-Oriented Programming, Memory Management, Concurrency",
+                "prerequisites": [],
+                "cp": [
+                    2550,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "43",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 229",
+                "name": "Intro to Machine Learning",
+                "description": "Supervised Learning, Deep Learning, Unsupervised Learning",
+                "prerequisites": [
+                    "UD 1110",
+                    "UD 201",
+                    "UD 953"
+                ],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "19",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 313",
+                "name": "Sensor Fusion Engineer",
+                "description": "Lidar, Radar, Cameras, Kalman Filters",
+                "prerequisites": [
+                    "ND 113",
+                    "ND 213"
+                ],
+                "cp": [
+                    2850,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "49",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 787",
+                "name": "Flying Car and Autonomous Flight Engineer",
+                "description": "3D Motion Planning, Controls, Estimation, Fixed-Wing Aircraft",
+                "prerequisites": [
+                    "ND 113"
+                ],
+                "cp": [
+                    2850,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "62",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 880",
+                "name": "Artificial Intelligence for Trading",
+                "description": "Basic Quantitative Trading, Advanced Quantitative Trading, Stocks, Indices, and ETFs, Factor Investing and Alpha Research, Sentiment Analysis with Natural Language Processing, Advanced Natural Language Processing with Deep Learning, Combining Multiple Signals, Simulating Trades with Historical Data",
+                "prerequisites": [
+                    "ND 002",
+                    "UD 501"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "97",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 891",
+                "name": "Computer Vision",
+                "description": "Introduction to Computer Vision, Advanced Computer Vision and Deep Learning, Object Tracking and Localization",
+                "prerequisites": [
+                    "ND 101",
+                    "UD 188",
+                    "UD 187"
+                ],
+                "cp": [
+                    2250,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 892",
+                "name": "Natural Language Processing",
+                "description": "Introduction to Natural Language Processing, Computing with Natural Language, Communicating with Natural Language",
+                "prerequisites": [
+                    "ND 101",
+                    "UD 188",
+                    "UD 187"
+                ],
+                "cp": [
+                    1350,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 893",
+                "name": "Deep Reinforcement Learning",
+                "description": "Foundations of Reinforcement Learning, Value-Based Methods, Policy-Based Methods, Multi-Agent Reinforcement Learning",
+                "prerequisites": [
+                    "ND 101",
+                    "UD 188",
+                    "UD 187"
+                ],
+                "cp": [
+                    1950,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "95",
+            "ref": null,
+            "props": {
+                "crs_id": "ND 898",
+                "name": "Artificial Intelligence",
+                "description": "Constraint Satisfaction Problems, Search, Optimization, and Planning, Adversarial Search, Fundamentals of Probabilistic Graphical Models",
+                "prerequisites": [
+                    "ND 101",
+                    "UD 188",
+                    "UD 187"
+                ],
+                "cp": [
+                    1650,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "17",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 0419",
+                "name": "Self-Driving Fundamentals: Featuring Apollo",
+                "description": "Self-Driving Overview, HD Map, Localization, Perception, Prediction, Planning, Control",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "44",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 1110",
+                "name": "Introduction to Python Programming",
+                "description": "Why Python Programming, Data Types and Operators, Control Flow, Functions, Scripting",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "66",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 187",
+                "name": "Intro to TensorFlow for Deep Learning",
+                "description": "Your first model: Fashion MNIST, More efficient image classification, Turn a binary classifier into a multi-class classifier, Transfer Learning, Saving and Loading Models, Machine Learning on devices with TensorFlow Lite, Machine Learning in the Cloud with TensorFlow-Serving, Machine Learning in-the-browser with TensorFlow.js, Machine Learning-based products and services from Google, The Workflow of Machine Learning, Managing Data, Exploring Neural Nets in Keras, Going deeper into Neural Nets",
+                "prerequisites": [
+                    "UD 1110",
+                    "ND 002"
+                ],
+                "cp": [
+                    1950,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "65",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 188",
+                "name": "Intro to Deep Learning with PyTorch",
+                "description": "Deep Learning with PyTorch, Convolutional Neural Networks, Style Transfer, Recurrent Neural Networks, Natural Language Classification, Deploying with PyTorch",
+                "prerequisites": [
+                    "UD 1110",
+                    "ND 002"
+                ],
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "12",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 201",
+                "name": "Intro to Inferential Statistics",
+                "description": "Estimation, Hypothesis Testing, t-tests, ANOVA, Correlation, Regression, Chi-squared Tests",
+                "prerequisites": [
+                    "UD 827"
+                ],
+                "cp": [
+                    750,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "16",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 359",
+                "name": "Intro to Data Science",
+                "description": "Introduction to Data Science, Data Wrangling, Data Analysis, Data Visualization, MapReduce",
+                "prerequisites": [
+                    "UD 1110",
+                    "UD 827",
+                    "UD 201"
+                ],
+                "cp": [
+                    1950,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "52",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 501",
+                "name": "Machine Learning for Trading",
+                "description": "Manipulating Financial Data in Python, Computational Investing, Machine Learning Algorithms for Trading",
+                "prerequisites": [
+                    "ND 002",
+                    "UD 953",
+                    "UD 201"
+                ],
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 827",
+                "name": "Intro to Descriptive Statistics",
+                "description": "Intro to Research Methods, Visualizing Data, Central Tendency, Variability, Standardizing, Normal Distribution, Sampling Distributions",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "31",
+            "ref": null,
+            "props": {
+                "crs_id": "UD 953",
+                "name": "Linear Algebra Refresher Course",
+                "description": "Vectors, Intersections, Matrices and Transformation of State",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "4": "UD 827",
+        "12": "UD 201",
+        "16": "UD 359",
+        "17": "UD 0419",
+        "18": "ND 213",
+        "19": "ND 313",
+        "29": "ND 013",
+        "31": "UD 953",
+        "37": "ND 113",
+        "39": "ND 209",
+        "43": "ND 229",
+        "44": "UD 1110",
+        "46": "ND 002",
+        "49": "ND 787",
+        "52": "UD 501",
+        "62": "ND 880",
+        "64": "ND 101",
+        "65": "UD 188",
+        "66": "UD 187",
+        "67": "CS 373",
+        "93": "ND 009T",
+        "94": "ND 892",
+        "95": "ND 898",
+        "96": "ND 893",
+        "97": "ND 891"
+    }
+}

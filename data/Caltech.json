@@ -1,0 +1,1411 @@
+{
+    "view_size":[3000,1800],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "74",
+            "ref": null,
+            "props": {
+                "crs_id": "ACM/EE/IDS 116",
+                "name": "Introduction to Probability Models",
+                "description": "Introduction to fundamental ideas and techniques of stochastic modeling, with an emphasis on the applications. After reviewing the basic concepts of probability theory, the course will move quickly towards the development of probability models and their use in engineering and sciences. Assignments will very likely involve some programming.",
+                "prerequisites": [
+                    "MA 2",
+                    "MA 3"
+                ],
+                "cp": [
+                    1350,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "crs_id": "MA 2",
+                "name": "Differential Equations",
+                "description": "This course is to teach applications of ordinary differential equations, and is more about techniques in solving problems, and there will be more examples, less proofs.",
+                "prerequisites": [
+                    "MA 1"
+                ],
+                "cp": [
+                    1650,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "76",
+            "ref": null,
+            "props": {
+                "crs_id": "MA 3",
+                "name": "Introduction to Probability and Statistics",
+                "description": "The first half is devoted to the fundamental concepts of probability theory, including distributions and random variables, independence and conditional probability, expectation, the Law of Averages (Laws of Large Numbers), and “the bell curve” (Central Limit Theorem). The second half is devoted to statistical reasoning",
+                "prerequisites": [
+                    "MA 1"
+                ],
+                "cp": [
+                    1950,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "47",
+            "ref": null,
+            "props": {
+                "crs_id": "MA 1",
+                "name": "Calculus of One and Several Variables and Linear Algebra",
+                "description": "Review of calculus. Complex numbers, Taylor polynomials, infinite series. Comprehensive presentation of linear algebra. Derivatives of vector functions, multiple integrals, line and path integrals, theorems of Green and Stokes. ",
+                "prerequisites": [
+                    "MA 5"
+                ],
+                "cp": [
+                    2250,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "9",
+            "ref": null,
+            "props": {
+                "crs_id": "MA 5",
+                "name": "Introduction to Abstract Algebra ",
+                "description": "we will discuss groups.  This material comes from Chapters 1-5 of the text.   We will spend the first half of the term on basics, such as the introductory material in Chapter 0 of the text, the definition of a 'group', examples of groups, basic properties of groups, subgroups, homomorphisms, and factor groups.  In the second half of the term we will talk about permutation groups, semidirect products, and Sylow's Theorem.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2850,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "12",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 2",
+                "name": "Introduction to Programming Methods",
+                "description": "We focus on abstraction in programming–both in design of programs and data storage. We discuss and implement fundamental data structures and algorithms via a series of labs and projects.",
+                "prerequisites": [
+                    "CS 1"
+                ],
+                "cp": [
+                    750,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "11",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 1",
+                "name": "Introduction to Computer Programming",
+                "description": " It will use the Python programming language and will not assume previous programming experience. Material covered will include data types, variables, assignment, control structures, functions, scoping, compound data, string processing, modules, basic input/output (terminal and file), as well as more advanced topics such as recursion, exception handling and object-oriented programming. ",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "29",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/IDS 150",
+                "name": "Probability and Algorithms",
+                "description": "The probabilistic method and randomized algorithms. Deviation bounds, k-wise independence, graph problems, identity testing, derandomization and parallelization, metric space embeddings, local lemma. ",
+                "prerequisites": [
+                    "CS 38",
+                    "MA 5"
+                ],
+                "cp": [
+                    2850,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 38",
+                "name": "Algorithms",
+                "description": "This course introduces techniques for the design and analysis of efficient algorithms. Major design techniques (the greedy approach, divide and conquer, dynamic programming, linear programming) will be introduced through a variety of algebraic, graph, and optimization problems",
+                "prerequisites": [
+                    "CS 2",
+                    "MA/CS 6",
+                    "MA 121",
+                    "CS 21"
+                ],
+                "cp": [
+                    2250,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "6",
+            "ref": null,
+            "props": {
+                "crs_id": "MA/CS 6",
+                "name": "Introduction to Discrete Mathematics",
+                "description": " introduces several basic combinatorial and algorithmic topics.  These include generating functions, graph theory with a focus on graph algorithms, cryptography (including some elementary number theory), and an introduction to algebraic structures.",
+                "prerequisites": [
+                    "MA 5"
+                ],
+                "cp": [
+                    1950,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "18",
+            "ref": null,
+            "props": {
+                "crs_id": "MA 121",
+                "name": "Combinatorial Analysis",
+                "description": "standard introductory course on enumerative combinatorics.  We cover 'structural' combinatorics, the study of interesting discrete structures, both in terms of general properties as well as in terms of the existence or classification of particularly nice or extreme instances.  We will spend much of the term on graphs and related topics ",
+                "prerequisites": [
+                    "MA 5"
+                ],
+                "cp": [
+                    2550,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "14",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 21",
+                "name": "Decidability and Tractability",
+                "description": " introduces the formal foundations of computer science, the fundamental limits of computation, and the limits of efficient computation. Topics will include automata and Turing machines, decidability and undecidability, reductions between computational problems, and the theory of NP-completeness.",
+                "prerequisites": [
+                    "CS 2"
+                ],
+                "cp": [
+                    1350,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "34",
+            "ref": null,
+            "props": {
+                "crs_id": "CMS/CS/CNS/EE/IDS 155",
+                "name": "Machine Learning & Data Mining",
+                "description": "This course will cover popular methods in machine learning and data mining, with an emphasis on developing a working understanding of how to apply these methods in practice. The course will focus on basic foundational concepts underpinning and motivating modern machine learning and data mining approaches",
+                "prerequisites": [
+                    "CS/CNS/EE 156"
+                ],
+                "cp": [
+                    1350,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "23",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/CNS/EE 156",
+                "name": "Learning Systems",
+                "description": "This is a basic course in automated learning covering theory, algorithms, and applications",
+                "prerequisites": [
+                    "MA 2",
+                    "CS 2"
+                ],
+                "cp": [
+                    1050,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "22",
+            "ref": null,
+            "props": {
+                "crs_id": "CNS/Bi/Ph/CS/NB 187",
+                "name": "Neural Computation",
+                "description": "This course investigates computation by neurons. Of primary concern are models of neural computation and their neurological substrate, as well as the physics of collective computation. Thus, neurobiology is used as a motivating factor to introduce the relevant algorithms.",
+                "prerequisites": [
+                    "CS 2",
+                    "ACM 104"
+                ],
+                "cp": [
+                    750,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "52",
+            "ref": null,
+            "props": {
+                "crs_id": "ACM 104",
+                "name": "Applied Linear Algebra",
+                "description": "This is an intermediate linear algebra course aimed at a diverse group of students, including junior and senior majors in applied mathematics, sciences and engineering. The focus is on applications. Matrix factorizations play a central role. ",
+                "prerequisites": [
+                    "CS 2",
+                    "ACM 104"
+                ],
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "30",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 4",
+                "name": "Fundamentals of Computer Programming.",
+                "description": "This course gives students the conceptual background necessary to construct and analyze programs, which includes specifying computations, understanding evaluation models, and using major programming language constructs ",
+                "prerequisites": [
+                    "CS 1"
+                ],
+                "cp": [
+                    150,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "0",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 9",
+                "name": "Introduction to Computer Science Research",
+                "description": "This course will introduce students to research areas in CS through weekly overview talks by Caltech faculty and aimed at first-year undergraduates",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "2",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 10",
+                "name": " Introduction to Digital Logic and Embedded Systems",
+                "description": "The course will cover basic digital logic, programmable logic devices, CPU and embedded system architecture, and embedded systems programming principles",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    750,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "10",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 11",
+                "name": "Computer Language Shop",
+                "description": "elf-paced lab that provides students with extra practice and supervision transferring their programming skills to a particular programming language; the course can be used for any language of the student's choosing",
+                "prerequisites": [
+                    "CS 1"
+                ],
+                "cp": [
+                    150,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 19",
+                "name": "Introduction to Computer Science in Industry",
+                "description": " introduce students to CS in industry through weekly overview talks by alums and engineers in industry. It is aimed at second-year undergraduates. ",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 24",
+                "name": "Introduction to Computing Systems",
+                "description": "Basic introduction to computer systems, including hardware-software interface, computer architecture, and operating systems. ",
+                "prerequisites": [
+                    "CS 3"
+                ],
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "25",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 37",
+                "name": "Algorithms in the Real World",
+                "description": "introduces algorithms in the context of their usage in the real world. The course covers compression, advanced data structures, numerical algorithms, cryptography, computer algebra, and parallelism. ",
+                "prerequisites": [
+                    "CS 2",
+                    "CS 24",
+                    "MA/CS 6"
+                ],
+                "cp": [
+                    1650,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "50",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 111",
+                "name": "Graduate Programming Practicum",
+                "description": "A self-paced lab that provides students with extra practice and supervision in transferring their programming skills to a particular programming language. The course can be used for any language of the student’s choosing",
+                "prerequisites": [
+                    "CS 131"
+                ],
+                "cp": [
+                    150,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "32",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 115",
+                "name": "Functional Programming",
+                "description": "his course is a both a theoretical and practical introduction to functional programming, a paradigm which allows programmers to work at an extremely high level of abstraction while simultaneously avoiding large classes of bugs that plague more conventional imperative and object-oriented languages.",
+                "prerequisites": [
+                    "CS 1",
+                    "CS 4"
+                ],
+                "cp": [
+                    750,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "20",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 116",
+                "name": "Reasoning about Program Correctness",
+                "description": "This course presents the use of logic and formal reasoning to prove the correctness of sequential and concurrent programs. Topics in logic include propositional logic, basics of first-order logic, and the use of logic notations for specifying programs.",
+                "prerequisites": [
+                    "CS 1"
+                ],
+                "cp": [
+                    150,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "48",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 117",
+                "name": "Computability Theory",
+                "description": "Various approaches to computability theory, e.g., Turing machines, recursive functions, Markov algorithms; proof of their equivalence. Church’s thesis. Theory of computable functions and effectively enumerable sets....",
+                "prerequisites": [
+                    "MA 5"
+                ],
+                "cp": [
+                    2550,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "40",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 131",
+                "name": "Programming Languages",
+                "description": " It teaches students how to program in a number of simplified languages representing the major programming paradigms in use today (imperative, object-oriented, and functional).",
+                "prerequisites": [
+                    "CS 4"
+                ],
+                "cp": [
+                    150,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "crs_id": "ME/CS 132",
+                "name": "Advanced Robotics: Navigation and Vision",
+                "description": "The course focuses on current topics in robotics research in the area of autonomous navigation and vision. Topics will include mobile robots, multilegged walking machines, use of vision in navigation systems.",
+                "prerequisites": [
+                    "ME 115"
+                ],
+                "cp": [
+                    1350,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "95",
+            "ref": null,
+            "props": {
+                "crs_id": "ME 115",
+                "name": "Introduction to Kinematics and Robotics",
+                "description": "The course assumes some basic knowledge in linear algebra (such as eigenvalues and eigenvectors). ",
+                "prerequisites": [
+                    "MA 2",
+                    "ACM 95"
+                ],
+                "cp": [
+                    1650,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "crs_id": "ACM 95",
+                "name": "Introductory Methods of Applied Mathematics for the Physical Sciences",
+                "description": " Complex analysis: analyticity, Laurent series, contour integration, residue calculus/ Ordinary differential equations: linear initial value problems, linear boundary value problems, Sturm-Liouville theory, eigenfunction expansions, transform methods, Green’s functions/ Linear partial differential equations: heat equation, separation of variables...",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1950,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "crs_id": "ME/CS/EE 134",
+                "name": "Robotic Systems.",
+                "description": " This course covers the basics of robotic systems at the intersection of computer vision, machine learning and control. It includes selected topics from each of these domains, and their integration points.",
+                "prerequisites": [
+                    "ME/CS/EE 129"
+                ],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "84",
+            "ref": null,
+            "props": {
+                "crs_id": "ME/CS/EE 129",
+                "name": "Experimental Robotics",
+                "description": "This course covers the foundations of experimental realization on robotic systems. This includes software infrastructures, e.g., robotic operating systems (ROS), sensor integration, and implementation on hardware platforms. ",
+                "prerequisites": [
+                    "ME 115"
+                ],
+                "cp": [
+                    1350,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "57",
+            "ref": null,
+            "props": {
+                "crs_id": "EE/CS/EST 135",
+                "name": "Power System Analysis",
+                "description": "Phasor representation, 3-phase transmission system, per-phase analysis; power system modeling, transmission line, transformer, generator; network matrix, power flow solution, optimal power flow; Swing equation, stability, protection; demand response, power markets.",
+                "prerequisites": [
+                    "EE 44",
+                    "MA 2"
+                ],
+                "cp": [
+                    2250,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "67",
+            "ref": null,
+            "props": {
+                "crs_id": "EE 44",
+                "name": "Deterministic Analysis of Systems and Circuits",
+                "description": " Introduction to deterministic methods of system analysis, including matrix representations, time-domain analysis using impulse and step responses, signal superposition and convolution, Heaviside operator solutions to systems of linear differential equations, transfer functions, Laplace and Fourier transforms. ",
+                "prerequisites": [
+                    "PH 1",
+                    "MA 2",
+                    "PH 2"
+                ],
+                "cp": [
+                    2250,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "77",
+            "ref": null,
+            "props": {
+                "crs_id": "PH 1",
+                "name": "Classical Mechanics and Electromagnetism.",
+                "description": " introductory classical and modern physics. Topics: Newtonian mechanics/electricity and magnetism, and special relativity/Emphasis on physical insight and problem solving(divided into two tracks: the Practical Track emphasizing practical electricity, and the Analytic Track)",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2250,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "68",
+            "ref": null,
+            "props": {
+                "crs_id": "PH 2",
+                "name": "Waves, Quantum Mechanics, and Statistical Physics",
+                "description": " An introduction to several areas of physics including applications in modern science and engineering. ",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "46",
+            "ref": null,
+            "props": {
+                "crs_id": "CMS/CS/IDS 139",
+                "name": "Analysis and Design of Algorithms",
+                "description": "This course develops core principles for the analysis and design of algorithms. Basic material includes mathematical techniques for analyzing performance in terms of resources, such as time, space, and randomness",
+                "prerequisites": [
+                    "MA 2",
+                    "MA 3",
+                    "MA/CS 6",
+                    "CS 21",
+                    "CS 38"
+                ],
+                "cp": [
+                    1950,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "37",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/ICS 142",
+                "name": "Distributed Computing.",
+                "description": "Programming distributed systems. Mechanics for cooperation among concurrent agents. Programming sensor networks and cloud computing applications.",
+                "prerequisites": [
+                    "CS 24",
+                    "CS 38"
+                ],
+                "cp": [
+                    2250,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "41",
+            "ref": null,
+            "props": {
+                "crs_id": "EE/CNS/CS 148",
+                "name": "Selected Topics in Computer Vision",
+                "description": "focus on an advanced topic in computational vision: recognition, vision-based navigation, 3-D reconstruction. ",
+                "prerequisites": [
+                    "ACM 104",
+                    "CS 1",
+                    "CS 2",
+                    "CNS/Bi/Ph/CS/NB 187"
+                ],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "35",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/SS/EC 149",
+                "name": "Algorithmic Economics",
+                "description": "This course will equip students to engage with active research at the intersection of social and information sciences, including:algorithmic game theory and mechanism design;auctions; matching markets; and learning in games",
+                "prerequisites": [
+                    "CS/IDS 162"
+                ],
+                "cp": [
+                    1650,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "54",
+            "ref": null,
+            "props": {
+                "crs_id": "IDS/ACM/CS 157",
+                "name": "Statistical Inference",
+                "description": "Statistical Inference is a branch of mathematical engineering that studies ways of extracting reliable information from limited data for learning, prediction, and decision making in the presence of uncertainty.",
+                "prerequisites": [
+                    "ACM/EE/IDS 116",
+                    "MA 3"
+                ],
+                "cp": [
+                    1350,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "crs_id": "IDS/ACM/CS 158",
+                "name": "Fundamentals of Statistical Learning",
+                "description": "an interdisciplinary field at the intersection of statistics, machine learning, information and data sciences. The course focuses on the mathematics and statistics of methods developed for learning from data.",
+                "prerequisites": [
+                    "MA 3",
+                    " ACM/EE/IDS 116",
+                    "IDS/ACM/CS 157"
+                ],
+                "cp": [
+                    1650,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "61",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/CNS/EE/IDS 159",
+                "name": "Advanced Topics in Machine Learning",
+                "description": " strong background in statistics, probability theory, algorithms, and linear algebra; background in optimization is a plus as well",
+                "prerequisites": [
+                    "CS/CNS/EE/IDS 165"
+                ],
+                "cp": [
+                    450,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "73",
+            "ref": null,
+            "props": {
+                "crs_id": "EE/CS 161",
+                "name": "Big Data Networks",
+                "description": " (1) How to boost efficiency and reliability in large networks; the role of network coding, distributed storage, and distributed caching; (2) How to manage wireless access on a massive scale; modern random access and topology formation techniques; and (3) New vistas in big data networks, including distributed computing over networks and crowdsourcing. ",
+                "prerequisites": [
+                    "ACM/EE/IDS 116",
+                    "ACM 104"
+                ],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "44",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/IDS 162",
+                "name": "Data, Algorithms and Society",
+                "description": "This course examines algorithms and data practices in fields such as machine learning, privacy, and communication networks through a social lens.",
+                "prerequisites": [
+                    "CS 38",
+                    "CMS/CS/CNS/EE/IDS 155",
+                    "CS/CNS/EE 156"
+                ],
+                "cp": [
+                    1350,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/CNS/EE/IDS 165",
+                "name": "Foundations of Machine Learning and Statistical Inference",
+                "description": "The course assumes students are comfortable with analysis, probability, statistics, and basic programming. This course will cover core concepts in machine learning and statistical inference.",
+                "prerequisites": [
+                    "CMS/ACM/IDS 113",
+                    "ACM/EE/IDS 116",
+                    "CS/CNS/EE 156",
+                    "IDS/ACM/CS 157"
+                ],
+                "cp": [
+                    1050,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "92",
+            "ref": null,
+            "props": {
+                "crs_id": "CMS/ACM/IDS 113",
+                "name": "Mathematical Optimization",
+                "description": "This class studies mathematical optimization from the viewpoint of convexity. Topics covered include duality and representation of convex sets",
+                "prerequisites": [
+                    "ACM 11",
+                    "ACM 104"
+                ],
+                "cp": [
+                    750,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "91",
+            "ref": null,
+            "props": {
+                "crs_id": "ACM 11",
+                "name": "Introduction to Matlab and Mathematica",
+                "description": "Matlab: basic syntax and development environment; debugging; help interface; basic linear algebra; visualization and graphical output; control flow; vectorization; scripts, and functions; file i/o; arrays, structures, and strings; numerical analysis, Mathematica: basic syntax and the notebook interface, calculus and linear algebra operations, numerical and symbolic solution of algebraic and differential equations, manipulation of lists and expressions, Mathematica programming",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "24",
+            "ref": null,
+            "props": {
+                "crs_id": "CS/IDS 178",
+                "name": "Numerical Algorithms and their Implementation",
+                "description": " the understanding necessary to choose and implement basic numerical algorithms as needed in everyday programming practice. Concepts include: sources of numerical error, stability, convergence, ill-conditioning, and efficiency. ",
+                "prerequisites": [
+                    "CS 2"
+                ],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "51",
+            "ref": null,
+            "props": {
+                "crs_id": "CNS/Bi/EE/CS/NB 186",
+                "name": "Vision: From Computational Theory to Neural Mechanisms.",
+                "description": "The course will emphasize an interdisciplinary approach aimed at understanding vision at several levels: computational theory, algorithms, psychophysics, and hardware ",
+                "prerequisites": [
+                    "EE/CNS/CS 148"
+                ],
+                "cp": [
+                    450,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "0": "CS 9",
+        "1": "CS 19",
+        "2": "CS 10",
+        "5": "CS 24",
+        "6": "MA/CS 6",
+        "9": "MA 5",
+        "10": "CS 11",
+        "11": "CS 1",
+        "12": "CS 2",
+        "14": "CS 21",
+        "18": "MA 121",
+        "20": "CS 116",
+        "22": "CNS/Bi/Ph/CS/NB 187",
+        "23": "CS/CNS/EE 156",
+        "24": "CS/IDS 178",
+        "25": "CS 37",
+        "27": "CS 38",
+        "29": "CS/IDS 150",
+        "30": "CS 4",
+        "32": "CS 115",
+        "34": "CMS/CS/CNS/EE/IDS 155",
+        "35": "CS/SS/EC 149",
+        "37": "CS/ICS 142",
+        "40": "CS 131",
+        "41": "EE/CNS/CS 148",
+        "44": "CS/IDS 162",
+        "45": "IDS/ACM/CS 158",
+        "46": "CMS/CS/IDS 139",
+        "47": "MA 1",
+        "48": "CS 117",
+        "50": "CS 111",
+        "51": "CNS/Bi/EE/CS/NB 186",
+        "52": "ACM 104",
+        "53": "CS/CNS/EE/IDS 165",
+        "54": "IDS/ACM/CS 157",
+        "55": "MA 2",
+        "57": "EE/CS/EST 135",
+        "61": "CS/CNS/EE/IDS 159",
+        "67": "EE 44",
+        "68": "PH 2",
+        "73": "EE/CS 161",
+        "74": "ACM/EE/IDS 116",
+        "76": "MA 3",
+        "77": "PH 1",
+        "83": "ME/CS/EE 134",
+        "84": "ME/CS/EE 129",
+        "91": "ACM 11",
+        "92": "CMS/ACM/IDS 113",
+        "94": "ME/CS 132",
+        "95": "ME 115",
+        "96": "ACM 95"
+    }
+}

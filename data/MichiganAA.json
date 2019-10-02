@@ -1,0 +1,983 @@
+{
+    "view_size":[3000, 1800],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 183",
+                "name": "Elementary Programming Concepts",
+                "description": "Fundamental concepts and skills of programming in a high-level language. Flow of control: selection, iteration, subprograms. Data structures: strings, arrays, records, lists, tables. Algorithms using selection and iteration (decision making, finding maxima/minima, searching, sorting, simulation, etc.) Good program design, structure and style are emphasized. Testing and debugging. Not intended for Engineering students (who should take ENGR 101), nor for CS majors in LSA who qualify to enter EECS 280.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "12",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 203",
+                "name": "Discrete Mathematics",
+                "description": "Introduction to the mathematical foundations of computer science. Topics covered include: propositional and predicate logic, set theory, function and relations, growth of functions and asymptotic notation, introduction to algorithms, elementary combinatorics and graph theory and discrete probability theory.",
+                "prerequisites": [
+                    "MATH 116"
+                ],
+                "cp": [
+                    750,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "25",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 280",
+                "name": "Programming and Introductory Data Structures",
+                "description": "Algorithm development and effective programming, top-down analysis, structured programming, testing and program correctness. Program language syntax and static and runtime semantics. Scope, procedure instantiation, recursion, abstract data types and parameter passing methods. Structured data types, pointers, linked data structures, stacks, queues, arrays, records and trees.",
+                "prerequisites": [
+                    "EECS 183"
+                ],
+                "cp": [
+                    1650,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "52",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 281",
+                "name": "Data Structures and Algorithms",
+                "description": "Introduction to algorithm analysis and O-notation; Fundamental data structures including lists, stacks, queues, priority queues, hash tables, binary trees, search trees, balanced trees and graphs; searching and sorting algorithms; recursive algorithms; basic graph algorithms; introduction to greedy algorithms and divide and conquer strategy. Several programming assignments.",
+                "prerequisites": [
+                    "EECS 203",
+                    "EECS 280"
+                ],
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "90",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 301",
+                "name": "Probabilistic Methods in Engineering",
+                "description": "Basic concepts of probability theory. Random variables: discrete, continuous and conditional probability distributions; averages; independence. Statistical inference: hypothesis testing and estimation. Introduction to discrete and continuous random processes.",
+                "prerequisites": [
+                    "EECS 216"
+                ],
+                "cp": [
+                    150,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "20",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 367",
+                "name": "Introduction to Autonomous Robotics",
+                "description": "A computational introduction to the modeling and control of autonomous robots and mobile manipulators.  Programming projects and lectures cover 3D coordinate systems, axis-angle rotation, forward and inverse kinematics, physical simulation and numerical integration, motion control, path planning, high-dimensional motion planning, and robot software systems.  Emphasizes portable programming of general robots.",
+                "prerequisites": [
+                    "EECS 281",
+                    "MATH 214"
+                ],
+                "cp": [
+                    150,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "24",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 370",
+                "name": "Introduction to Computer Organization",
+                "description": "Basic concepts of computer organization and hardware. Instructions executed by a processor and how to use these instructions in simple assembly-language programs. Stored-program concept. Datapath and control for multiple implementations of a processor. Performance evaluation, pipelining, caches, virtual memory, input/output.",
+                "prerequisites": [
+                    "EECS 203",
+                    "EECS 280"
+                ],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "16",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 376",
+                "name": "Foundations of Computer Science",
+                "description": "Introduction to theory of computation.  Models of computation: finite state machines, Turing machines.  Decidable and undecidable problems.  Polynomial time computability and paradigms of algorithm design.  computational complexity emphasizing NP-hardness.  Coping with intractability.  Exploiting intractability:  cryptography.",
+                "prerequisites": [
+                    "EECS 280",
+                    "EECS 203"
+                ],
+                "cp": [
+                    1950,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "54",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 381",
+                "name": "Object Oriented and Advanced Programming",
+                "description": "Programming techniques in Standard C++ for large-scale, complex, or high-performance software. Encapsulation, automatic memory management, exceptions, generic programming with templates and function objects, Standard Library algorithms and containers.  Using single and multiple inheritance and polymorphism for code reuse and extensibility; basic design idioms, patterns, and notation.",
+                "prerequisites": [
+                    "EECS 281",
+                    "EECS 370"
+                ],
+                "cp": [
+                    1350,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "65",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 442",
+                "name": "Computer Vision",
+                "description": "This course is an introduction to 2D and 3D computer vision. topics include: cameras models, the geometry of multiple views; shape reconstruction methods from visual cues: stereo, shading, shadow, contours; low-level image processing methodologies such as edge detection, feature detection; mid-level vision techniques (segmentation and clustering); Basic high-level vision problems: face detection, object and scene recognition, object categorization, and human tracking.",
+                "prerequisites": [
+                    "EECS 281"
+                ],
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "91",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 443",
+                "name": "Senior Thesis",
+                "description": "Students develop and carry out a research plan in collaboration with a sponsoring faculty member. Students present a research proposal to be approved by both the faculty member and the chief program advisor or designate. Students submit and present a thesis to be evaluated by the sponsoring faculty member and second reader. Eligibility is limited to students who have a major GPA of 3.5 or better and are declared CS through LSA.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "21",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 445",
+                "name": "Introduction to Machine Learning",
+                "description": "Theory and implementation of state-of-the-art machine learning algorithms for large-scale real-world applications. Topics include supervised learning (regression, classification, kernel methods, neural networks, and regularization) and unsupervised learning (clustering, density estimation, and dimensionality reduction).",
+                "prerequisites": [
+                    "EECS 281",
+                    "MATH 214"
+                ],
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "30",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 467",
+                "name": "Autonomous Robotics Design Experience",
+                "description": "Software methods and implementation for robot perception, world mapping, and control, using physical robots. Topics include: sensors, sensor processing, control, motion planning, localization and mapping, and forward and inverse kinematics. Multiple team projects, culminating in a major design experience (MDE) project.",
+                "prerequisites": [
+                    "EECS 281",
+                    "MATH 214",
+                    "EECS 367"
+                ],
+                "cp": [
+                    150,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 470",
+                "name": "Computer Architecture",
+                "description": "Topics include out-of-order processors and speculation, memory hierarchies, branch prediction, virtual memory, cache design, multi-processors, and parallel processing including cache coherence and consistency. Emphasis on power and performance trade-offs. Groups design an advanced (e.g. out-of-order, multi-core, SMT) processor using an HDL.",
+                "prerequisites": [
+                    "EECS 370"
+                ],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "56",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 475",
+                "name": "Introduction to Cryptography",
+                "description": "Covers fundamental concepts, algorithms, and protocols in cryptography. Topics: ancient ciphers, Shannon theory, symmetric encryption, public key encryption, hash functions, digital signatures, key distribution. Highlights AES, RSA, Discrete Log, Elliptic Curves. Emphasizes rigorous mathematical study in terms of algorithmic complexity. Includes necessary background from algorithms, probability, number theory and algebra.",
+                "prerequisites": [
+                    "EECS 203",
+                    "EECS 183",
+                    "EECS 376"
+                ],
+                "cp": [
+                    1950,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "35",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 477",
+                "name": "Introduction to Algorithms",
+                "description": "Fundamental techniques for designing efficient algorithms and basic mathematical methods for analyzing their performance. Paradigms for algorithm design: divide-and-conquer, greedy methods, graph search techniques, dynamic programming. Design of efficient data structures and analysis of the running time and space requirements of algorithms in the worst and average cases.",
+                "prerequisites": [
+                    "EECS 281",
+                    "EECS 376"
+                ],
+                "cp": [
+                    1650,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 484",
+                "name": "Database Management Systems",
+                "description": "Concepts and methods for the design, creation, query and management of large enterprise databases. Functions and characteristics of the leading database management systems. Query languages such as SQL, forms, embedded SQL, and application development tools. Database design, integrity, normalization, access methods, query optimization, transaction management and concurrency control and recovery.",
+                "prerequisites": [
+                    "EECS 281"
+                ],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "82",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 486",
+                "name": "Informational Retrieval and Web Search",
+                "description": "Covers background and recent advances in information retrieval (IR): indexing, processing, querying, classifying data.  Basic retrieval models, algorithms, and IR system implementations. Focuses on textual data, but also looks at images/videos, music/audio, and geospatial information. Web search, including Web crawling, link analysis, search engine development, social media, and crowdsourcing.",
+                "prerequisites": [
+                    "EECS 281"
+                ],
+                "cp": [
+                    750,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "93",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 489",
+                "name": "Computer Networks",
+                "description": "Protocols and architectures of computer networks. Topics include client-server computing, socket programming, naming and addressing, media access protocols, routing and transport protocols, flow and congestion control, and other application-specific protocols. Emphasis is placed on understanding protocol design principles. Programming problems to explore design choices and actual implementation issues assigned.",
+                "prerequisites": [
+                    "EECS 482"
+                ],
+                "cp": [
+                    1050,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "92",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 491",
+                "name": "Introduction to Distributed Systems",
+                "description": "Distributed systems offer higher performance, greater fault-tolerance, and better scalability than single-computer systems, but are challenging to develop.  Topics covered:  abstractions for simplifying development of distributed systems, techniques used to implement these abstractions, and case studies on the use of these techniques in real-world systems.",
+                "prerequisites": [
+                    "EECS 482"
+                ],
+                "cp": [
+                    750,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "75",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 492",
+                "name": "Introduction to Artificial Intelligence",
+                "description": "Introduction to the core concepts of AI, organized around building computational agents. Emphasizes the application of AI techniques.  Topics include search, logic, knowledge representation, reasoning, planning, decision making under uncertainty, and machine learning.",
+                "prerequisites": [
+                    "EECS 281"
+                ],
+                "cp": [
+                    1650,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 494",
+                "name": "Computer Game Design and Development",
+                "description": "Concepts and methods for the design and development of computer games. Topics include: history of games, 2D graphics and animation, sprites, 3D animation, binary space partition trees, software engineering, game design, interactive fiction, user interfaces, artificial intelligence, game SDK’s, networking, multi-player games, game development environments, commercialization of software.",
+                "prerequisites": [
+                    "EECS 281"
+                ],
+                "cp": [
+                    150,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "70",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 495",
+                "name": "Software Development for Accessibility",
+                "description": "Emphasizes team-based development of large, complex, software systems using established software development methodology. Systems will incorporate state-of-the-art technology dealing with disability, illness, and accessibility. Real world projects, usually in partnership with hospitals for for specific disabled clients.",
+                "prerequisites": [
+                    "EECS 281"
+                ],
+                "cp": [
+                    150,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "40",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 497",
+                "name": "EECS Major Design Projects",
+                "description": "Professional problem-solving methods developed through intensive group studies. Normally one significant design project is chosen for entire class requiring multiple EECS disciplines and teams. Use of analytic, computer, design, and experimental techniques where applicable are used. Projects are often interdisciplinary allowing non-EECS seniors to also take the course (consult with instructor).",
+                "prerequisites": [
+                    "EECS 281",
+                    "EECS 370"
+                ],
+                "cp": [
+                    150,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 543",
+                "name": "Knowledge-Based Systems",
+                "description": "Techniques and principles for developing application software based on explicit representation and manipulation of domain knowledge, as applied to areas such as pattern matching, problem-solving, automated planning and natural-language processing. Discussion of major programming approaches used in the design and development of knowledge-based systems.",
+                "prerequisites": [
+                    "EECS 281"
+                ],
+                "cp": [
+                    450,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "85",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 545",
+                "name": "Machine Learning",
+                "description": "Survey of recent research on learning in artificial intelligence systems. Topics include learning based on examples, instructions, analogy, discovery, experimentation, observation, problem-solving and explanation. The cognitive aspects of learning will also be studied.",
+                "prerequisites": [
+                    "EECS 492"
+                ],
+                "cp": [
+                    1650,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "76",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 592",
+                "name": "Foundations of Artificial Intelligence",
+                "description": "An advance introduction to AI emphasizing its theoretical underpinnings.  Topics include search, logic, knowledge representation, reasoning planning, decision making under uncertainty, and machine learning.`",
+                "prerequisites": [],
+                "cp": [
+                    1950,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "0",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 115",
+                "name": "Calculus I",
+                "description": "The course presents the concepts of calculus from four points of view: geometric (graphs), numeric (tables), symbolic (formulas), and verbal descriptions. Students will develop their reading, writing, and questioning skills, as well as their ability to work cooperatively. Topics include functions and graphs, derivatives and their applications to real-life problems in various fields, and an introduction to integration.",
+                "prerequisites": [],
+                "cp": [
+                    150,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 116",
+                "name": "Calculus II",
+                "description": "The course presents the concepts of calculus from four points of view: geometric (graphs), numeric (tables), symbolic (formulas), and verbal descriptions. Students will develop their reading, writing and questioning skills, as well as their ability to work cooperatively. Topics include techniques of integration, applications of integration, Taylor series, an introduction to differential equations, and infinite series.",
+                "prerequisites": [
+                    "MATH 115"
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "11",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 214",
+                "name": "Applied Linear Algebra",
+                "description": "This course is an introduction to matrices and linear algebra, with an emphasis on concepts and problem solving. It is particularly designed for students who are planning to take a course in linear programming or computer science.",
+                "prerequisites": [
+                    "MATH 116"
+                ],
+                "cp": [
+                    450,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "0": "MATH 115",
+        "1": "MATH 116",
+        "4": "EECS 470",
+        "5": "EECS 183",
+        "11": "MATH 214",
+        "12": "EECS 203",
+        "16": "EECS 376",
+        "20": "EECS 367",
+        "21": "EECS 445",
+        "24": "EECS 370",
+        "25": "EECS 280",
+        "30": "EECS 467",
+        "35": "EECS 477",
+        "40": "EECS 497",
+        "52": "EECS 281",
+        "54": "EECS 381",
+        "56": "EECS 475",
+        "65": "EECS 442",
+        "70": "EECS 495",
+        "75": "EECS 492",
+        "76": "EECS 592",
+        "80": "EECS 494",
+        "81": "EECS 543",
+        "82": "EECS 486",
+        "83": "EECS 484",
+        "85": "EECS 545",
+        "90": "EECS 301",
+        "91": "EECS 443",
+        "92": "EECS 491",
+        "93": "EECS 489"
+    }
+}

@@ -1,0 +1,1735 @@
+{
+    "view_size":[3000,1800],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "99",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 1",
+                "name": "Great ideas in computer science",
+                "description": "An introduction to the most important discoveries and intellectual paradigms in computer science, designed for students with little or no previous background. Explores problem-solving using high and low-level programming languages",
+                "prerequisites": [
+                    "COMPSCI 1",
+                    "COMPSCI 50"
+                ],
+                "cp": [
+                    2850,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "58",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 10",
+                "name": "Elements of data scinence",
+                "description": "Data science combines data, statistical analysis, and computation to gain insights and make useful inferences and predictions. This course will take a holistic approach to helping students understand the key factors involved, from data collection and exploratory data analysis to modeling, evaluation, and communication of results. ",
+                "prerequisites": [
+                    "COMPSCI 50"
+                ],
+                "cp": [
+                    2550,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "72",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 20",
+                "name": "Discrete mathematics for computer science",
+                "description": "Widely applicable mathematical tools for computer science, including topics from logic, set theory, combinatorics, number theory, probability theory, and graph theory. Practice in reasoning formally and proving theorems.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    750,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "78",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 50",
+                "name": "Introduvtion to computer science",
+                "description": "This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students' choice of",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "75",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 51",
+                "name": "Abstraction and design in computation",
+                "description": "The goal of the course is to give students insight into the difference between programming and programming well. To emphasize the differing approaches to expressing programming solutions, you will learn to program in a variety of paradigms -- including functional, imperative, and object-oriented. Important ideas from software engineering and models of computation will inform these different views of programming.",
+                "prerequisites": [
+                    "COMPSCI 50"
+                ],
+                "cp": [
+                    1650,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "97",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 61",
+                "name": "Systems programming and machine organization",
+                "description": "This course provides a solid background in systems programming and a deep understanding of low-level machine organization and design. Topics include C and assembly language programming, program optimization, memory hierarchy and caching, virtual memory and dynamic memory management, concurrency, threads, and synchronization.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2250,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "26",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 91R",
+                "name": "Supervised reading and reaserch",
+                "description": "Supervised individual study of advanced topics in computer science",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1950,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "89",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 100",
+                "name": "CS+X: Software enginnering in the arts and humanities",
+                "description": "Introduction to applications of computer science (including web technologies, visualization, and database design) to domains in the arts and humanities. Emphasis on principles of software engineering and best practices, including code reviews, source control, and testing. ",
+                "prerequisites": [
+                    "COMPSCI 50"
+                ],
+                "cp": [
+                    2850,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 105",
+                "name": "privacy and technology",
+                "description": "This course critically examines popular concepts of privacy and uses a rigorous analysis of technologies to understand the policy and ethical issues at play.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "59",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 109A",
+                "name": "Data science 1: introduction to data science",
+                "description": "The course will focus on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. Material covered will integrate the five key facets of an investigation using data",
+                "prerequisites": [
+                    "COMPSCI 50",
+                    "STAT 100",
+                    "COMPSCI 10"
+                ],
+                "cp": [
+                    2850,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "79",
+            "ref": null,
+            "props": {
+                "crs_id": "STAT 100",
+                "name": "Statistics",
+                "description": "introduces the basic concepts of statistical inference, with an emphasis on data analysis and visualization instead of theory",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2850,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "48",
+            "ref": null,
+            "props": {
+                "crs_id": "STAT 110",
+                "name": "Introduction to Probability",
+                "description": "This course will give you tools needed to understand data, science, philosophy, engineering, economics, and finance. You will learn not only how to solve challenging technical problems, but also how you can apply those solutions in everyday life.",
+                "prerequisites": [
+                    "MATH 1b"
+                ],
+                "cp": [
+                    2550,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "18",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 1b",
+                "name": "Calculus, Series, and Differential Equations",
+                "description": "Speaking the language of modern mathematics requires fluency with the topics of this course: infinite series, integration, and differential equations.",
+                "prerequisites": [
+                    "MATH 1a"
+                ],
+                "cp": [
+                    2550,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "19",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 1a",
+                "name": "Introduction to Functions and Calculus I",
+                "description": "To gain an appreciation of the conceptual structure of functions and calculus.To acquire a foundation of mathematical concepts needed in the natural and social sciences and to see how mathematics is influential in other disciplines.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2850,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "49",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 109B",
+                "name": "Data science 1: Advanced topics in data science",
+                "description": "he course introduces advanced methods for data wrangling, data visualization, and statistical modeling and prediction. Topics include big data and database management, interactive visualizations, nonlinear statistical models, and deep learning.",
+                "prerequisites": [
+                    "COMPSCI  109A"
+                ],
+                "cp": [
+                    2850,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "73",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 121",
+                "name": "Introduvtion to theoritical computer science",
+                "description": "Computation occurs over a variety of substrates including silicon, neurons, DNA, the stock market, bee colonies and many others. In this course we will study the fundamental capabilities and limitations of computation, including the phenomenon of universality and the duality of code and data.",
+                "prerequisites": [
+                    "COMPSCI 20"
+                ],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "64",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 124",
+                "name": "Data structures and algorithms",
+                "description": "Design and analysis of efficient algorithms and data structures. Algorithm design methods, graph algorithms, approximation algorithms, and randomized algorithms are covered.",
+                "prerequisites": [
+                    "COMPSCI  50",
+                    "COMPSCI 51"
+                ],
+                "cp": [
+                    1350,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "0",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 126",
+                "name": "Fairness and privacy: perspectives of law and probability",
+                "description": "Students will learn to analyze and mitigate privacy loss, unfairness, and lack of statistical validity, in data analysis. Principal techniques will come from cryptography, differential privacy, and the newly emerging areas of adaptive data analysis and fairness in machine learning.",
+                "prerequisites": [
+                    "COMPSCI 105"
+                ],
+                "cp": [
+                    150,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "63",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 127",
+                "name": "cryptography",
+                "description": "It is now about much more than 'secret writing' and includes seemingly paradoxical notions such as communicating securely without a shared secret, and computing on encrypted data",
+                "prerequisites": [
+                    "COMPSCI 121",
+                    "COMPSCI 124"
+                ],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "39",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 134",
+                "name": "networks",
+                "description": "This course introduces models and algorithms that help us understand networks. Fundamental concepts from applied mathematics, microeconomics, and computer science will be presented through the lens of network science, in order to equip students to usefully analyze the “big data” generated by online networks. ",
+                "prerequisites": [
+                    "AM 21a,b",
+                    "STAT 110"
+                ],
+                "cp": [
+                    2850,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "16",
+            "ref": null,
+            "props": {
+                "crs_id": "AM 21a,b",
+                "name": "Math Methods In Sciences",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1950,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 136",
+                "name": "economics and computation",
+                "description": "The interplay between economic thinking and computational thinking as it relates to electronic commerce, social networks, collective intelligence and networked systems. ",
+                "prerequisites": [
+                    "MATH 21b",
+                    "COMPSC 51",
+                    "STAT 110",
+                    "COMPSC 181",
+                    "COMPSC 182",
+                    "ECON 1011a",
+                    "ECON 1052",
+                    "ECON 1056"
+                ],
+                "cp": [
+                    1650,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 21b",
+                "name": "Linear Algebra and Differential Equations",
+                "description": "Matrices provide the algebraic structure for solving myriad problems across the sciences. We study matrices and related topics such as linear transformations and linear spaces, determinants, eigenvalues, and eigenvectors.",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "STAT 110",
+                    "MATH 21a",
+                    "MATH 21b"
+                ],
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "25",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSC 181",
+                "name": "Machine Learning",
+                "description": "supervised learning, ensemble methods and boosting, neural networks, support vector machines, kernel methods, clustering and unsupervised learning, maximum likelihood, graphical models, hidden Markov models, inference methods, and computational learning theory. Students should feel comfortable with multivariate calculus, linear algebra, probability theory, and complexity theory. ",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "STAT 110",
+                    "MATH 21a",
+                    "MATH 21b",
+                    "COMPSCI 281"
+                ],
+                "cp": [
+                    1650,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "56",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSC 182",
+                "name": "Artifical Intelligence",
+                "description": "three core sections: search, representation, and uncertainty. In each section, it will provide a thorough understanding of major approaches, representational techniques and core algorithms. ",
+                "prerequisites": [
+                    "COMPSCI 51",
+                    "STAT 110"
+                ],
+                "cp": [
+                    1950,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "crs_id": "ECON 1011a",
+                "name": "Intermediate Microeconomics: Advanced",
+                "description": "The course teaches the basic tools of economics and to apply them to a wide range of human behavior. ",
+                "prerequisites": [
+                    "MATH 21a"
+                ],
+                "cp": [
+                    2250,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "8",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 21a",
+                "name": "Multivariable Calculus",
+                "description": "Vectors, lines, planes, parameterization of curves and surfaces, partial derivatives, directional derivatives and the gradient, optimization and critical point analysis, including constrained optimization and the Method of Lagrange Multipliers, integration over curves, surfaces and solid regions using Cartesian, polar, cylindrical, and spherical coordinates, divergence and curl of vector fields, and the Green's, Stokes's, and Divergence Theorems.",
+                "prerequisites": [
+                    "MATH 1b"
+                ],
+                "cp": [
+                    2550,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "37",
+            "ref": null,
+            "props": {
+                "crs_id": "ECON 1052",
+                "name": "Game Theory and Economic Applications",
+                "description": "It deals with situations in which multiple people must make interdependent decisions, such as chess, poker, bargaining, oligopoly pricing, and warfare.  ",
+                "prerequisites": [
+                    "MATH 21a"
+                ],
+                "cp": [
+                    2250,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "34",
+            "ref": null,
+            "props": {
+                "crs_id": "ECON 1056",
+                "name": "Market Design",
+                "description": " Key topics include auctions, labor market matching, school choice programs, online markets, organ exchange systems, financial market design, and matching with contracts",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1350,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "93",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 141",
+                "name": "computing hardware",
+                "description": "This course introduces fundamentals in designing and building modern information devices and systems that interface with the real world. It focuses on digital devices and systems",
+                "prerequisites": [
+                    "COMPSC 50"
+                ],
+                "cp": [
+                    1050,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "54",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 143",
+                "name": "computing networks",
+                "description": "Computer networking has enabled the emergence of mobile and cloud computing, creating two of the most important technological breakthroughs in computing of the past decade.  ",
+                "prerequisites": [
+                    "COMPSC 50"
+                ],
+                "cp": [
+                    1350,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "44",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 145",
+                "name": "cloud netwoking and computing",
+                "description": "we will take a look inside the cloud infrastructure and learn critical technology trends and challenges in the networking and computing layers.",
+                "prerequisites": [
+                    "COMPSC 61",
+                    "COMPSC 143"
+                ],
+                "cp": [
+                    1350,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 146",
+                "name": "computer architecture",
+                "description": "Topics include computer organization, memory system design, pipelining, and other techniques to exploit parallelism. Emphasis on a quantitative evaluation of design alternatives and an understanding of timing issues.",
+                "prerequisites": [
+                    "COMPSC 61",
+                    "COMPSCI 153"
+                ],
+                "cp": [
+                    450,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 148",
+                "name": "design of vlsi circuits and systems",
+                "description": "Presentation of concepts and techniques for the design and fabrication of VLSI systems and digital MOS integrated circuits",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "COMPSC 121"
+                ],
+                "cp": [
+                    1350,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "90",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 152",
+                "name": "programming languages",
+                "description": "Comprehensive introduction to the principal features and overall design of both traditional and modern programming languages, including syntax, formal semantics, abstraction mechanisms, modularity, type systems, naming, polymorphism, closures, continuations, and concurrency. ",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "COMPSC 121"
+                ],
+                "cp": [
+                    150,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "91",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 153",
+                "name": "compilers",
+                "description": "Implementation of efficient interpreters and compilers for programming languages. Associated algorithms and pragmatic issues. Emphasizes practical applications including those outside of programming languages proper. ",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "COMPSC 61",
+                    "COMPSCI 152"
+                ],
+                "cp": [
+                    450,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 161",
+                "name": "operating systems",
+                "description": "This course focuses on the design and implementation of modern operating systems. The course discusses threads, processes, virtual memory, schedulers, and the other fundamental primitives that an OS uses to represent active computations.",
+                "prerequisites": [
+                    "COMPSC 61"
+                ],
+                "cp": [
+                    1950,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "41",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 165",
+                "name": "data systems",
+                "description": "This course is a comprehensive introduction to modern data systems/ We are going through major transformations in businesses, sciences, as well as everyday life - collecting and analyzing data changes everything and data systems provide the means to store and analyze a massive amount of data. ",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "COMPSC 61"
+                ],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "9",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 171",
+                "name": "visualization",
+                "description": "An introduction to key design principles and techniques for visualizing data. Covers design practices, data and image models, visual perception, interaction principles, visualization tools, and applications. Introduces programming of web-based interactive visualizations.",
+                "prerequisites": [
+                    "COMPSC 50"
+                ],
+                "cp": [
+                    2850,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 175",
+                "name": "computer graphics",
+                "description": "This course covers the fundamentals of 3D computer graphics using a modern shader-based version of OpenGL/ Main topics include: geometric coordinate systems and transformations, keyframe animation and interpolation, camera simulation, triangle rasterization, material simulation, texture mapping, image sampling and color theory.",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "COMPSC 61",
+                    "APMTH 22a",
+                    "MATH 21b"
+                ],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "29",
+            "ref": null,
+            "props": {
+                "crs_id": "AM 22a",
+                "name": "Solving and Optimizing",
+                "description": "This course covers a combination of linear algebra and multivariate calculus with an eye towards solving systems of equations and optimization problems. ",
+                "prerequisites": [
+                    "MATH 1b"
+                ],
+                "cp": [
+                    2850,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "31",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 179",
+                "name": "design of useful and usable interactive systems",
+                "description": "The course covers skills and techniques necessary to design innovative interactive products that are useful, usable and that address important needs of people other than yourself",
+                "prerequisites": [
+                    "COMPSCI 165"
+                ],
+                "cp": [
+                    450,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "95",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 189",
+                "name": "autonomous robot systems",
+                "description": "Building autonomous robotic systems requires understanding how to make robots that observe, reason, and act.  Each component uses many engineering principles",
+                "prerequisites": [
+                    "COMPSC 51",
+                    "COMPSC 61",
+                    "COMPSCI 161"
+                ],
+                "cp": [
+                    1650,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "67",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 205",
+                "name": "computing foundations for computational science",
+                "description": "Computational science has become a third partner, together with theory and experimentation, in advancing scientific knowledge and practice, and an essential tool for product and process development and manufacturing in industry.",
+                "prerequisites": [
+                    "COMPSCI 50",
+                    "COMPSCI 61",
+                    "COMPSCI 207"
+                ],
+                "cp": [
+                    2250,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "57",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 207",
+                "name": "systems development for computational science",
+                "description": "This is a project-based course emphasizing designing, building, testing, maintaining and modifying software for scientific computing.",
+                "prerequisites": [
+                    "COMPSCI 50"
+                ],
+                "cp": [
+                    2250,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "51",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 223",
+                "name": "probabilitic analysis and algorithm",
+                "description": "Probabilistic techniques and tools for the design and analysis of algorithms. Designed for all first-year graduate students in all areas.",
+                "prerequisites": [
+                    "COMPSC 226r",
+                    "STAT 110",
+                    "MATH 191",
+                    "COMPSCI 124"
+                ],
+                "cp": [
+                    450,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "61",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSC 226r",
+                "name": "Efficient Algorithms",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "42",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 227R",
+                "name": "topics in cryptography",
+                "description": "Topics in cryptography and data privacy drawn from the theoretical computer science research literature.  Focus for 2019-2020: Algorithmic Fairness and Statistical Validity in Adaptive (Exploratory) Data Analysis.",
+                "prerequisites": [
+                    "COMPSCI 124",
+                    "COMPSCI 127"
+                ],
+                "cp": [
+                    750,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "62",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 228",
+                "name": "computational learning theory",
+                "description": "Possibilities of and limitations to performing learning by a computational process. Computationally feasible generalization and its limits.",
+                "prerequisites": [
+                    "COMPSCI 121"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "43",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 229R",
+                "name": "topics in theoretical computer science: essential coding theory",
+                "description": "Introduces essential elements the theory of error-correcting codes. Focuses on the basic results in the area, taught from first principles. Special focus will be given on results of asymptotic or algorithmic significance.",
+                "prerequisites": [
+                    "COMPSCI 121",
+                    "COMPSCI 124",
+                    "COMPSCI 125"
+                ],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "14",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 236R",
+                "name": "topics at the interface between computer science and economics",
+                "description": "Interplay between computation and economics. Topics in electronic commerce, computational social choice, computational mechanism design, peer production, prediction markets and reputation systems. ",
+                "prerequisites": [
+                    "MATH 21b",
+                    "AM 21a,b",
+                    "ECON 1011a"
+                ],
+                "cp": [
+                    1350,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 243",
+                "name": "advanced computer networks",
+                "description": "This is a graduate-level course on computer networks. It provides a comprehensive overview of advanced topics in network protocols and networked systems. The course will cover both classic papers on computer networks and recent research results",
+                "prerequisites": [
+                    "COMPSCI 61",
+                    "COMPSCI 143",
+                    "COMPSCI 145"
+                ],
+                "cp": [
+                    1650,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 246",
+                "name": "advanced computer architecture",
+                "description": "The contents and course requirements are similar to those of Computer Science 146, with the exception that students enrolled in Computer Science 246 are expected to undertake a substantial course project.",
+                "prerequisites": [
+                    "COMPSCI 141"
+                ],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "82",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 247R",
+                "name": "advanced topics in computer architecture",
+                "description": "Seminar course exploring recent research in computer architecture. Topics vary from year to year and will include subjects such as multi-core architectures, energy-efficient computing, reliable computing, and the interactions of these issues with system software",
+                "prerequisites": [
+                    "COMPSCI 146",
+                    "COMPSCI 246"
+                ],
+                "cp": [
+                    750,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "84",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 248",
+                "name": "advanced design of vlsi circuits and systems",
+                "description": "The contents and course requirements are similar to those of Computer Science 148, with the exception that students enrolled in Computer Science 248 are expected to do a substantial design project and paper discussions on advanced topics.",
+                "prerequisites": [
+                    "COMPSCI 141",
+                    "COMPSCI 148"
+                ],
+                "cp": [
+                    1350,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "85",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 249R",
+                "name": "special topics in edge computing: autonomous machines",
+                "description": "The course covers a range of emerging research topics in edge computing. The Fall 2019 course focuses on computing systems for autonomous machines (drones, cars, etc.)",
+                "prerequisites": [
+                    "COMPSCI 148"
+                ],
+                "cp": [
+                    1650,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 252R",
+                "name": "advanced topics in programming languages",
+                "description": "Seminar course exploring recent research in programming languages. Topics vary from year to year. Students read and present research papers, undertake a research project.",
+                "prerequisites": [
+                    "COMPSCI 152"
+                ],
+                "cp": [
+                    150,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "86",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 263",
+                "name": "systems security",
+                "description": "This course explores practical attacks on modern computer systems, explaining how those attacks can be mitigated using careful system design and the judicious application of cryptography",
+                "prerequisites": [
+                    "COMPSCI 161"
+                ],
+                "cp": [
+                    1950,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "32",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 265",
+                "name": "big data systems",
+                "description": "A fundamental goal across numerous modern businesses and sciences is to be able to utilize as many machines as possible, to consume as much information as possible and as fast as possible",
+                "prerequisites": [
+                    "COMPSCI 165"
+                ],
+                "cp": [
+                    750,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "21",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 279R",
+                "name": "research topics in human-computer interaction",
+                "description": "We’ll focus on making communication with computers more accessible: easier, faster, and safer. ",
+                "prerequisites": [
+                    "COMPSCI 179"
+                ],
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "74",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 280R",
+                "name": "CURRICULAR DESIGN FOR COMPUTER SCIENCE: COMPUTATIONAL LINGUISTICS AND NATURAL-LANGUAGE PROCESSING",
+                "description": "the target course will be an undergraduate course in computational linguistics, the study of human language using the tools and techniques of computer science, and the technological applications thereof",
+                "prerequisites": [
+                    "COMPSCI 51",
+                    "COMPSCI 121"
+                ],
+                "cp": [
+                    1350,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "24",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 281",
+                "name": "advance machine learning",
+                "description": "Topics include: Bayesian modeling, probabilistic graphical models, latent variables and unsupervised learning, deep learning, time series models, variational inference, and sampling. ",
+                "prerequisites": [
+                    "COMPSCI 181",
+                    "COMPSCI 282R",
+                    "COMPSCI 282BR"
+                ],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "23",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 282R",
+                "name": "TOPICS IN MACHINE LEARNING: BATCH REINFORCEMENT LEARNING",
+                "description": "This course will take a deep dive into batch reinforcement learning, with a focus on healthcare applications.  Sequential decision making is at the core of many healthcare problems",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1050,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "33",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 282BR",
+                "name": "TOPICS IN MACHINE LEARNING: INTERPRETABILITY AND EXPLAINABILITY",
+                "description": "This graduate level course aims to familiarize students with the recent advances in the emerging field of explainable ML/ The course will also emphasize on various applications which can immensely benefit from model interpretability including medical imaging and judicial decision making.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1050,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "17",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 283",
+                "name": "Computer vision",
+                "description": "Vision as an ill-posed inverse problem: image formation, two-dimensional signal processing; feature analysis; image segmentation; color, texture, and shading; multiple-view geometry; object and scene recognition; and applications.",
+                "prerequisites": [
+                    "COMPSCI 171",
+                    "COMPSCI 91R",
+                    "MATH 1b"
+                ],
+                "cp": [
+                    2250,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "10",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 289",
+                "name": "BIOLOGICALLY-INSPIRED MULTI-AGENT SYSTEMS",
+                "description": "Surveys biologically-inspired approaches to designing distributed systems. Focus is on biological models, algorithms, and programming paradigms for self-organization",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "98",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 299R",
+                "name": "special topics in computer science",
+                "description": "Supervision of experimental or theoretical research on acceptable computer science problems and supervision of reading on topics not covered by regular courses of instruction.",
+                "prerequisites": [
+                    "COMPSCI 1"
+                ],
+                "cp": [
+                    2550,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "0": "COMPSCI 126",
+        "1": "COMPSCI 105",
+        "4": "COMPSCI 175",
+        "5": "MATH 21b",
+        "8": "MATH 21a",
+        "9": "COMPSCI 171",
+        "10": "COMPSCI 289",
+        "14": "COMPSCI 236R",
+        "16": "AM 21a,b",
+        "17": "COMPSCI 283",
+        "18": "MATH 1b",
+        "19": "MATH 1a",
+        "20": "COMPSCI 242",
+        "21": "COMPSCI 279R",
+        "23": "COMPSCI 282R",
+        "24": "COMPSCI 281",
+        "25": "COMPSC 181",
+        "26": "COMPSCI 91R",
+        "27": "ECON 1011a",
+        "29": "AM 22a",
+        "31": "COMPSCI 179",
+        "32": "COMPSCI 265",
+        "33": "COMPSCI 282BR",
+        "34": "ECON 1056",
+        "37": "ECON 1052",
+        "39": "COMPSCI 134",
+        "41": "COMPSCI 165",
+        "42": "COMPSCI 227R",
+        "43": "COMPSCI 229R",
+        "44": "COMPSCI 145",
+        "45": "COMPSCI 136",
+        "48": "STAT 110",
+        "49": "COMPSCI 109B",
+        "51": "COMPSCI 223",
+        "54": "COMPSCI 143",
+        "55": "COMPSCI 243",
+        "56": "COMPSC 182",
+        "57": "COMPSCI 207",
+        "58": "COMPSCI 10",
+        "59": "COMPSCI 109A",
+        "61": "COMPSC 226r",
+        "62": "COMPSCI 228",
+        "63": "COMPSCI 127",
+        "64": "COMPSCI 124",
+        "67": "COMPSCI 205",
+        "72": "COMPSCI 20",
+        "73": "COMPSCI 121",
+        "74": "COMPSCI 280R",
+        "75": "COMPSCI 51",
+        "78": "COMPSCI 50",
+        "79": "STAT 100",
+        "80": "COMPSCI 252R",
+        "81": "COMPSCI 146",
+        "82": "COMPSCI 247R",
+        "83": "COMPSCI 246",
+        "84": "COMPSCI 248",
+        "85": "COMPSCI 249R",
+        "86": "COMPSCI 263",
+        "89": "COMPSCI 100",
+        "90": "COMPSCI 152",
+        "91": "COMPSCI 153",
+        "93": "COMPSCI 141",
+        "94": "COMPSCI 148",
+        "95": "COMPSCI 189",
+        "96": "COMPSCI 161",
+        "97": "COMPSCI 61",
+        "98": "COMPSCI 299R",
+        "99": "COMPSCI 1"
+    }
+}

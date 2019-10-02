@@ -1,0 +1,1161 @@
+{
+    "view_size": [
+        3000,
+        1800
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "21",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 188",
+                "name": "Intoduction to Artificial Intelligence",
+                "description": "Ideas and techniques underlying the design of intelligent computer systems. Topics include search, game playing, knowledge representation, inference, planning, reasoning under uncertainty, machine learning, robotics, perception, and language understanding.",
+                "prerequisites": [
+                    "COMPSCI 61A",
+                    "COMPSCI 61B",
+                    "COMPSCI 70"
+                ],
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 61A",
+                "name": "The Structure and Interpretation of Computer Programs",
+                "description": "This course exposes students to techniques of abstraction at several levels: (a) within a programming language, using higher-order functions, manifest types, data-directed programming, and message-passing; (b) between programming languages, using functional and rule-based languages as examples. It also relates these techniques to the practical problems of implementation of languages and algorithms on a von Neumann machine. There are several significant programming projects.",
+                "prerequisites": [
+                    "MATH 1A"
+                ],
+                "cp": [
+                    150,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 1A",
+                "name": "Calculus",
+                "description": "This sequence is intended for majors in engineering and the physical sciences. An introduction to differential and integral calculus of functions of one variable, with applications and an introduction to transcendental functions.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "62",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 61B",
+                "name": "Data Strictures",
+                "description": "Fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language.",
+                "prerequisites": [
+                    "COMPSCI 61A",
+                    "COMPSCI 88",
+                    "ENGIN 7"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "61",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 88",
+                "name": "Computational Structures in Data Science",
+                "description": "Understanding the structures that underlie the programs, algorithms, and languages used in data science and elsewhere. Mastery of a particular programming language while studying general techniques for managing program complexity, e.g., functional, object-oriented, and declarative programming.",
+                "prerequisites": [
+                    "COMPSCI C8"
+                ],
+                "cp": [
+                    450,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "60",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI C8",
+                "name": "Foundation of Data Sciecne",
+                "description": " The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social and legal issues surrounding data analysis, including issues of privacy and data ownership.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "72",
+            "ref": null,
+            "props": {
+                "crs_id": "ENGIN 7",
+                "name": "Introduction to Computer Programming for Scientists and Engineers",
+                "description": "Elements of procedural and object-oriented programming. Induction, iteration, and recursion. Real functions and floating-point computations for engineering analysis. Introduction to data structures./Use MATLAB programming",
+                "prerequisites": [
+                    "MATH 1A"
+                ],
+                "cp": [
+                    750,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "crs_id": "COMPSCI 70",
+                "name": "Discrete Mathematics and Probability Theory",
+                "description": "Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "86",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 189",
+                "name": "Introduction to Machine Learning",
+                "description": "Theoretical foundations, algorithms, methodologies, and applications for machine learning. Topics may include supervised methods for regression and classication (linear models, trees, neural networks, ensemble methods, instance-based methods); generative and discriminative probabilistic models; Bayesian parametric learning; density estimation and clustering; Bayesian networks; time series models; dimensionality reduction; programming projects covering a variety of real-world applications.",
+                "prerequisites": [
+                    "MATH 53",
+                    "MATH 54",
+                    "COMPSCI 70"
+                ],
+                "cp": [
+                    1950,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "84",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 53",
+                "name": "Multivariable Calculus",
+                "description": "Parametric equations and polar coordinates. Vectors in 2- and 3-dimensional Euclidean spaces. Partial derivatives. Multiple integrals. Vector calculus. Theorems of Green, Gauss, and Stokes.",
+                "prerequisites": [
+                    "MATH 1A"
+                ],
+                "cp": [
+                    1350,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "97",
+            "ref": null,
+            "props": {
+                "crs_id": "MAHT 54",
+                "name": "Linear Algebra and Differential Equations",
+                "description": "Basic linear algebra; matrix arithmetic and determinants. Vector spaces; inner product as spaces. Eigenvalues and eigenvectors; linear transformations. Homogeneous ordinary differential equations; first-order differential equations with constant coefficients. Fourier series and partial differential equations.",
+                "prerequisites": [
+                    "MAHT 1A",
+                    "MATH  10B, N10B"
+                ],
+                "cp": [
+                    2250,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH  10B, N10B",
+                "name": "Methods of Mathematics: Calculus, Statistics, and Combinatorics",
+                "description": "Elementary combinatorics and discrete probability theory. Introduction to graphs, matrix algebra, linear equations, difference equations, and differential equations.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1950,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "24",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 127",
+                "name": "Optimization Models in Engineering",
+                "description": "The course covers two main topics: practical linear algebra and convex optimization/ This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization",
+                "prerequisites": [
+                    "EECS 16A",
+                    "EECS 16B"
+                ],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "43",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 16A",
+                "name": "Designing Information Devices and Systems 1",
+                "description": " this course sequence provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design while introducing key linear-algebraic concepts motivated by application contexts.",
+                "prerequisites": [
+                    "MATH 1A",
+                    "COMPSCI 61A"
+                ],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "34",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 16B",
+                "name": "Designing Information Devices and Systems 2",
+                "description": "The courses are delivered assuming mathematical maturity and aptitude at roughly the level of having completed Math 1A-1B, and are aimed at entering students as well as non-majors seeking a broad introduction to the field",
+                "prerequisites": [
+                    "EECS 16A"
+                ],
+                "cp": [
+                    1350,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "30",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 126",
+                "name": "Probability and Random Processes",
+                "description": "This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains.",
+                "prerequisites": [
+                    "COMPSCI 70"
+                ],
+                "cp": [
+                    150,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "2",
+            "ref": null,
+            "props": {
+                "crs_id": "CogSci 131",
+                "name": "Computational Models of Cognition",
+                "description": "This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance",
+                "prerequisites": [
+                    "MATH 1A",
+                    "COMPSCI 70",
+                    "CS 1"
+                ],
+                "cp": [
+                    750,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "3",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 1",
+                "name": "Introduction to Cognitive Science",
+                "description": "This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research from artificial intelligence, pyschology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the major methodologies.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1050,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "crs_id": "EE 106B/206B",
+                "name": "Robotic Manipulation and Interaction",
+                "description": "This course is an introduction to the field of robotics, focusing on dynamics and grasping and manipulation. It covers the fundamentals of kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing",
+                "prerequisites": [
+                    "CS 294-115"
+                ],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "25",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS C106A",
+                "name": "Introduction to Robotics",
+                "description": " An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control.",
+                "prerequisites": [
+                    "ENG 120"
+                ],
+                "cp": [
+                    1650,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "35",
+            "ref": null,
+            "props": {
+                "crs_id": "ENG 120",
+                "name": "Signal and Systems ",
+                "description": " Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction.",
+                "prerequisites": [
+                    "EECS 16A",
+                    "EECS 16B"
+                ],
+                "cp": [
+                    1650,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "88",
+            "ref": null,
+            "props": {
+                "crs_id": "EE 227C",
+                "name": "Convex Optimization and Approximation",
+                "description": "Approximations of combinatorial optimization problems, of stochastic programming problems, of robust optimization problems (i.e., with optimization problems with unknown but bounded data), of optimal control problems. Quality estimates of the resulting approximation. ",
+                "prerequisites": [
+                    "EE 227A"
+                ],
+                "cp": [
+                    2550,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "98",
+            "ref": null,
+            "props": {
+                "crs_id": "EE 227A",
+                "name": "Introduction to Convex Optimization",
+                "description": "Convex optimization is a class of nonlinear optimization problems where the objective to be minimized, and the constraints, are both convex. Contrarily to the more classical linear programming framework, convex programs often go unrecognized, and this is a pity since a large class of convex optimization problems can now be efficiently solved.",
+                "prerequisites": [
+                    "MAHT 54",
+                    "STATISTICS 2"
+                ],
+                "cp": [
+                    2550,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "99",
+            "ref": null,
+            "props": {
+                "crs_id": "STATISTICS 2",
+                "name": "Introduction to Statistics",
+                "description": "Population and variables. Standard measures of location, spread and association. Normal approximation. Regression. Probability and sampling. Binomial distribution. Interval estimation. Some standard significance tests",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2850,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "95",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 54",
+                "name": "Linear Algebra and Differential Equations",
+                "description": "Basic linear algebra; matrix arithmetic and determinants. Vector spaces; inner product as spaces. Eigenvalues and eigenvectors; linear transformations. Homogeneous ordinary differential equations; first-order differential equations with constant coefficients. Fourier series and partial differential equations.",
+                "prerequisites": [
+                    "MATH 1A",
+                    "MATH  10B, N10B"
+                ],
+                "cp": [
+                    1650,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "77",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 294-131",
+                "name": "Special Topics in Deep Learning",
+                "description": "This class is designed to help students develop a deeper understanding of deep learning and explore new research directions and applications of deep learning. It assumes that students already have a basic understanding of deep learning. In particular, we will explore a selected list of new, cutting-edge topics in deep learning:",
+                "prerequisites": [
+                    "CS 189"
+                ],
+                "cp": [
+                    2250,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 294-127",
+                "name": "Computational Imaging",
+                "description": "Topics will vary from semester to semester. See Computer Science Division announcements.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1650,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "56",
+            "ref": null,
+            "props": {
+                "crs_id": "VIS SCI 265",
+                "name": "Neural Computation",
+                "description": "The goal is to familiarize students with the major theoretical frameworks and models used in neuroscience and psychology, and to provide hands-on experience in using these models. Topics include neural network models, supervised and unsupervised learning rules, associative memory models, probabilistic/graphical models, and models of neural coding in the brain.",
+                "prerequisites": [
+                    "MATH 1A",
+                    "MATH 54",
+                    "STATISTICS 2"
+                ],
+                "cp": [
+                    1950,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 194-26",
+                "name": "Image Manipulation and Computational Photography",
+                "description": "Topics will vary semester to semester. See the Computer Science Division announcements.",
+                "prerequisites": [
+                    "MATH 54",
+                    "EECS 16A",
+                    "EECS 16B"
+                ],
+                "cp": [
+                    1650,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "76",
+            "ref": null,
+            "props": {
+                "crs_id": "EECS 281A",
+                "name": "Statistical machine learning",
+                "description": "This course is a 3-unit course that provides an introduction to the area of probabilistic models based on graphs. These graphical models provide a very flexible and powerful framework for capturing statistical dependencies in complex, multivariate data. Key issues to be addressed include representation, efficient algorithms, inference, and statistical estimation. These concepts will be illustrated using examples drawn from various application domains, including machine learning, signal processing, communication theory, computational biology, computer vision, etc.",
+                "prerequisites": [
+                    "MATH 1A",
+                    "MATH 54",
+                    "STATISTICS 2"
+                ],
+                "cp": [
+                    1950,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "54",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 280",
+                "name": "Computer Vision",
+                "description": "Paradigms for computational vision. Relation to human visual perception. Mathematical techniques for representing and reasoning, with curves, surfaces and volumes. Illumination and reflectance models. Color perception. Image segmentation and aggregation. Methods for bottom-up three dimensional shape recovery: Line drawing analysis, stereo, shading, motion, texture. Use of object models for prediction and recognition.",
+                "prerequisites": [
+                    "MATH 1A",
+                    "MATH 53",
+                    "MATH 54"
+                ],
+                "cp": [
+                    1350,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "89",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 281A",
+                "name": "Statistical Learning Theory",
+                "description": "Classification regression, clustering, dimensionality, reduction, and density estimation. Mixture models, hierarchical models, factorial models, hidden Markov, and state space models, Markov properties, and recursive algorithms for general probabilistic inference nonparametric methods including decision trees, kernal methods, neural networks, and wavelets",
+                "prerequisites": [
+                    "STATISTICS 2"
+                ],
+                "cp": [
+                    2850,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "79",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 281B",
+                "name": "Advances Topics in Learning and Decision Making ",
+                "description": "Graphical models and approximate inference algorithms. Markov chain Monte Carlo, mean field and probability propagation methods. Model selection and stochastic realization. Bayesian information theoretic and structural risk minimization approaches. Markov decision processes and partially observable Markov decision processes",
+                "prerequisites": [
+                    "CS 281A"
+                ],
+                "cp": [
+                    2850,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 287",
+                "name": "Advanced Robotics",
+                "description": " Planning and control issues for realistic robot systems, taking into account: dynamic constraints, control and sensing uncertainty, and non-holonomic motion constraints. Analysis of friction for assembly and grasping tasks. Sensing systems for hands including tactile and force sensing. Environmental perception from sparse sensors for dextrous hands. Grasp planning and manipulation.",
+                "prerequisites": [
+                    "EE 106B/206B"
+                ],
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "23",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 288",
+                "name": "Natural Language Processing",
+                "description": "Representation of conceptual structures, language analysis and production, models of inference and memory, high-level text structures, question answering and conversation, machine translation.",
+                "prerequisites": [
+                    "CS 188",
+                    "CS 170"
+                ],
+                "cp": [
+                    1050,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "32",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 170",
+                "name": "Efficient Algorithms and Intractable Problems",
+                "description": "Concept and basic techniques in the design and analysis of algorithms; models of computation; lower bounds; algorithms for optimum search trees, balanced trees and UNION-FIND algorithms; numerical and algebraic algorithms; combinatorial algorithms. Turing machines, how to count steps, deterministic and nondeterministic Turing machines, NP-completeness. Unsolvable and intractable problems.",
+                "prerequisites": [
+                    "COMPSCI 61B",
+                    "COMPSCI 70",
+                    "EECS 126"
+                ],
+                "cp": [
+                    750,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "87",
+            "ref": null,
+            "props": {
+                "crs_id": "EE 227BT",
+                "name": "Convex Optimization",
+                "description": "The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. ",
+                "prerequisites": [
+                    "MAHT 54",
+                    "STATISTICS 2"
+                ],
+                "cp": [
+                    2250,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "14",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 294-115",
+                "name": "Algorithmic Human-Robot Interaction",
+                "description": "We will contrast existing algorithms in robotics with studies in human-robot interaction, discussing how to tackle interaction challenges in an algorithmic way, with the goal of enabling generalization across robots and tasks.",
+                "prerequisites": [
+                    "CS 288",
+                    "EECS C106A"
+                ],
+                "cp": [
+                    1350,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "1": "COMPSCI 70",
+        "2": "CogSci 131",
+        "3": "CS 1",
+        "4": "EE 106B/206B",
+        "5": "CS 287",
+        "14": "CS 294-115",
+        "21": "CS 188",
+        "23": "CS 288",
+        "24": "EECS 127",
+        "25": "EECS C106A",
+        "30": "EECS 126",
+        "32": "CS 170",
+        "34": "EECS 16B",
+        "35": "ENG 120",
+        "43": "EECS 16A",
+        "45": "CS 194-26",
+        "54": "CS 280",
+        "55": "CS 294-127",
+        "56": "VIS SCI 265",
+        "60": "COMPSCI C8",
+        "61": "COMPSCI 88",
+        "62": "COMPSCI 61B",
+        "72": "ENGIN 7",
+        "76": "EECS 281A",
+        "77": "CS 294-131",
+        "79": "CS 281B",
+        "80": "COMPSCI 61A",
+        "83": "MATH 1A",
+        "84": "MATH 53",
+        "86": "CS 189",
+        "87": "EE 227BT",
+        "88": "EE 227C",
+        "89": "CS 281A",
+        "95": "MATH 54",
+        "96": "MATH  10B, N10B",
+        "97": "MAHT 54",
+        "98": "EE 227A",
+        "99": "STATISTICS 2"
+    }
+}

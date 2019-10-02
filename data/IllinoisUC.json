@@ -1,0 +1,1280 @@
+{
+    "view_size": [
+        3000,
+        1800
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "51",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 313",
+                "name": "Probability with Engineering Applications",
+                "description": "Probability theory with applications to engineering problems such as the reliability of circuits and systems to statistical methods for hypothesis testing, decision making under uncertainty, and parameter estimation.",
+                "prerequisites": [
+                    "ECE 210",
+                    "Math 286",
+                    "Math 415",
+                    ""
+                ],
+                "cp": [
+                    450,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "62",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 210",
+                "name": "Analog Signal Processing",
+                "description": "Analog signal processing, with an emphasis on underlying concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; differential equation models of linear circuits and systems; Laplace transform; convolution; stability; phasors; frequency response",
+                "prerequisites": [
+                    "ECE 110",
+                    "PHYS 212",
+                    "MATH 285",
+                    "MATH 286"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 110",
+                "name": "Introduction to Electronics",
+                "description": "Introduction to selected fundamental concepts and principles in electrical engineering. Emphasis on measurement, modeling, and analysis of circuits and electronics while introducing numerous applications. Includes sub-discipline topics of electrical and computer engineering",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "crs_id": "PHYS 212",
+                "name": "University Physics: Elec & Mag",
+                "description": "Coulomb's Law, electric fields, Gauss' Law, electric potential, capacitance, circuits, magnetic forces and fields, Ampere's law, induction, electromagnetic waves, polarization, and geometrical optics. A calculus-based approach for majors in engineering, mathematics, physics, and chemistry.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "73",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 285",
+                "name": "Intro Differential Equations",
+                "description": "Techniques and applications of ordinary differential equations, including Fourier series and boundary value problems, and an introduction to partial differential equations. Intended for engineering majors and others who require a working knowledge of differential equations.",
+                "prerequisites": [
+                    "MATH 241"
+                ],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 241",
+                "name": "Calculus III",
+                "description": "concerns functions of several variables and functions whose values are vectors rather than just numbers/ we will revisit notions like continuity, derivatives, and integrals, as well as their applications",
+                "prerequisites": [
+                    "MATH 231"
+                ],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "85",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 231",
+                "name": "Calculus II",
+                "description": "Second course in calculus and analytic geometry: techniques of integration, conic sections, polar coordinates, and infinite series.",
+                "prerequisites": [
+                    "MATH 220",
+                    "MATH 221"
+                ],
+                "cp": [
+                    1650,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "89",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 220",
+                "name": "Calculus",
+                "description": "A first course in Calculus and Analytic Geometry; basic techniques of differentiation and integration with applications including curve sketching; antidifferentation, the Riemann integral, fundamental theorem, exponential and circular functions.",
+                "prerequisites": [
+                    "MATH 115"
+                ],
+                "cp": [
+                    2850,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "49",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 115",
+                "name": "Preparation for Calculus",
+                "description": "This course reviews trigonometric, rational, exponential, and logarithmic functions, and introduces finding the area under a curve. ",
+                "prerequisites": [
+                    "MATH 112"
+                ],
+                "cp": [
+                    2850,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "29",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 112",
+                "name": "Algebra",
+                "description": "Rapid review of basic techniques of factoring, rational expressions, equations and inequalities; functions and graphs; exponential and logarithm functions; systems of equations; matrices and determinants; polynomials; and the binomial theorem.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2850,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "98",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 221",
+                "name": "Calculus I",
+                "description": "This course is a specially designed section for engineering majors emphasizing scientific and engineering applications and mathematical modelling.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "82",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 286",
+                "name": "Intro to Differential Eq Plus",
+                "description": "Techniques and applications of ordinary differential equations, including Fourier series and boundary value problems, linear systems of differential equations, and an introduction to partial differential equations. ",
+                "prerequisites": [
+                    "MATH 241"
+                ],
+                "cp": [
+                    750,
+                    1530
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "75",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 415",
+                "name": "Applied Linear Algebra",
+                "description": "Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems.",
+                "prerequisites": [
+                    "MATH 241"
+                ],
+                "cp": [
+                    1650,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "61",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 310",
+                "name": "Digital Signal Processing",
+                "description": "discrete-time linear systems, difference equations, z-transforms, discrete convolution, stability, discrete-time Fourier transforms, analog-to-digital and digital-to-analog conversion, digital filter design, discrete Fourier transforms, fast Fourier transforms, spectral analysis, and applications of digital signal processing.",
+                "prerequisites": [
+                    "ECE 210"
+                ],
+                "cp": [
+                    450,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 448",
+                "name": "Introduction to Artificial Intelligence",
+                "description": "Introduction/AI languages and formalisms/Problem solving/Knowledge representation/Deductive inference/Inductive inference and machine learning/Natural language understanding/Computer vision/Robotics/Societal impacts/Exams",
+                "prerequisites": [
+                    "CS 225",
+                    "ECE 391"
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 225",
+                "name": "Data Structures",
+                "description": "Data abstractions: elementary data structures (lists, stacks, queues, and trees) and their implementation using an object-oriented programming language. Solutions to a variety of computational problems such as search on graphs and trees. Elementary analysis of algorithms.",
+                "prerequisites": [
+                    "CS 125",
+                    "ECE 220",
+                    "CS 173",
+                    "MATH 213"
+                ],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "8",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 125",
+                "name": "Intro to Computer Science",
+                "description": "Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a first course for computer science majors and others with a deep interest in computing.",
+                "prerequisites": [
+                    "MATH 112"
+                ],
+                "cp": [
+                    2550,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "37",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 220",
+                "name": "Computer Systems & Programming",
+                "description": "Advanced use of LC-3 assembly language for I/O and function calling convention. C programming, covering basic programming concepts, functions, arrays, pointers, I/O, recursion, simple data structures, linked lists, dynamic memory management, and basic algorithms. Information hiding and object-oriented design as commonly implemented in modern software and computer systems programming.",
+                "prerequisites": [
+                    "ECE 120"
+                ],
+                "cp": [
+                    2250,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 120",
+                "name": "Introduction to Computing",
+                "description": "Topics include representation of information, combinational and sequential logic analysis and design, finite state machines, the von Neumann model, basic computer organization, and machine language programming. ",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2250,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "18",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 173",
+                "name": "Discrete Structures",
+                "description": "Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs.",
+                "prerequisites": [
+                    "CS 125",
+                    "ECE 220",
+                    "MATH 220",
+                    "MATH 221"
+                ],
+                "cp": [
+                    2550,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "67",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 213",
+                "name": "Basic Discrete Mathematics",
+                "description": "Beginning course on discrete mathematics, including sets and relations,functions, basic counting techniques, recurrence relations, graphs and trees, and matrix algebra;emphasis throughout is on algorithms and their efficacy",
+                "prerequisites": [
+                    "MATH 220",
+                    "MATH 221"
+                ],
+                "cp": [
+                    2250,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "20",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 391",
+                "name": "Computer Systems Engineering",
+                "description": "Concepts and abstractions central to the development of modern computing systems, with an emphasis on the systems software that controls interaction between devices and other hardware and application programs.",
+                "prerequisites": [
+                    "ECE 220",
+                    "CS 233"
+                ],
+                "cp": [
+                    150,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "23",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 233",
+                "name": "Computer Architecture",
+                "description": "Fundamentals of computer architecture: digital logic design, working up from the logic gate level to understand the function of a simple computer; machine-level programming to understand implementation of high-level languages; performance models of modern computer architectures to enable performance optimization of software; hardware primitives for parallelism and security.",
+                "prerequisites": [
+                    "CS 125",
+                    "CS 173",
+                    "CS 225"
+                ],
+                "cp": [
+                    1050,
+                    450
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "31",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 440",
+                "name": "Artificial Intelligence",
+                "description": "This course provides an introductory survey of concepts and techniques in artificial intelligence. We will cover methods for search, classification, reasoning, and machine learning. We will also look at applications including core AI (games, planning), robotics, computer vision, and natural language understanding.",
+                "prerequisites": [
+                    "CS 225",
+                    "ECE 391"
+                ],
+                "cp": [
+                    450,
+                    630
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "9",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 470",
+                "name": "Introduction to Robotics",
+                "description": "Fundamentals of robotics including rigid motions; homogeneous transformations; forward and inverse kinematics; velocity kinematics; motion planning; trajectory generation; sensing, vision; control. ",
+                "prerequisites": [
+                    "MATH 112",
+                    "ECE 220"
+                ],
+                "cp": [
+                    2850,
+                    90
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 446",
+                "name": "Machine Learning",
+                "description": "The goal of Machine Learning is to build computer systems that can adapt and learn from their experience. This course will study the theory and application of learning methods that have proved valuable and successful in practical applications",
+                "prerequisites": [
+                    "CS 440"
+                ],
+                "cp": [
+                    1050,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "63",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 486",
+                "name": "Control Systems",
+                "description": "Analysis and design of control systems with emphasis on modeling, state variable representation, computer solutions, modern design principles, and laboratory techniques",
+                "prerequisites": [
+                    "ECE 210"
+                ],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "52",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 417",
+                "name": "Multimedia Signal Processing",
+                "description": "Characteristics of speech and image signals; important analysis and synthesis tools for multimedia signal processing including subspace methods, Bayesian networks, hidden Markov models, and factor graphs; applications to biometrics(person identification), human-computer interaction (face and gesture recognition and synthesis), and audio-visual databases",
+                "prerequisites": [
+                    "ECE 210"
+                ],
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "60",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 547",
+                "name": "TOPICS IN IMAGE PROCESSING WEB PAGE",
+                "description": "Fundamental concepts, techniques, and directions of research in image processing",
+                "prerequisites": [
+                    "ECE 310"
+                ],
+                "cp": [
+                    150,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "12",
+            "ref": null,
+            "props": {
+                "crs_id": "ECE 549",
+                "name": "Computer vision",
+                "description": "Information processing approaches to computer vision, algorithms, and architectures for artificial intelligence and robotics systems capable of vision",
+                "prerequisites": [
+                    "CS 225",
+                    "ECE 448"
+                ],
+                "cp": [
+                    750,
+                    270
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "41",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 411",
+                "name": "Multimedia Systems",
+                "description": "Organization and structure of modern multimedia systems",
+                "prerequisites": [
+                    "CS 241",
+                    "ECE 391"
+                ],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "43",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 241",
+                "name": "System Programming",
+                "description": "Basics of system programming, including POSIX processes, process control, inter-process communication, synchronization, signals, simple memory management, file I/O and directories, shell programming, socket network programming, RPC programming in distributed systems, basic security mechanisms, and standard tools for systems programming such as debugging tools.",
+                "prerequisites": [
+                    "CS 225",
+                    "CS 233"
+                ],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "54",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 418",
+                "name": "Interactive Computer Graphics",
+                "description": "Basic mathematical tools and computational techniques for modeling, rendering, and animating 3-D scenes",
+                "prerequisites": [
+                    "CS 225",
+                    "MATH 225",
+                    "MATH 415",
+                    "MATH 241"
+                ],
+                "cp": [
+                    1350,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 473",
+                "name": "Algorithms",
+                "description": "This course is an algorithms course aimed at advanced undergraduates and graduate students in computer science and related disciplines.",
+                "prerequisites": [
+                    "CS 374",
+                    "CS 361",
+                    "MATH 461"
+                ],
+                "cp": [
+                    1650,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 374",
+                "name": "Introduction to Algorithms & Models of Computation",
+                "description": "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms.",
+                "prerequisites": [
+                    "CS 225"
+                ],
+                "cp": [
+                    1650,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "77",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 361",
+                "name": "Prob & Stat for Computer Sci",
+                "description": "Introduction to probability theory and statistics with applications to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit theorem.",
+                "prerequisites": [
+                    "MATH 220",
+                    "MATH 221"
+                ],
+                "cp": [
+                    2250,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "74",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 461",
+                "name": "Introduction to Probability Theory",
+                "description": "Introduction to mathematical probability; includes the calculus of probability, combinatorial analysis, random variables, expectation, distribution functions, moment-generating functions, and central limit theorem.",
+                "prerequisites": [
+                    "MATH 241"
+                ],
+                "cp": [
+                    1350,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "56",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 475",
+                "name": "Formal Models of Computation",
+                "description": "Finite automata and regular languages;",
+                "prerequisites": [
+                    "CS 374"
+                ],
+                "cp": [
+                    1950,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "47",
+            "ref": null,
+            "props": {
+                "crs_id": "CS 476",
+                "name": "Program Verification",
+                "description": "Formal methods for demonstrating correctness and other properties of programs",
+                "prerequisites": [
+                    "CS 225",
+                    "CS 374",
+                    "MATH 414"
+                ],
+                "cp": [
+                    2250,
+                    810
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "57",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 414",
+                "name": "MATHEMATICAL LOGIC",
+                "description": "Introduction to the formalization of mathematics and the study of axiomatic systems",
+                "prerequisites": [
+                    "MATH 347"
+                ],
+                "cp": [
+                    2250,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "58",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 347",
+                "name": "Fundamental Mathematics",
+                "description": "The goal of this course is to introduce methods and language surrounding proofs in mathematics",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    990
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "76",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 561",
+                "name": "Theory of Probability",
+                "description": "Basic concepts,Limit theorems,Discrete times martingales and their applications,Radom walks and Markov chains",
+                "prerequisites": [
+                    "MATH 540",
+                    "CS 361"
+                ],
+                "cp": [
+                    1950,
+                    1350
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "crs_id": "MATH 540",
+                "name": "Real Analysis",
+                "description": "This is the core graduate course in Real Analysis, covering the following topics:Measures on the line/ measurable function/integration/differentiability",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1950,
+                    1710
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        },
+        {
+            "key": "64",
+            "ref": null,
+            "props": {
+                "crs_id": "ME 540",
+                "name": "Control System Theory & Design",
+                "description": "Basic principles, modeling, analysis, stability, structural properties, optimization, and design to meet specifications",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1350,
+                    1170
+                ],
+                "offset": 80
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "1": "ECE 448",
+        "4": "CS 225",
+        "8": "CS 125",
+        "9": "ECE 470",
+        "12": "ECE 549",
+        "18": "CS 173",
+        "20": "ECE 391",
+        "23": "CS 233",
+        "27": "ECE 120",
+        "29": "MATH 112",
+        "31": "CS 440",
+        "37": "ECE 220",
+        "41": "CS 411",
+        "43": "CS 241",
+        "45": "CS 374",
+        "47": "CS 476",
+        "49": "MATH 115",
+        "51": "ECE 313",
+        "52": "ECE 417",
+        "53": "CS 446",
+        "54": "CS 418",
+        "55": "CS 473",
+        "56": "CS 475",
+        "57": "MATH 414",
+        "58": "MATH 347",
+        "60": "ECE 547",
+        "61": "ECE 310",
+        "62": "ECE 210",
+        "63": "ECE 486",
+        "64": "ME 540",
+        "67": "MATH 213",
+        "73": "MATH 285",
+        "74": "MATH 461",
+        "75": "MATH 415",
+        "76": "MATH 561",
+        "77": "CS 361",
+        "80": "PHYS 212",
+        "81": "ECE 110",
+        "82": "MATH 286",
+        "83": "MATH 241",
+        "85": "MATH 231",
+        "89": "MATH 220",
+        "96": "MATH 540",
+        "98": "MATH 221"
+    }
+}

@@ -54,8 +54,8 @@ for row in mergeMap.itertuples():
 # pprint(crsList)
 # pprint(crsDict)
 
-inverseMap = {'CMU':{}, 'Berkely':{}}
-ordMap = {'CMU':{}, 'Berkely':{}}
+inverseMap = {'CMU':{}, 'Berkely':{}, 'SNU':{}}
+ordMap = {'CMU':{}, 'Berkely':{}, 'SNU':{}}
 for crs in crsList:
     for univ in crs['source']:
         for src in crs['source'][univ]:

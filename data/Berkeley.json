@@ -467,7 +467,7 @@
             "ref": null,
             "props": {
                 "crs_id": "COMPSCI 61B",
-                "name": "Data Strictures",
+                "name": "Data Structures",
                 "description": "Fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language.",
                 "prerequisites": [
                     "COMPSCI 61A",
@@ -713,7 +713,7 @@
                 "prerequisites": [
                     "MATH 1A",
                     "COMPSCI 70",
-                    "CS 1"
+                    "CogSci 1"
                 ],
                 "cp": [
                     750,
@@ -727,7 +727,7 @@
             "key": "3",
             "ref": null,
             "props": {
-                "crs_id": "CS 1",
+                "crs_id": "CogSci 1",
                 "name": "Introduction to Cognitive Science",
                 "description": "This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research from artificial intelligence, pyschology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the major methodologies.",
                 "prerequisites": [
@@ -1121,7 +1121,7 @@
     "map": {
         "1": "COMPSCI 70",
         "2": "CogSci 131",
-        "3": "CS 1",
+        "3": "CogSci 1",
         "4": "EE 106B/206B",
         "5": "CS 287",
         "14": "CS 294-115",

@@ -795,7 +795,7 @@
             "props": {
                 "crs_id": "6.207",
                 "name": "Networks",
-                "description": "See description under subject 14.15[J].",
+                "description": "Highlights common principles that permeate the functioning of diverse technological, economic and social networks. Utilizes three sets of tools for analyzing networks--random graph models, optimization, and game theory--to study informational and learning cascades; economic and financial networks; social influence networks; formation of social groups; communication networks and the Internet; consensus and gossiping; spread and control of epidemics; control and use of energy networks; and biological networks.",
                 "prerequisites": [
                     "6.041",
                     "14.30"
@@ -937,7 +937,7 @@
             "props": {
                 "crs_id": "6.804",
                 "name": "Computational Cognitive Science",
-                "description": "See description under subject 9.66[J].",
+                "description": "Introduction to computational theories of human cognition. Focus on principles of inductive learning and inference, and the representation of knowledge. Computational frameworks covered include Bayesian and hierarchical Bayesian models; probabilistic graphical models; nonparametric statistical models and the Bayesian Occam's razor; sampling algorithms for approximate learning and inference; and probabilistic models defined over structured representations such as first-order logic, grammars, or relational schemas. Applications to understanding core aspects of cognition, such as concept learning and categorization, causal reasoning, theory formation, language acquisition, and social inference. Graduate students complete a final project.",
                 "prerequisites": [
                     "6.008",
                     "6.036",
@@ -1000,7 +1000,7 @@
             "props": {
                 "crs_id": "6.834",
                 "name": "Cognitive Robotics",
-                "description": "See description under subject 16.412[J]. Enrollment may be limited.",
+                "description": "Highlights algorithms and paradigms for creating human-robot systems that act intelligently and robustly, by reasoning from models of themselves, their counterparts and their world. Examples include space and undersea explorers, cooperative vehicles, manufacturing robot teams and everyday embedded devices. Themes include architectures for goal-directed systems; decision-theoretic programming and robust execution; state-space programming, activity and path planning; risk-bounded programming and risk-bounded planners; self-monitoring and self-diagnosing systems, and human-robot collaboration. Student teams explore recent advances in cognitive robots through delivery of advanced lectures and final projects, in support of a class-wide grand challenge. Enrollment may be limited.",
                 "prerequisites": [
                     "6.034",
                     "6.042",
@@ -1021,7 +1021,7 @@
             "props": {
                 "crs_id": "6.860",
                 "name": "Statistical Learning Theory and Applications",
-                "description": "See description under subject 9.520[J].",
+                "description": "Provides students with the knowledge needed to use and develop advanced machine learning solutions to challenging problems. Covers foundations and recent advances of machine learning in the framework of statistical learning theory. Focuses on regularization techniques key to high-dimensional supervised learning. Starting from classical methods such as regularization networks and support vector machines, addresses state-of-the-art techniques based on principles such as geometry or sparsity, and discusses a variety of algorithms for supervised learning, feature selection, structured prediction, and multitask learning. Also focuses on unsupervised learning of data representations, with an emphasis on hierarchical (deep) architectures.",
                 "prerequisites": [
                     "6.041",
                     "6.867",
@@ -1119,7 +1119,7 @@
             "props": {
                 "crs_id": "9.21",
                 "name": "Cellular Neurophysiology and Computing",
-                "description": "See description under subject 6.021[J]. Preference to juniors and seniors.",
+                "description": "Integrated overview of the biophysics of cells from prokaryotes to neurons, with a focus on mass transport and electrical signal generation across cell membrane. First third of course focuses on mass transport through membranes: diffusion, osmosis, chemically mediated, and active transport. Second third focuses on electrical properties of cells: ion transport to action potential generation and propagation in electrically excitable cells. Synaptic transmission. Electrical properties interpreted via kinetic and molecular properties of single voltage-gated ion channels. Final third focuses on biophysics of synaptic transmission and introduction to neural computing. Laboratory and computer exercises illustrate the concepts. Students taking graduate version complete different assignments. Preference to juniors and seniors.",
                 "prerequisites": [
                     "18.03",
                     "6.003"
@@ -1191,29 +1191,6 @@
             },
             "_owner": null,
             "_store": {}
-        },
-        {
-            "key": "78",
-            "ref": null,
-            "props": {
-                "crs_id": "9.66",
-                "name": "Computational Cognitive Science",
-                "description": "Introduction to computational theories of human cognition. Focus on principles of inductive learning and inference, and the representation of knowledge. Computational frameworks covered include Bayesian and hierarchical Bayesian models; probabilistic graphical models; nonparametric statistical models and the Bayesian Occam's razor; sampling algorithms for approximate learning and inference; and probabilistic models defined over structured representations such as first-order logic, grammars, or relational schemas. Applications to understanding core aspects of cognition, such as concept learning and categorization, causal reasoning, theory formation, language acquisition, and social inference. Graduate students complete a final project.",
-                "prerequisites": [
-                    "6.008",
-                    "6.036",
-                    "6.041",
-                    "9.40",
-                    "18.05"
-                ],
-                "cp": [
-                    2550,
-                    1350
-                ],
-                "offset": 80
-            },
-            "_owner": null,
-            "_store": {}
         }
     ],
     "map": {
@@ -1246,7 +1223,6 @@
         "68": "6.804",
         "69": "9.49",
         "71": "15.780",
-        "78": "9.66",
         "80": "14.13",
         "81": "14.12",
         "88": "9.19",

@@ -1,0 +1,93 @@
+강좌명\학교명,CMU,Berkeley,SNU
+Introduction to Computer Programming,"(1, 'Principles of Imperative Computation')","(1, 'The Structure and Interpretation of Computer Programs')","(1, '컴퓨터 프로그래밍')"
+Introduction to Computer Programming for Scientists and Engineers,"(1, 'Computing @ Carnegie Mellon')","(1, 'Introduction to Computer Programming for Scientists and Engineers')","(1, '컴퓨터의 개념 및 실습')"
+Object Oriented Programming,,,"(0.5, '컴퓨터 프로그래밍')"
+Data Structures,,"(1, 'Data Structures')","(1, '자료구조')"
+프로그래밍의 원리,,,"(1, '프로그래밍의 원리')"
+프로그래밍 언어,,,"(1, '프로그래밍 언어')"
+컴파일러,,,"(1, '컴파일러')"
+Algorithms,"(0.7, 'Parallel and Sequential Data Structures and Algorithms')","(0.9, 'Efficient Algorithms and Intractable Problems')","(1, '알고리즘')"
+Algorithms in the Real World,"(1, 'Algorithms in the Real World')",,
+Graduate Algorithms,"(1, 'Graduate Algorithms')",,
+Computer Systems,"(1, 'Introduction to Computer Systems')","(0.5, 'Designing Information Devices and Systems 1')","(1, '시스템 프로그래밍')"
+,,"(0.5, 'Designing Information Devices and Systems 2')",
+Database,"(0.5, 'Multimedia Databases and Datamining')",,"(1, '데이터베이스')"
+오토마타,,,"(1, '오토마타 이론')"
+논리설계,,,"(1, '논리설계')"
+컴퓨터 구조,,,"(1, '컴퓨터 구조')"
+운영체제,,,"(1, '운영체제')"
+전기전자회로,,,"(1, '전기전자회로')"
+하드웨어시스템설계,,,"(1, '하드웨어시스템설계')"
+Great Ideas in Theoretical Computer Science,"(1, 'Great Ideas in Theoretical Computer Science')",,
+Software Design,"(0.7, 'Designing Human Centered Software:')",,"(1, '소프트웨어 개발의 원리와 실습')"
+Software Engineering,,,"(1, '소프트웨어 공학')"
+Calculus 1,"(0.5, 'Differential and Integral Calculus')","(1, 'Calculus')","(1, '공학수학 1')"
+Calculus 2,"(0.5, 'Differential and Integral Calculus')","(1, 'Multivariable Calculus')","(1, '공학수학 2')"
+Linear Algebra,"(0.8, 'Matrices and Linear Transformations')","(1, 'Linear Algebra and Differential Equations')","(0.5, '선형 및 비선형 계산모델')"
+Discrete Mathematics and Probability Theory,"(0.8, 'Probability Theory for Computer Scientists')","(1, 'Discrete Mathematics and Probability Theory')","(0.8, '이산수학')"
+Probability and Computing,"(1, 'Probability and Computing')","(1, 'Probability and Random Processes')",
+Advanced Methods for Data Analysis,"(1, 'Advanced Methods for Data Analysis')",,
+Introduction to Statistics,"(1, 'Probability and Mathematical Statistics')","(1, 'Introduction to Statistics')",
+Intermediate Statistics,"(1, 'Intermediate Statistics')",,
+Modern Regression,"(1, 'Modern Regression')",,
+Regression Analysis,"(1, 'Regression Analysis')",,
+Advanced Statistical Theory I,"(1, 'Advanced Statistical Theory I')",,
+Advanced Statistical Theory:,"(1, 'Advanced Statistical Theory:')",,
+Introduction to Machine Learning,"(1, 'Introduction to Machine Learning')","(1, 'Introduction to Machine Learning')","(1, '기계학습 개론')"
+Advanced Introduction to Machine Learning,"(1, 'Advanced Introduction to Machine Learning')","(0.5, 'Statistical machine learning')",
+Advanced Machine Learning: Theory and Methods,"(1, 'Advanced Machine Learning: Theory and Methods')","(0.5, 'Statistical Learning Theory')","(1, '기계학습')"
+,,"(0.5, 'Advances Topics in Learning and Decision Making ')",
+Machine Learning for Structured Data,"(1, 'Machine Learning for Structured Data')",,
+Machine Learning with Large Datasets,"(1, 'Machine Learning with Large Datasets')",,
+Probabilistic Graphical Models,"(1, 'Probabilistic Graphical Models')",,
+Foundation of Data Science,,"(1, 'Computational Structures in Data Science')",
+,,"(0.5, 'Foundation of Data Sciecne')",
+Data Analysis,"(1, 'Data Analysis')",,
+Optimization,,"(1, 'Optimization Models in Engineering')",
+Convex Optimization,"(1, 'Convex Optimization')","(0.5, 'Introduction to Convex Optimization')",
+,,"(0.5, 'Convex Optimization and Approximation')",
+,,"(1, 'Convex Optimization')",
+Integration and Approximation,"(1, 'Integration and Approximation')","(0.3, 'Convex Optimization and Approximation')",
+Scalability in Machine Learning,"(1, 'Scalability in Machine Learning')",,
+Machine Learning for Text Mining,"(1, 'Machine Learning for Text Mining')",,
+Search Engines,"(1, 'Search Engines')",,
+Speech Processing,"(1, 'Speech Processing')",,
+Principles of Functional Programming,"(1, 'Principles of Functional Programming')","(0.3, 'The Structure and Interpretation of Computer Programs')",
+Mathematical Foundations for Computer Science,"(1, 'Mathematical Foundations for Computer Science')",,
+인공지능 이해,"(1, 'Freshman Seminar: Artificial Intelligence and Humanity')",,"(1, '인공지능 입문')"
+Concepts in Artificial Intelligence,"(1, 'AI, Society, and Humanity')",,
+,"(1, 'Concepts in Artificial Intelligence')",,
+Topics in Deep Learning,"(1, 'Topics in Deep Learning')","(1, 'Special Topics in Deep Learning')","(1, '인공지능 특강')"
+Intoduction to Artificial Intelligence,"(1, 'Artificial Intelligence: Representation and Problem Solving')","(1, 'Intoduction to Artificial Intelligence')","(1, '인공지능')"
+Graduate Artificial Intelligence,"(1, 'Graduate Artificial Intelligence')",,"(1, '고급 인공지능')"
+Design of Artificial Intelligence Products,"(1, 'Design of Artificial Intelligence Products')",,
+Introduction to Deep Learning,"(1, 'Introduction to Deep Learning')",,
+Intermediate Deep Learning,"(1, 'Intermediate Deep Learning')",,"(0.7, '인공신경망')"
+Deep Reinforcement Learning,"(1, 'Deep Reinforcement Learning')",,
+,"(1, 'Deep Reinforcement Learning & Control')",,
+Computer Vision:,"(1, 'Computer Vision:')","(1, 'Computer Vision')","(1, '컴퓨터 비전')"
+Computational Photography,"(1, 'Computational Photography')","(0.5, 'Computational Imaging')","(0.8, '컴퓨터 그래픽스')"
+,,"(0.5, 'Image Manipulation and Computational Photography')",
+Natural Language Processing:,"(1, 'Natural Language Processing:')","(1, 'Natural Language Processing')","(0.7, '인공신경망')"
+,,,"(1, '자연언어처리')"
+Autonomous Agents,"(1, 'Autonomous Agents')",,
+Datamining,"(0.5, 'Multimedia Databases and Datamining')",,"(1, '데이터마이닝 개론')"
+Introduction to Robotics,"(0.7, 'Cognitive Robotics: The Future of Robot Toys')","(1, 'Introduction to Robotics')",
+Planning Techniques for Robotics,"(1, 'Planning Techniques for Robotics')","(1, 'Advanced Robotics')",
+Mobile Robot Algorithms Laboratory,"(1, 'Mobile Robot Algorithms Laboratory')",,
+Robot Kinematics and Dynamics,"(1, 'Robot Kinematics and Dynamics')","(1, 'Robotic Manipulation and Interaction')",
+Human Robot Interaction,"(1, 'Human Robot Interaction')","(0.9, 'Algorithmic Human-Robot Interaction')",
+Ethics and Policy Issues in Computing,"(1, 'Ethics and Policy Issues in Computing')",,
+Interpretation and Argument,"(1, 'Interpretation and Argument')",,
+컴퓨터 네트워크,,,"(1, '컴퓨터 네트워크')"
+Signal and Systems,,"(1, 'Signal and Systems ')","(0.5, '데이터 통신')"
+,,,"(0.5, '디지털 신호처리')"
+Cognitive Psychology,"(1, 'Cognitive Psychology')","(1, 'Introduction to Cognitive Science')",
+Cognitive Modeling:,"(1, 'Cognitive Modeling:')","(1, 'Computational Models of Cognition')",
+Neural Computation,"(1, 'Neural Computation')","(1, 'Neural Computation')",
+Computational Perception,"(1, 'Computational Perception')",,
+Perception,"(1, 'Perception')",,
+Human Memory,"(1, 'Human Memory')",,
+Human Information Processing and Artificial Intelligence,"(1, 'Human Information Processing and Artificial Intelligence')",,
+Visual Cognition,"(1, 'Visual Cognition')",,
+Language and Thought,"(1, 'Language and Thought')",,

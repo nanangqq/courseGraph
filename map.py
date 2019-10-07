@@ -1,18 +1,19 @@
 import json
 
-with open('data/Microsoft.json', 'r', encoding='utf8') as f:
+with open('data/Stanford.json', 'r', encoding='utf8') as f:
     a = json.load(f)
 
 # print(a)
 tmpMap = {}
 for crs in a['crsList']:
     tmpMap[crs['key']]=crs['props']['crs_id']
+    crs['props']['cp']=a['cps'][crs['props']['keyFromParent']]
 
 print(tmpMap)
 
 a['map']=tmpMap
 
-with open('data/Microsoft_.json', 'w', encoding='utf8') as f:
+with open('data/Stanford_.json', 'w', encoding='utf8') as f:
     json.dump(a,f)
 
 

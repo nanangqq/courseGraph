@@ -740,7 +740,7 @@
             "ref": null,
             "props": {
                 "crs_id": "CS 10",
-                "name": " Introduction to Digital Logic and Embedded Systems",
+                "name": "Introduction to Digital Logic and Embedded Systems",
                 "description": "The course will cover basic digital logic, programmable logic devices, CPU and embedded system architecture, and embedded systems programming principles",
                 "prerequisites": [
                     ""

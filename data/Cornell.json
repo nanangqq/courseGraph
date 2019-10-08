@@ -1,1 +1,1278 @@
-{"view_size":[3900,2700],"cps":[[150,90],[450,90],[750,90],[1050,90],[1350,90],[1650,90],[1950,90],[2250,90],[2550,90],[2850,90],[3150,90],[3450,90],[3750,90],[150,270],[450,270],[750,270],[1050,270],[1350,270],[1650,270],[1950,270],[2250,270],[2550,270],[2850,270],[3150,270],[3450,270],[3750,270],[150,450],[450,450],[750,450],[1050,450],[1350,450],[1650,450],[1950,450],[2250,450],[2550,450],[2850,450],[3150,450],[3450,450],[3750,450],[150,630],[450,630],[750,630],[1050,630],[1350,630],[1650,630],[1950,630],[2250,630],[2550,630],[2850,630],[3150,630],[3450,630],[3750,630],[150,810],[450,810],[750,810],[1050,810],[1350,810],[1650,810],[1950,810],[2250,810],[2550,810],[2850,810],[3150,810],[3450,810],[3750,810],[150,990],[450,990],[750,990],[1050,990],[1350,990],[1650,990],[1950,990],[2250,990],[2550,990],[2850,990],[3150,990],[3450,990],[3750,990],[150,1170],[450,1170],[750,1170],[1050,1170],[1350,1170],[1650,1170],[1950,1170],[2250,1170],[2550,1170],[2850,1170],[3150,1170],[3450,1170],[3750,1170],[150,1350],[450,1350],[750,1350],[1050,1350],[1350,1350],[1650,1350],[1950,1350],[2250,1350],[2550,1350],[2850,1350],[3150,1350],[3450,1350],[3750,1350],[150,1530],[450,1530],[750,1530],[1050,1530],[1350,1530],[1650,1530],[1950,1530],[2250,1530],[2550,1530],[2850,1530],[3150,1530],[3450,1530],[3750,1530],[150,1710],[450,1710],[750,1710],[1050,1710],[1350,1710],[1650,1710],[1950,1710],[2250,1710],[2550,1710],[2850,1710],[3150,1710],[3450,1710],[3750,1710],[150,1890],[450,1890],[750,1890],[1050,1890],[1350,1890],[1650,1890],[1950,1890],[2250,1890],[2550,1890],[2850,1890],[3150,1890],[3450,1890],[3750,1890],[150,2070],[450,2070],[750,2070],[1050,2070],[1350,2070],[1650,2070],[1950,2070],[2250,2070],[2550,2070],[2850,2070],[3150,2070],[3450,2070],[3750,2070],[150,2250],[450,2250],[750,2250],[1050,2250],[1350,2250],[1650,2250],[1950,2250],[2250,2250],[2550,2250],[2850,2250],[3150,2250],[3450,2250],[3750,2250],[150,2430],[450,2430],[750,2430],[1050,2430],[1350,2430],[1650,2430],[1950,2430],[2250,2430],[2550,2430],[2850,2430],[3150,2430],[3450,2430],[3750,2430],[150,2610],[450,2610],[750,2610],[1050,2610],[1350,2610],[1650,2610],[1950,2610],[2250,2610],[2550,2610],[2850,2610],[3150,2610],[3450,2610],[3750,2610]],"crsList":[{"key":"3","ref":null,"props":{"keyFromParent":3,"crs_id":"CS 1110","name":"Introduction to Computing Using Python","description":"Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recusion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming, and GUIs (graphical user interfaces). Weekly labs provide guided practice on the computer, with staff present to help. Assignments use graphics and GUIs to help develop fluency and understanding.","prerequisites":[],"cp":[1050,90],"offset":80,"display":"none"},"_owner":null},{"key":"30","ref":null,"props":{"keyFromParent":30,"crs_id":"CS 2110","name":"Object-Oriented Programming and Data Structures","description":"Intermediate programming in a high-level language and introduction to computer science. Topics include object-oriented programming (classes, objects, subclasses, types), graphical user interfaces, algorithm analysis (asymptotic complexity, big “O” notation), recursion, testing, program correctness (loop invariants), searching/sorting, data structures (lists, trees, stacks, queues, heaps, search trees, hash tables, graphs), graph algorithms. Java is the principal programming language.","prerequisites":["CS 1110"],"cp":[1350,450],"offset":80,"display":"none"},"_owner":null},{"key":"28","ref":null,"props":{"keyFromParent":28,"crs_id":"CS 2800","name":"Discrete Structures","description":"Covers the mathematics that underlies most of computer science. Topics include mathematical induction; logical proof; propositional and predicate calculus; combinatorics and discrete mathematics; some basic elements of basic probability theory; basic number theory; sets, functions, and relations; graphs; and finite-state machines. These topics are discussed in the context of applications to many areas of computer science, such as the RSA cryptosystem and web searching.","prerequisites":["CS 1110"],"cp":[750,450],"offset":80,"display":"none"},"_owner":null},{"key":"52","ref":null,"props":{"keyFromParent":52,"crs_id":"CS 3110","name":"Data Structures and Functional Programming","description":"Advanced programming course that emphasizes functional programming techniques and data structures. Programming topics include recursive and higher-order procedures, models of programming language evaluation and compilation, type systems, and polymorphism. Data structures and algorithms covered include graph algorithms, balanced trees, memory heaps, and garbage collection. Also covers techniques for analyzing program performance and correctness.","prerequisites":["CS 2110","CS 2800"],"cp":[150,810],"offset":80,"display":"none"},"_owner":null},{"key":"84","ref":null,"props":{"keyFromParent":84,"crs_id":"CS 3220","name":"Computational Mathematics for Computer Science","description":"Introduction to computational mathematics covering topics in (numerical) linear algebra, statistics, and optimization. Topics included are those of particular relevance to upper-division computer science courses in machine learning, numerical analysis, graphics, vision, robotics, and more. An emphasis is placed both on understanding core mathematical concepts and introducing associated computational methodologies.","prerequisites":["MATH 2940"],"cp":[1950,1170],"offset":80,"display":"none"},"_owner":null},{"key":"97","ref":null,"props":{"keyFromParent":97,"crs_id":"CS 4220","name":"Numerical Analysis: Linear and Nonlinear Problems","description":"Introduction to the fundamentals of numerical linear algebra: direct and iterative methods for linear systems, eigenvalue problems, singular value decomposition. In the second half of the course, the above are used to build iterative methods for nonlinear systems and for multivariate optimization. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.","prerequisites":["MATH 2940","CS 3220"],"cp":[1950,1350],"offset":80,"display":"none"},"_owner":null},{"key":"78","ref":null,"props":{"keyFromParent":78,"crs_id":"CS 4300","name":"Language and Information","description":"How to make sense of the vast amounts of information available online, and how to relate it and to the social context in which it appears? This course introduces basic tools for retrieving and analyzing unstructured textual information from the web and social media. Applications include information retrieval (with human feedback), sentiment analysis and social analysis of text. The coursework will include programming projects that play on the interaction between knowledge and social factors.","prerequisites":["CS 2800","CS 2110"],"cp":[150,1170],"offset":80,"display":"none"},"_owner":null},{"key":"80","ref":null,"props":{"keyFromParent":80,"crs_id":"CS 4700","name":"Foundations of Artificial Intelligence","description":"Challenging introduction to the major subareas and current research directions in artificial intelligence. Topics include knowledge representation, heuristic search, problem solving, natural-language processing, game-playing, logic and deduction, planning, and machine learning.","prerequisites":["CS 2110","CS 2800"],"cp":[750,1170],"offset":80,"display":"none"},"_owner":null},{"key":"93","ref":null,"props":{"keyFromParent":93,"crs_id":"CS 4701","name":"Practicum in Artificial Intelligence","description":"Project portion of CS 4700. Topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetics algorithms, planning, and truth maintenance.","prerequisites":["CS 4700"],"cp":[750,1350],"offset":80,"display":"none"},"_owner":null},{"key":"82","ref":null,"props":{"keyFromParent":82,"crs_id":"CS 4786","name":"Machine Learning for Data Science","description":"An introduction to machine learning for data-science applications. Topics include dimensionality-reduction (such as principal components analysis, canonical correlation analysis, and random projection); clustering (such as k-means and single-link); probabilistic modeling (such as mixture models and the EM algorithm).","prerequisites":["MATH 4710","MATH 2940","CS 2110"],"cp":[1350,1170],"offset":80,"display":"none"},"_owner":null},{"key":"95","ref":null,"props":{"keyFromParent":95,"crs_id":"CS 4787","name":"Principles of Large-Scale Machine Learning Systems","description":"An introduction to the mathematical and algorithms design principles and tradeoffs that underlie large-scale machine learning on big training sets. Topics include: stochastic gradient descent and other scalable optimization methods, mini-batch training, accelerated methods, adaptive learning rates, parallel and distributed training, and quantization and model compression.","prerequisites":["CS 4786","CS 2110"],"cp":[1350,1350],"offset":80,"display":"none"},"_owner":null},{"key":"65","ref":null,"props":{"keyFromParent":65,"crs_id":"CS 5110","name":"Programming Languages and Logics","description":"An introduction to the theory, design, and implementation of programming languages. Topics include operational semantics, type systems, higher-order functions, scope, lambda calculus, laziness, exceptions, side effects, continuations, objects, and modules. Also discussed are logic programming, concurrency, and distributed programming.","prerequisites":["CS 3110"],"cp":[150,990],"offset":80,"display":"none"},"_owner":null},{"key":"79","ref":null,"props":{"keyFromParent":79,"crs_id":"CS 5670","name":"Introduction to Computer Vision","description":"An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world-the 3D shape of an environment, the motion of objects, the names of people or things-through analysis of digital images or videos.  The course covers a range of topics, including 3D reconstruction, image segmentation, object recognition, and vision algorithms fro the Internet, as well as key algorithmic, optimization, and machine learning techniques, such as graph cuts, non-linear least squares, and deep learning.  This course emphasizes hands-on experience with computer vision, and several large programming projects.","prerequisites":["CS 2800","CS 2110"],"cp":[450,1170],"offset":80,"display":"none"},"_owner":null},{"key":"96","ref":null,"props":{"keyFromParent":96,"crs_id":"CS 5740","name":"Natural Language Processing","description":"This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today’s most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. Possible topics include methods for handling underlying linguistic phenomena (e.g., syntactic analysis, word sense disambiguation and discourse analysis) and vital emerging applications (e.g., machine translation, sentiment analysis, summarization and information extraction).","prerequisites":["CS 2110"],"cp":[1650,1350],"offset":80,"display":"none"},"_owner":null},{"key":"81","ref":null,"props":{"keyFromParent":81,"crs_id":"CS 5785","name":"Applied Machine Learning","description":"Learn and apply key concepts of modeling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, and dimensionality reduction.","prerequisites":["CS 2800"],"cp":[1050,1170],"offset":80,"display":"none"},"_owner":null},{"key":"107","ref":null,"props":{"keyFromParent":107,"crs_id":"CS 5787","name":"Deep Learning","description":"Students will learn deep neural network fundamentals, including, but not limited to, feed-forward neural networks, convolutional neural networks, network architecture, optimization methods, practical issues, hardware concerns, recurrent neural networks, dataset acquisition, dataset bias, adversarial examples, current limitations of deep learning, and visualization techniques. We still study applications to problems in computer vision and to a lesser extent natural language processing and reinforcement learning. There will also be a session on understanding publications in deep learning, which is a critical skill in this fast moving area.","prerequisites":["CS 5785"],"cp":[1050,1530],"offset":80,"display":"none"},"_owner":null},{"key":"94","ref":null,"props":{"keyFromParent":94,"crs_id":"ECE 5787","name":"Intelligent Autonomous Systems","description":"How can intelligent machines perceive, make decisions, and execute their plans in an uncertain, dynamic world? This course will cover algorithms for robotic perception, planning, and control with a focus on real-time adaptation and learning. Students should have prior experience with methods in signal processing and machine learning. Topics covered include probabilistic methods for scene segmentation, multimodal sensory integration, latent variable models for dynamical systems, path planning, and reinforcement learning for motor control","prerequisites":["CS 5785"],"cp":[1050,1350],"offset":80,"display":"none"},"_owner":null},{"key":"5","ref":null,"props":{"keyFromParent":5,"crs_id":"LING 1101","name":"Introduction to Linguistics","description":"Overview of the science of language, especially its theoretical underpinnings, methods, and major findings. Areas covered include: the relation between sound and meaning in human languages, social variation in language, language change over time, universals of language, and the mental representation of linguistic knowledge. Students are introduced to a wide variety of language phenomena, drawn not only from languages resembling English, but also from many that appear to be quite unlike English, such as those native to the Americas, Africa, Asia, Australia, and the South Pacific.","prerequisites":[],"cp":[1650,90],"offset":80,"display":"none"},"_owner":null},{"key":"83","ref":null,"props":{"keyFromParent":83,"crs_id":"LING 4424","name":"Computational Linguistics","description":"Computational models of natural languages. Topics include tree syntax and treebank databases; broad-coverage probabilistic grammars; finite state generative phonology; computational semantics; computational minimalist grammar; finite state optimality-theoretic phonology; Hidden Markov models of acoustic realization; text and speech corpora; lab methods in Unix/Linux environment.","prerequisites":["CS 2110","LING 1101"],"cp":[1650,1170],"offset":80,"display":"none"},"_owner":null},{"key":"7","ref":null,"props":{"keyFromParent":7,"crs_id":"MATH 1910","name":"Calculus for Engineers","description":"Essentially a second course in calculus. Topics include techniques of integration, finding areas and volumes by integration, exponential growth, partial fractions, infinite sequences and series, tests of convergence, and power series.","prerequisites":[],"cp":[2250,90],"offset":80,"display":"none"},"_owner":null},{"key":"33","ref":null,"props":{"keyFromParent":33,"crs_id":"MATH 1920","name":"Multivariable Calculus for Engineers","description":"Introduction to multivariable calculus. Topics include partial derivatives, double and triple integrals, line and surface integrals, vector fields, Green’s theorem, Stokes’ theorem, and the divergence theorem.","prerequisites":["MATH 1910"],"cp":[2250,450],"offset":80,"display":"none"},"_owner":null},{"key":"32","ref":null,"props":{"keyFromParent":32,"crs_id":"MATH 2940","name":"Linear Algebra for Engineers","description":"Linear algebra and its applications. Topics include matrices, determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and inner product spaces; applications include brief introductions to difference equations, Markov chains, and systems of linear ordinary differential equations. May include computer use in solving problems.","prerequisites":["MATH 1920"],"cp":[1950,450],"offset":80,"display":"none"},"_owner":null},{"key":"46","ref":null,"props":{"keyFromParent":46,"crs_id":"MATH 4710","name":"Basic Probability","description":"Introduction to probability theory, which prepares the student to take MATH 4720. The course begins with basics: combinatorial probability, mean and variance, independence, conditional probability, and Bayes formula. Density and distribution functions and their properties are introduced. The law of large numbers and the central limit theorem are stated and their implications for statistics are discussed.","prerequisites":["MATH 1920"],"cp":[2250,630],"offset":80,"display":"none"},"_owner":null}],"map":{"3":"CS 1110","5":"LING 1101","7":"MATH 1910","28":"CS 2800","30":"CS 2110","32":"MATH 2940","33":"MATH 1920","46":"MATH 4710","52":"CS 3110","65":"CS 5110","78":"CS 4300","79":"CS 5670","80":"CS 4700","81":"CS 5785","82":"CS 4786","83":"LING 4424","84":"CS 3220","93":"CS 4701","94":"ECE 5787","95":"CS 4787","96":"CS 5740","97":"CS 4220","107":"CS 5787"}}
+{
+    "view_size": [
+        3900,
+        2700
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            3150,
+            90
+        ],
+        [
+            3450,
+            90
+        ],
+        [
+            3750,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            3150,
+            270
+        ],
+        [
+            3450,
+            270
+        ],
+        [
+            3750,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            3150,
+            450
+        ],
+        [
+            3450,
+            450
+        ],
+        [
+            3750,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            3150,
+            630
+        ],
+        [
+            3450,
+            630
+        ],
+        [
+            3750,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            3150,
+            810
+        ],
+        [
+            3450,
+            810
+        ],
+        [
+            3750,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            3150,
+            990
+        ],
+        [
+            3450,
+            990
+        ],
+        [
+            3750,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            3150,
+            1170
+        ],
+        [
+            3450,
+            1170
+        ],
+        [
+            3750,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            3150,
+            1350
+        ],
+        [
+            3450,
+            1350
+        ],
+        [
+            3750,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            3150,
+            1530
+        ],
+        [
+            3450,
+            1530
+        ],
+        [
+            3750,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ],
+        [
+            3150,
+            1710
+        ],
+        [
+            3450,
+            1710
+        ],
+        [
+            3750,
+            1710
+        ],
+        [
+            150,
+            1890
+        ],
+        [
+            450,
+            1890
+        ],
+        [
+            750,
+            1890
+        ],
+        [
+            1050,
+            1890
+        ],
+        [
+            1350,
+            1890
+        ],
+        [
+            1650,
+            1890
+        ],
+        [
+            1950,
+            1890
+        ],
+        [
+            2250,
+            1890
+        ],
+        [
+            2550,
+            1890
+        ],
+        [
+            2850,
+            1890
+        ],
+        [
+            3150,
+            1890
+        ],
+        [
+            3450,
+            1890
+        ],
+        [
+            3750,
+            1890
+        ],
+        [
+            150,
+            2070
+        ],
+        [
+            450,
+            2070
+        ],
+        [
+            750,
+            2070
+        ],
+        [
+            1050,
+            2070
+        ],
+        [
+            1350,
+            2070
+        ],
+        [
+            1650,
+            2070
+        ],
+        [
+            1950,
+            2070
+        ],
+        [
+            2250,
+            2070
+        ],
+        [
+            2550,
+            2070
+        ],
+        [
+            2850,
+            2070
+        ],
+        [
+            3150,
+            2070
+        ],
+        [
+            3450,
+            2070
+        ],
+        [
+            3750,
+            2070
+        ],
+        [
+            150,
+            2250
+        ],
+        [
+            450,
+            2250
+        ],
+        [
+            750,
+            2250
+        ],
+        [
+            1050,
+            2250
+        ],
+        [
+            1350,
+            2250
+        ],
+        [
+            1650,
+            2250
+        ],
+        [
+            1950,
+            2250
+        ],
+        [
+            2250,
+            2250
+        ],
+        [
+            2550,
+            2250
+        ],
+        [
+            2850,
+            2250
+        ],
+        [
+            3150,
+            2250
+        ],
+        [
+            3450,
+            2250
+        ],
+        [
+            3750,
+            2250
+        ],
+        [
+            150,
+            2430
+        ],
+        [
+            450,
+            2430
+        ],
+        [
+            750,
+            2430
+        ],
+        [
+            1050,
+            2430
+        ],
+        [
+            1350,
+            2430
+        ],
+        [
+            1650,
+            2430
+        ],
+        [
+            1950,
+            2430
+        ],
+        [
+            2250,
+            2430
+        ],
+        [
+            2550,
+            2430
+        ],
+        [
+            2850,
+            2430
+        ],
+        [
+            3150,
+            2430
+        ],
+        [
+            3450,
+            2430
+        ],
+        [
+            3750,
+            2430
+        ],
+        [
+            150,
+            2610
+        ],
+        [
+            450,
+            2610
+        ],
+        [
+            750,
+            2610
+        ],
+        [
+            1050,
+            2610
+        ],
+        [
+            1350,
+            2610
+        ],
+        [
+            1650,
+            2610
+        ],
+        [
+            1950,
+            2610
+        ],
+        [
+            2250,
+            2610
+        ],
+        [
+            2550,
+            2610
+        ],
+        [
+            2850,
+            2610
+        ],
+        [
+            3150,
+            2610
+        ],
+        [
+            3450,
+            2610
+        ],
+        [
+            3750,
+            2610
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "3",
+            "ref": null,
+            "props": {
+                "keyFromParent": 3,
+                "crs_id": "CS 1110",
+                "name": "Introduction to Computing Using Python",
+                "description": "Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recusion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming, and GUIs (graphical user interfaces). Weekly labs provide guided practice on the computer, with staff present to help. Assignments use graphics and GUIs to help develop fluency and understanding.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "30",
+            "ref": null,
+            "props": {
+                "keyFromParent": 30,
+                "crs_id": "CS 2110",
+                "name": "Object-Oriented Programming and Data Structures",
+                "description": "Intermediate programming in a high-level language and introduction to computer science. Topics include object-oriented programming (classes, objects, subclasses, types), graphical user interfaces, algorithm analysis (asymptotic complexity, big “O” notation), recursion, testing, program correctness (loop invariants), searching/sorting, data structures (lists, trees, stacks, queues, heaps, search trees, hash tables, graphs), graph algorithms. Java is the principal programming language.",
+                "prerequisites": [
+                    "CS 1110"
+                ],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "28",
+            "ref": null,
+            "props": {
+                "keyFromParent": 28,
+                "crs_id": "CS 2800",
+                "name": "Discrete Structures",
+                "description": "Covers the mathematics that underlies most of computer science. Topics include mathematical induction; logical proof; propositional and predicate calculus; combinatorics and discrete mathematics; some basic elements of basic probability theory; basic number theory; sets, functions, and relations; graphs; and finite-state machines. These topics are discussed in the context of applications to many areas of computer science, such as the RSA cryptosystem and web searching.",
+                "prerequisites": [
+                    "CS 1110"
+                ],
+                "cp": [
+                    750,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "52",
+            "ref": null,
+            "props": {
+                "keyFromParent": 52,
+                "crs_id": "CS 3110",
+                "name": "Data Structures and Functional Programming",
+                "description": "Advanced programming course that emphasizes functional programming techniques and data structures. Programming topics include recursive and higher-order procedures, models of programming language evaluation and compilation, type systems, and polymorphism. Data structures and algorithms covered include graph algorithms, balanced trees, memory heaps, and garbage collection. Also covers techniques for analyzing program performance and correctness.",
+                "prerequisites": [
+                    "CS 2110",
+                    "CS 2800"
+                ],
+                "cp": [
+                    150,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "84",
+            "ref": null,
+            "props": {
+                "keyFromParent": 84,
+                "crs_id": "CS 3220",
+                "name": "Computational Mathematics for Computer Science",
+                "description": "Introduction to computational mathematics covering topics in (numerical) linear algebra, statistics, and optimization. Topics included are those of particular relevance to upper-division computer science courses in machine learning, numerical analysis, graphics, vision, robotics, and more. An emphasis is placed both on understanding core mathematical concepts and introducing associated computational methodologies.",
+                "prerequisites": [
+                    "MATH 2940"
+                ],
+                "cp": [
+                    1950,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "97",
+            "ref": null,
+            "props": {
+                "keyFromParent": 97,
+                "crs_id": "CS 4220",
+                "name": "Numerical Analysis: Linear and Nonlinear Problems",
+                "description": "Introduction to the fundamentals of numerical linear algebra: direct and iterative methods for linear systems, eigenvalue problems, singular value decomposition. In the second half of the course, the above are used to build iterative methods for nonlinear systems and for multivariate optimization. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.",
+                "prerequisites": [
+                    "MATH 2940",
+                    "CS 3220"
+                ],
+                "cp": [
+                    1950,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "78",
+            "ref": null,
+            "props": {
+                "keyFromParent": 78,
+                "crs_id": "CS 4300",
+                "name": "Language and Information",
+                "description": "How to make sense of the vast amounts of information available online, and how to relate it and to the social context in which it appears? This course introduces basic tools for retrieving and analyzing unstructured textual information from the web and social media. Applications include information retrieval (with human feedback), sentiment analysis and social analysis of text. The coursework will include programming projects that play on the interaction between knowledge and social factors.",
+                "prerequisites": [
+                    "CS 2800",
+                    "CS 2110"
+                ],
+                "cp": [
+                    150,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "keyFromParent": 80,
+                "crs_id": "CS 4700",
+                "name": "Foundations of Artificial Intelligence",
+                "description": "Challenging introduction to the major subareas and current research directions in artificial intelligence. Topics include knowledge representation, heuristic search, problem solving, natural-language processing, game-playing, logic and deduction, planning, and machine learning.",
+                "prerequisites": [
+                    "CS 2110",
+                    "CS 2800"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "93",
+            "ref": null,
+            "props": {
+                "keyFromParent": 93,
+                "crs_id": "CS 4701",
+                "name": "Practicum in Artificial Intelligence",
+                "description": "Project portion of CS 4700. Topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetics algorithms, planning, and truth maintenance.",
+                "prerequisites": [
+                    "CS 4700"
+                ],
+                "cp": [
+                    750,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "82",
+            "ref": null,
+            "props": {
+                "keyFromParent": 82,
+                "crs_id": "CS 4786",
+                "name": "Machine Learning for Data Science",
+                "description": "An introduction to machine learning for data-science applications. Topics include dimensionality-reduction (such as principal components analysis, canonical correlation analysis, and random projection); clustering (such as k-means and single-link); probabilistic modeling (such as mixture models and the EM algorithm).",
+                "prerequisites": [
+                    "MATH 4710",
+                    "MATH 2940",
+                    "CS 2110"
+                ],
+                "cp": [
+                    1350,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "95",
+            "ref": null,
+            "props": {
+                "keyFromParent": 95,
+                "crs_id": "CS 4787",
+                "name": "Principles of Large-Scale Machine Learning Systems",
+                "description": "An introduction to the mathematical and algorithms design principles and tradeoffs that underlie large-scale machine learning on big training sets. Topics include: stochastic gradient descent and other scalable optimization methods, mini-batch training, accelerated methods, adaptive learning rates, parallel and distributed training, and quantization and model compression.",
+                "prerequisites": [
+                    "CS 4786",
+                    "CS 2110"
+                ],
+                "cp": [
+                    1350,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "65",
+            "ref": null,
+            "props": {
+                "keyFromParent": 65,
+                "crs_id": "CS 5110",
+                "name": "Programming Languages and Logics",
+                "description": "An introduction to the theory, design, and implementation of programming languages. Topics include operational semantics, type systems, higher-order functions, scope, lambda calculus, laziness, exceptions, side effects, continuations, objects, and modules. Also discussed are logic programming, concurrency, and distributed programming.",
+                "prerequisites": [
+                    "CS 3110"
+                ],
+                "cp": [
+                    150,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "79",
+            "ref": null,
+            "props": {
+                "keyFromParent": 79,
+                "crs_id": "CS 5670",
+                "name": "Introduction to Computer Vision",
+                "description": "An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world-the 3D shape of an environment, the motion of objects, the names of people or things-through analysis of digital images or videos.  The course covers a range of topics, including 3D reconstruction, image segmentation, object recognition, and vision algorithms fro the Internet, as well as key algorithmic, optimization, and machine learning techniques, such as graph cuts, non-linear least squares, and deep learning.  This course emphasizes hands-on experience with computer vision, and several large programming projects.",
+                "prerequisites": [
+                    "CS 2800",
+                    "CS 2110"
+                ],
+                "cp": [
+                    450,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "keyFromParent": 96,
+                "crs_id": "CS 5740",
+                "name": "Natural Language Processing",
+                "description": "This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today’s most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. Possible topics include methods for handling underlying linguistic phenomena (e.g., syntactic analysis, word sense disambiguation and discourse analysis) and vital emerging applications (e.g., machine translation, sentiment analysis, summarization and information extraction).",
+                "prerequisites": [
+                    "CS 2110"
+                ],
+                "cp": [
+                    1650,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "keyFromParent": 81,
+                "crs_id": "CS 5785",
+                "name": "Applied Machine Learning",
+                "description": "Learn and apply key concepts of modeling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, and dimensionality reduction.",
+                "prerequisites": [
+                    "CS 2800"
+                ],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "107",
+            "ref": null,
+            "props": {
+                "keyFromParent": 107,
+                "crs_id": "CS 5787",
+                "name": "Deep Learning",
+                "description": "Students will learn deep neural network fundamentals, including, but not limited to, feed-forward neural networks, convolutional neural networks, network architecture, optimization methods, practical issues, hardware concerns, recurrent neural networks, dataset acquisition, dataset bias, adversarial examples, current limitations of deep learning, and visualization techniques. We still study applications to problems in computer vision and to a lesser extent natural language processing and reinforcement learning. There will also be a session on understanding publications in deep learning, which is a critical skill in this fast moving area.",
+                "prerequisites": [
+                    "CS 5785"
+                ],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "keyFromParent": 94,
+                "crs_id": "ECE 5787",
+                "name": "Intelligent Autonomous Systems",
+                "description": "How can intelligent machines perceive, make decisions, and execute their plans in an uncertain, dynamic world? This course will cover algorithms for robotic perception, planning, and control with a focus on real-time adaptation and learning. Students should have prior experience with methods in signal processing and machine learning. Topics covered include probabilistic methods for scene segmentation, multimodal sensory integration, latent variable models for dynamical systems, path planning, and reinforcement learning for motor control",
+                "prerequisites": [
+                    "CS 5785"
+                ],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "keyFromParent": 5,
+                "crs_id": "LING 1101",
+                "name": "Introduction to Linguistics",
+                "description": "Overview of the science of language, especially its theoretical underpinnings, methods, and major findings. Areas covered include: the relation between sound and meaning in human languages, social variation in language, language change over time, universals of language, and the mental representation of linguistic knowledge. Students are introduced to a wide variety of language phenomena, drawn not only from languages resembling English, but also from many that appear to be quite unlike English, such as those native to the Americas, Africa, Asia, Australia, and the South Pacific.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "keyFromParent": 83,
+                "crs_id": "LING 4424",
+                "name": "Computational Linguistics",
+                "description": "Computational models of natural languages. Topics include tree syntax and treebank databases; broad-coverage probabilistic grammars; finite state generative phonology; computational semantics; computational minimalist grammar; finite state optimality-theoretic phonology; Hidden Markov models of acoustic realization; text and speech corpora; lab methods in Unix/Linux environment.",
+                "prerequisites": [
+                    "CS 2110",
+                    "LING 1101"
+                ],
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "7",
+            "ref": null,
+            "props": {
+                "keyFromParent": 7,
+                "crs_id": "MATH 1910",
+                "name": "Calculus for Engineers",
+                "description": "Essentially a second course in calculus. Topics include techniques of integration, finding areas and volumes by integration, exponential growth, partial fractions, infinite sequences and series, tests of convergence, and power series.",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "33",
+            "ref": null,
+            "props": {
+                "keyFromParent": 33,
+                "crs_id": "MATH 1920",
+                "name": "Multivariable Calculus for Engineers",
+                "description": "Introduction to multivariable calculus. Topics include partial derivatives, double and triple integrals, line and surface integrals, vector fields, Green’s theorem, Stokes’ theorem, and the divergence theorem.",
+                "prerequisites": [
+                    "MATH 1910"
+                ],
+                "cp": [
+                    2250,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "32",
+            "ref": null,
+            "props": {
+                "keyFromParent": 32,
+                "crs_id": "MATH 2940",
+                "name": "Linear Algebra for Engineers",
+                "description": "Linear algebra and its applications. Topics include matrices, determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and inner product spaces; applications include brief introductions to difference equations, Markov chains, and systems of linear ordinary differential equations. May include computer use in solving problems.",
+                "prerequisites": [
+                    "MATH 1920"
+                ],
+                "cp": [
+                    1950,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "46",
+            "ref": null,
+            "props": {
+                "keyFromParent": 46,
+                "crs_id": "MATH 4710",
+                "name": "Basic Probability",
+                "description": "Introduction to probability theory, which prepares the student to take MATH 4720. The course begins with basics: combinatorial probability, mean and variance, independence, conditional probability, and Bayes formula. Density and distribution functions and their properties are introduced. The law of large numbers and the central limit theorem are stated and their implications for statistics are discussed.",
+                "prerequisites": [
+                    "MATH 1920"
+                ],
+                "cp": [
+                    2250,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "3": "CS 1110",
+        "5": "LING 1101",
+        "7": "MATH 1910",
+        "28": "CS 2800",
+        "30": "CS 2110",
+        "32": "MATH 2940",
+        "33": "MATH 1920",
+        "46": "MATH 4710",
+        "52": "CS 3110",
+        "65": "CS 5110",
+        "78": "CS 4300",
+        "79": "CS 5670",
+        "80": "CS 4700",
+        "81": "CS 5785",
+        "82": "CS 4786",
+        "83": "LING 4424",
+        "84": "CS 3220",
+        "93": "CS 4701",
+        "94": "ECE 5787",
+        "95": "CS 4787",
+        "96": "CS 5740",
+        "97": "CS 4220",
+        "107": "CS 5787"
+    }
+}

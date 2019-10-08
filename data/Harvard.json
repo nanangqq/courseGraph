@@ -463,7 +463,7 @@
             "ref": null,
             "props": {
                 "crs_id": "COMPSCI 50",
-                "name": "Introduvtion to computer science",
+                "name": "Introduction to computer science",
                 "description": "This course teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, and software engineering. Languages include C, Python, and SQL plus students' choice of",
                 "prerequisites": [
                     ""
@@ -681,7 +681,7 @@
             "ref": null,
             "props": {
                 "crs_id": "COMPSCI 121",
-                "name": "Introduvtion to theoritical computer science",
+                "name": "Introduction to theoritical computer science",
                 "description": "Computation occurs over a variety of substrates including silicon, neurons, DNA, the stock market, bee colonies and many others. In this course we will study the fundamental capabilities and limitations of computation, including the phenomenon of universality and the duality of code and data.",
                 "prerequisites": [
                     "COMPSCI 20"

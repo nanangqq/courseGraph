@@ -1,0 +1,1244 @@
+{
+    "view_size": [
+        3900,
+        2700
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            3150,
+            90
+        ],
+        [
+            3450,
+            90
+        ],
+        [
+            3750,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            3150,
+            270
+        ],
+        [
+            3450,
+            270
+        ],
+        [
+            3750,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            3150,
+            450
+        ],
+        [
+            3450,
+            450
+        ],
+        [
+            3750,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            3150,
+            630
+        ],
+        [
+            3450,
+            630
+        ],
+        [
+            3750,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            3150,
+            810
+        ],
+        [
+            3450,
+            810
+        ],
+        [
+            3750,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            3150,
+            990
+        ],
+        [
+            3450,
+            990
+        ],
+        [
+            3750,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            3150,
+            1170
+        ],
+        [
+            3450,
+            1170
+        ],
+        [
+            3750,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            3150,
+            1350
+        ],
+        [
+            3450,
+            1350
+        ],
+        [
+            3750,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            3150,
+            1530
+        ],
+        [
+            3450,
+            1530
+        ],
+        [
+            3750,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ],
+        [
+            3150,
+            1710
+        ],
+        [
+            3450,
+            1710
+        ],
+        [
+            3750,
+            1710
+        ],
+        [
+            150,
+            1890
+        ],
+        [
+            450,
+            1890
+        ],
+        [
+            750,
+            1890
+        ],
+        [
+            1050,
+            1890
+        ],
+        [
+            1350,
+            1890
+        ],
+        [
+            1650,
+            1890
+        ],
+        [
+            1950,
+            1890
+        ],
+        [
+            2250,
+            1890
+        ],
+        [
+            2550,
+            1890
+        ],
+        [
+            2850,
+            1890
+        ],
+        [
+            3150,
+            1890
+        ],
+        [
+            3450,
+            1890
+        ],
+        [
+            3750,
+            1890
+        ],
+        [
+            150,
+            2070
+        ],
+        [
+            450,
+            2070
+        ],
+        [
+            750,
+            2070
+        ],
+        [
+            1050,
+            2070
+        ],
+        [
+            1350,
+            2070
+        ],
+        [
+            1650,
+            2070
+        ],
+        [
+            1950,
+            2070
+        ],
+        [
+            2250,
+            2070
+        ],
+        [
+            2550,
+            2070
+        ],
+        [
+            2850,
+            2070
+        ],
+        [
+            3150,
+            2070
+        ],
+        [
+            3450,
+            2070
+        ],
+        [
+            3750,
+            2070
+        ],
+        [
+            150,
+            2250
+        ],
+        [
+            450,
+            2250
+        ],
+        [
+            750,
+            2250
+        ],
+        [
+            1050,
+            2250
+        ],
+        [
+            1350,
+            2250
+        ],
+        [
+            1650,
+            2250
+        ],
+        [
+            1950,
+            2250
+        ],
+        [
+            2250,
+            2250
+        ],
+        [
+            2550,
+            2250
+        ],
+        [
+            2850,
+            2250
+        ],
+        [
+            3150,
+            2250
+        ],
+        [
+            3450,
+            2250
+        ],
+        [
+            3750,
+            2250
+        ],
+        [
+            150,
+            2430
+        ],
+        [
+            450,
+            2430
+        ],
+        [
+            750,
+            2430
+        ],
+        [
+            1050,
+            2430
+        ],
+        [
+            1350,
+            2430
+        ],
+        [
+            1650,
+            2430
+        ],
+        [
+            1950,
+            2430
+        ],
+        [
+            2250,
+            2430
+        ],
+        [
+            2550,
+            2430
+        ],
+        [
+            2850,
+            2430
+        ],
+        [
+            3150,
+            2430
+        ],
+        [
+            3450,
+            2430
+        ],
+        [
+            3750,
+            2430
+        ],
+        [
+            150,
+            2610
+        ],
+        [
+            450,
+            2610
+        ],
+        [
+            750,
+            2610
+        ],
+        [
+            1050,
+            2610
+        ],
+        [
+            1350,
+            2610
+        ],
+        [
+            1650,
+            2610
+        ],
+        [
+            1950,
+            2610
+        ],
+        [
+            2250,
+            2610
+        ],
+        [
+            2550,
+            2610
+        ],
+        [
+            2850,
+            2610
+        ],
+        [
+            3150,
+            2610
+        ],
+        [
+            3450,
+            2610
+        ],
+        [
+            3750,
+            2610
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "2",
+            "ref": null,
+            "props": {
+                "keyFromParent": "2",
+                "crs_id": "ai 1",
+                "name": "Artificial Intelligence(AI)",
+                "description": "Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "16",
+            "ref": null,
+            "props": {
+                "keyFromParent": "16",
+                "crs_id": "ai 2",
+                "name": "Machine Learning",
+                "description": "Master the essentials of machine learning and algorithms to help improve learning from data without human intervention.",
+                "prerequisites": [
+                    "ai 1"
+                ],
+                "cp": [
+                    1050,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "29",
+            "ref": null,
+            "props": {
+                "keyFromParent": "29",
+                "crs_id": "ai 3",
+                "name": "Robotics",
+                "description": "Learn the core techniques for representing robots that perform physical tasks in the real world.",
+                "prerequisites": [
+                    "ai 2"
+                ],
+                "cp": [
+                    1050,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "42",
+            "ref": null,
+            "props": {
+                "keyFromParent": "42",
+                "crs_id": "ai 4",
+                "name": "Animation and CGI Motion",
+                "description": "Learn the science behind movie animation from the Director of Columbia’s Computer Graphics Group.",
+                "prerequisites": [
+                    "ai 3"
+                ],
+                "cp": [
+                    1050,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "keyFromParent": "55",
+                "crs_id": "bd 1",
+                "name": "Programming for Data Science",
+                "description": "Learn how to apply fundamental programming concepts, computational thinking and data analysis techniques to solve real-world data science problems.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "15",
+            "ref": null,
+            "props": {
+                "keyFromParent": "15",
+                "crs_id": "bd 2",
+                "name": "Computational Thinking and Big Data",
+                "description": "Learn the core concepts of computational thinking and how to collect, clean and consolidate large-scale datasets.",
+                "prerequisites": [
+                    "bd 1"
+                ],
+                "cp": [
+                    750,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "28",
+            "ref": null,
+            "props": {
+                "keyFromParent": "28",
+                "crs_id": "bd 3",
+                "name": "Big Data Fundamentals",
+                "description": "Learn how big data is driving organisational change and essential analytical tools and techniques, including data mining and PageRank algorithms.",
+                "prerequisites": [
+                    "bd 2"
+                ],
+                "cp": [
+                    750,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "41",
+            "ref": null,
+            "props": {
+                "keyFromParent": "41",
+                "crs_id": "bd 4",
+                "name": "Big Data Analytics",
+                "description": "Learn key technologies and techniques, including R and Apache Spark, to analyse large-scale data sets to uncover valuable business information.",
+                "prerequisites": [
+                    "bd 3"
+                ],
+                "cp": [
+                    750,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "keyFromParent": 4,
+                "crs_id": "bd 5",
+                "name": "Big Data Capstone Project",
+                "description": "Further develop your knowledge of big data by applying the skills you have learned to a real-world data science project.",
+                "prerequisites": [
+                    "bd 4"
+                ],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "68",
+            "ref": null,
+            "props": {
+                "keyFromParent": "68",
+                "crs_id": "ds 1",
+                "name": "Machine Learning Fundamentals",
+                "description": "Understand machine learning’s role in data-driven modeling, prediction, and decision-making.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "keyFromParent": "80",
+                "crs_id": "ds 2",
+                "name": "Python for Data Science",
+                "description": "Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets.",
+                "prerequisites": [
+                    "ds 1"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "31",
+            "ref": null,
+            "props": {
+                "keyFromParent": 31,
+                "crs_id": "ds 3",
+                "name": "Probability and Statistics in Data Science using Python",
+                "description": "Using Python, learn statistical and probabilistic approaches to understand and gain insights from data.",
+                "prerequisites": [
+                    "ds 2"
+                ],
+                "cp": [
+                    1650,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "keyFromParent": "27",
+                "crs_id": "ds 4",
+                "name": "Big Data Analytics using Spark",
+                "description": "Learn how to analyze large datasets using Jupyter notebooks, MapReduce and Spark as a platform.",
+                "prerequisites": [
+                    "ds 3"
+                ],
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "keyFromParent": "53",
+                "crs_id": "rb 1",
+                "name": "Kinematics and Mathematical Foundations",
+                "description": "Master the foundational math concepts that drive robotics and put them into practice using MATLAB.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "82",
+            "ref": null,
+            "props": {
+                "keyFromParent": "82",
+                "crs_id": "rb 2",
+                "name": "Vision Intelligence and Machine Learning",
+                "description": "Learn how to design robot vision systems that avoid collisions, safely work with humans and understand their environment.",
+                "prerequisites": [
+                    "rb 1"
+                ],
+                "cp": [
+                    1350,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "keyFromParent": "83",
+                "crs_id": "rb 3",
+                "name": "Dynamics and Control",
+                "description": "Learn how to design and engineer complex, dynamic robotic systems.",
+                "prerequisites": [
+                    "rb 2"
+                ],
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "84",
+            "ref": null,
+            "props": {
+                "keyFromParent": "84",
+                "crs_id": "rb 4",
+                "name": "Locomotion Engineering",
+                "description": "Learn how to design, build, and program dynamical, legged robots that can operate in the real world.",
+                "prerequisites": [
+                    "rb 3"
+                ],
+                "cp": [
+                    1950,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "keyFromParent": "81",
+                "crs_id": "stds 1",
+                "name": "Probability - The Science of Uncertainty and Data",
+                "description": "Build foundational knowledge of data science with this introduction to probabilistic models, including random processes and the basic elements of statistical inference",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "0",
+            "ref": null,
+            "props": {
+                "keyFromParent": 0,
+                "crs_id": "stds 2",
+                "name": "Data Analitics in Social Science - Accessing Your Knowledge",
+                "description": "Learn the methods for harnessing and analyzing data to answer questions of cultural, social, economic, and policy interest, and then assess that knowledge",
+                "prerequisites": [
+                    "stds 1"
+                ],
+                "cp": [
+                    150,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "keyFromParent": 1,
+                "crs_id": "stds 3",
+                "name": "Fundamentals of Statistics",
+                "description": "Develop a deep understanding of the principles that underpin statistical inference: estimation, hypothesis testing and prediction.",
+                "prerequisites": [
+                    "stds 2"
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "3",
+            "ref": null,
+            "props": {
+                "keyFromParent": 3,
+                "crs_id": "stds 4",
+                "name": "Machine Learning with Python: from Linear Models to Deep Learning",
+                "description": "An in-depth introduction to the field of machine learning, from linear models to deep learning and reinforcement learning, through hands-on Python projects.",
+                "prerequisites": [
+                    "stds 3"
+                ],
+                "cp": [
+                    1050,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        }
+    ],
+    "map": {
+        "0": "stds 2",
+        "1": "stds 3",
+        "2": "ai 1",
+        "3": "stds 4",
+        "4": "bd 5",
+        "15": "bd 2",
+        "16": "ai 2",
+        "27": "ds 4",
+        "28": "bd 3",
+        "29": "ai 3",
+        "31": "ds 3",
+        "41": "bd 4",
+        "42": "ai 4",
+        "53": "rb 1",
+        "55": "bd 1",
+        "68": "ds 1",
+        "80": "ds 2",
+        "81": "stds 1",
+        "82": "rb 2",
+        "83": "rb 3",
+        "84": "rb 4"
+    }
+}

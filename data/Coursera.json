@@ -1,0 +1,1266 @@
+{
+    "view_size": [
+        3900,
+        2700
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            3150,
+            90
+        ],
+        [
+            3450,
+            90
+        ],
+        [
+            3750,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            3150,
+            270
+        ],
+        [
+            3450,
+            270
+        ],
+        [
+            3750,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            3150,
+            450
+        ],
+        [
+            3450,
+            450
+        ],
+        [
+            3750,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            3150,
+            630
+        ],
+        [
+            3450,
+            630
+        ],
+        [
+            3750,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            3150,
+            810
+        ],
+        [
+            3450,
+            810
+        ],
+        [
+            3750,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            3150,
+            990
+        ],
+        [
+            3450,
+            990
+        ],
+        [
+            3750,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            3150,
+            1170
+        ],
+        [
+            3450,
+            1170
+        ],
+        [
+            3750,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            3150,
+            1350
+        ],
+        [
+            3450,
+            1350
+        ],
+        [
+            3750,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            3150,
+            1530
+        ],
+        [
+            3450,
+            1530
+        ],
+        [
+            3750,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ],
+        [
+            3150,
+            1710
+        ],
+        [
+            3450,
+            1710
+        ],
+        [
+            3750,
+            1710
+        ],
+        [
+            150,
+            1890
+        ],
+        [
+            450,
+            1890
+        ],
+        [
+            750,
+            1890
+        ],
+        [
+            1050,
+            1890
+        ],
+        [
+            1350,
+            1890
+        ],
+        [
+            1650,
+            1890
+        ],
+        [
+            1950,
+            1890
+        ],
+        [
+            2250,
+            1890
+        ],
+        [
+            2550,
+            1890
+        ],
+        [
+            2850,
+            1890
+        ],
+        [
+            3150,
+            1890
+        ],
+        [
+            3450,
+            1890
+        ],
+        [
+            3750,
+            1890
+        ],
+        [
+            150,
+            2070
+        ],
+        [
+            450,
+            2070
+        ],
+        [
+            750,
+            2070
+        ],
+        [
+            1050,
+            2070
+        ],
+        [
+            1350,
+            2070
+        ],
+        [
+            1650,
+            2070
+        ],
+        [
+            1950,
+            2070
+        ],
+        [
+            2250,
+            2070
+        ],
+        [
+            2550,
+            2070
+        ],
+        [
+            2850,
+            2070
+        ],
+        [
+            3150,
+            2070
+        ],
+        [
+            3450,
+            2070
+        ],
+        [
+            3750,
+            2070
+        ],
+        [
+            150,
+            2250
+        ],
+        [
+            450,
+            2250
+        ],
+        [
+            750,
+            2250
+        ],
+        [
+            1050,
+            2250
+        ],
+        [
+            1350,
+            2250
+        ],
+        [
+            1650,
+            2250
+        ],
+        [
+            1950,
+            2250
+        ],
+        [
+            2250,
+            2250
+        ],
+        [
+            2550,
+            2250
+        ],
+        [
+            2850,
+            2250
+        ],
+        [
+            3150,
+            2250
+        ],
+        [
+            3450,
+            2250
+        ],
+        [
+            3750,
+            2250
+        ],
+        [
+            150,
+            2430
+        ],
+        [
+            450,
+            2430
+        ],
+        [
+            750,
+            2430
+        ],
+        [
+            1050,
+            2430
+        ],
+        [
+            1350,
+            2430
+        ],
+        [
+            1650,
+            2430
+        ],
+        [
+            1950,
+            2430
+        ],
+        [
+            2250,
+            2430
+        ],
+        [
+            2550,
+            2430
+        ],
+        [
+            2850,
+            2430
+        ],
+        [
+            3150,
+            2430
+        ],
+        [
+            3450,
+            2430
+        ],
+        [
+            3750,
+            2430
+        ],
+        [
+            150,
+            2610
+        ],
+        [
+            450,
+            2610
+        ],
+        [
+            750,
+            2610
+        ],
+        [
+            1050,
+            2610
+        ],
+        [
+            1350,
+            2610
+        ],
+        [
+            1650,
+            2610
+        ],
+        [
+            1950,
+            2610
+        ],
+        [
+            2250,
+            2610
+        ],
+        [
+            2550,
+            2610
+        ],
+        [
+            2850,
+            2610
+        ],
+        [
+            3150,
+            2610
+        ],
+        [
+            3450,
+            2610
+        ],
+        [
+            3750,
+            2610
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "2",
+            "ref": null,
+            "props": {
+                "keyFromParent": "2",
+                "crs_id": "ml 1",
+                "name": "Statistical Thinking I: Foundations",
+                "description": "This course provides foundational knowledge in statistical thinking and introduces you to thinking critically about data analytics. You’ll begin working on a case study developed at the University of Chicago in which you’ll use a proprietary dataset to make real-world insights using statistical techniques.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "16",
+            "ref": null,
+            "props": {
+                "keyFromParent": "16",
+                "crs_id": "ml 2",
+                "name": "Statistical Thinking II: Further Applications",
+                "description": "Learn to work with more sophisticated datasets and interpret them using more advanced statistical techniques, such as multivariate OLS, transforming variables, and advanced binary classification.",
+                "prerequisites": [
+                    "ml 1"
+                ],
+                "cp": [
+                    1050,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "29",
+            "ref": null,
+            "props": {
+                "keyFromParent": "29",
+                "crs_id": "ml 3",
+                "name": "Machine Learning I: The Principles of Machine Learning",
+                "description": "Get introduced to Machine Learning as a discipline and build on the statistical techniques that you have learned. You’ll also understand machine learning as a discipline with its own mode of thinking where practitioners train models to create predictions that are used in a growing number of analytical applications.",
+                "prerequisites": [
+                    "ml 2"
+                ],
+                "cp": [
+                    1050,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "42",
+            "ref": null,
+            "props": {
+                "keyFromParent": "42",
+                "crs_id": "ml 4",
+                "name": "Machine Learning II: Advanced Techniques",
+                "description": "In this final course, you’ll learn additional machine learning techniques. You’ll explore how to fine tune the models that you have been creating, more advanced ways to manipulate your data, and more sophisticated approaches, such as ensemble methods.",
+                "prerequisites": ["ml 3"],
+                "cp": [
+                    1050,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "keyFromParent": "55",
+                "crs_id": "bd 1",
+                "name": "Data Processing at Scale",
+                "description": "Database systems are used to provide convenient access to disk-resident data through efficient query processing, indexing structures, concurrency control, and recovery. This course delves into new frameworks for processing and generating large-scale datasets with parallel and distributed algorithms, covering the design, deployment and use of state-of-the-art data processing systems, which provide scalable access to data.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "15",
+            "ref": null,
+            "props": {
+                "keyFromParent": "15",
+                "crs_id": "bd 2",
+                "name": "Data Mining",
+                "description": "Once called “knowledge discovery in databases,” advances in processing power and speed over the last decade have allowed users to move beyond manual, tedious, and time-consuming practices to quick, easy data analysis that harnesses the power of machine learning and high performance computing. This course will introduce you to the fundamentals of data mining and pattern recognition.",
+                "prerequisites": [
+                    "bd 1"
+                ],
+                "cp": [
+                    750,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "28",
+            "ref": null,
+            "props": {
+                "keyFromParent": "28",
+                "crs_id": "bd 3",
+                "name": "Statistical Machine Learning",
+                "description": "The link between inference and computation is central to statistical machine learning, which combines the computational sciences with statistics. This course investigates the data mining and statistical pattern recognition that support artificial intelligence. Main topics covered include supervised learning; unsupervised learning; and deep learning, including major components of machine learning and the data analytics that enable it.",
+                "prerequisites": [
+                    "bd 2"
+                ],
+                "cp": [
+                    750,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "41",
+            "ref": null,
+            "props": {
+                "keyFromParent": "41",
+                "crs_id": "bd 4",
+                "name": "Data Visualization",
+                "description": "Visual representations generated by statistical models help us to make sense of large, complex datasets through interactive exploration, thereby enabling big data to realize its potential for informing decisions. This course covers techniques and algorithms for creating effective visualizations based on principles from graphic design, visual art, perceptual psychology, and cognitive science to enhance the understanding of complex data.",
+                "prerequisites": [
+                    "bd 3"
+                ],
+                "cp": [
+                    750,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "68",
+            "ref": null,
+            "props": {
+                "keyFromParent": "68",
+                "crs_id": "ds 1",
+                "name": "What is Data Science?",
+                "description": "The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, we will meet some data science practitioners and we will get an overview of what data science is today. LIMITED TIME OFFER: Subscription is only $39 USD per month for access to graded materials and a certificate.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "keyFromParent": "80",
+                "crs_id": "ds 2",
+                "name": "Open Source tools for Data Science",
+                "description": "What are some of the most popular data science tools, how do you use them, and what are their features? In this course, you'll learn about Jupyter Notebooks, RStudio IDE, Apache Zeppelin and Data Science Experience. You will learn about what each tool is used for, what programming languages they can execute, their features and limitations. With the tools hosted in the cloud on Cognitive Class Labs, you will be able to test each tool and follow instructions to run simple code in Python, R or Scala. To end the course, you will create a final project with a Jupyter Notebook on IBM Data Science Experience and demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers. LIMITED TIME OFFER: Subscription is only $39 USD per month for access to graded materials and a certificate.",
+                "prerequisites": [
+                    "ds 1"
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "31",
+            "ref": null,
+            "props": {
+                "keyFromParent": 31,
+                "crs_id": "ds 3",
+                "name": "Data Science Methodology",
+                "description": "Despite the recent increase in computing power and access to data over the last couple of decades, our ability to use the data within the decision making process is either lost or not maximized at all too often, we don't have a solid understanding of the questions being asked and how to apply the data correctly to the problem at hand. This course has one purpose, and that is to share a methodology that can be used within data science, to ensure that the data used in problem solving is relevant and properly manipulated to address the question at hand. Accordingly, in this course, you will learn: - The major steps involved in tackling a data science problem. - The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment. - How data scientists think! LIMITED TIME OFFER: Subscription is only $39 USD per month for access to graded materials and a certificate.",
+                "prerequisites": ["ds 2"],
+                "cp": [
+                    1650,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "keyFromParent": "27",
+                "crs_id": "ds 4",
+                "name": "Python for Data Science and AI",
+                "description": "This introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours. Module 1 - Python Basics o Your first program o Types o Expressions and Variables o String Operations Module 2 - Python Data Structures o Lists and Tuples o Sets o Dictionaries Module 3 - Python Programming Fundamentals o Conditions and Branching o Loops o Functions o Objects and Classes Module 4 - Working with Data in Python o Reading files with open o Writing files with open o Loading data with Pandas o Numpy Finally, you will create a project to test your skills.",
+                "prerequisites": ["ds 3", "aip 3"],
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "keyFromParent": "53",
+                "crs_id": "aie 1",
+                "name": "Python을 통한 머신 러닝",
+                "description": "This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. In this course, we will be reviewing two main components: First, you will be learning about the purpose of Machine Learning and where it applies to the real world. Second, you will get a general overview of Machine Learning topics such as supervised vs unsupervised learning, model evaluation, and Machine Learning algorithms. In this course, you practice with real-life examples of Machine learning and see how it affects society in ways you may not have guessed! By just putting in a few hours a week for the next few weeks, this is what you’ll get. 1) New skills to add to your resume, such as regression, classification, clustering, sci-kit learn and SciPy 2) New projects that you can add to your portfolio, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more. 3) And a certificate in machine learning to prove your competency, and share it anywhere you like online or offline, such as LinkedIn profiles and social media. If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge upon successful completion of the course.",
+                "prerequisites": [
+                    "ds 4"
+                ],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "82",
+            "ref": null,
+            "props": {
+                "keyFromParent": "82",
+                "crs_id": "aie 2",
+                "name": "Scalable Machine Learning on Big Data using Apache Spark",
+                "description": "This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work involves very large data sets that go beyond the CPU, memory and storage limitations of a single computer. Apache Spark is an open source framework that leverages cluster computing and distributed storage to process extremely large data sets in an efficient and cost effective manner. Therefore an applied knowledge of working with Apache Spark is a great asset and potential differentiator for a Machine Learning engineer. After completing this course, you will be able to: - gain a practical understanding of Apache Spark, and apply it to solve machine learning problems involving both small and big data - understand how parallel code is written, capable of running on thousands of CPUs. - make use of large scale compute clusters to apply machine learning algorithms on Petabytes of data using Apache SparkML Pipelines. - eliminate out-of-memory errors generated by traditional machine learning frameworks when data doesn’t fit in a computer's main memory - test thousands of different ML models in parallel to find the best performing one – a technique used by many successful Kagglers - (Optional) run SQL statements on very large data sets using Apache SparkSQL and the Apache Spark DataFrame API. Enrol now to learn the machine learning techniques for working with Big Data that have been successfully applied by companies like Alibaba, Apple, Amazon, Baidu, eBay, IBM, NASA, Samsung, SAP, TripAdvisor, Yahoo!, Zalando and many others. NOTE: You will practice running machine learning tasks hands-on on an Apache Spark cluster provided by IBM at no charge during the course which you can continue to use afterwards. Prerequisites: - basic python programming - basic machine learning (optional introduction videos are provided in this course as well) - basic SQL skills for optional content The following courses are recommended before taking this class (unless you already have the skills) https://www.coursera.org/learn/python-for-applied-data-science or similar https://www.coursera.org/learn/machine-learning-with-python or similar https://www.coursera.org/learn/sql-data-science for optional lectures",
+                "prerequisites": [
+                    "aie 1"
+                ],
+                "cp": [
+                    1350,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "keyFromParent": "83",
+                "crs_id": "aie 3",
+                "name": "Introduction to Deep Learning & Neural Networks with Keras",
+                "description": "Looking to start a career in Deep Learning? Look no further. This course will introduce you to the field of deep learning and help you answer many questions that people are asking nowadays, like what is deep learning, and how do deep learning models compare to artificial neural networks? You will learn about the different deep learning models and build your first deep learning model using the Keras library. After completing this course, learners will be able to: • describe what a neural network is, what a deep learning model is, and the difference between them. • demonstrate an understanding of unsupervised deep learning models such as autoencoders and restricted Boltzmann machines. • demonstrate an understanding of supervised deep learning models such as convolutional neural networks and recurrent networks. • build deep learning models and networks using the Keras library.",
+                "prerequisites": [
+                    "aie 2"
+                ],
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "84",
+            "ref": null,
+            "props": {
+                "keyFromParent": "84",
+                "crs_id": "aie 4",
+                "name": "Deep Neural Networks with PyTorch",
+                "description": "The course will teach you how to develop deep learning models using Pytorch. The course will start with Pytorch's tensors and Automatic differentiation package. Then each section will cover different models starting off with fundamentals such as Linear Regression, and logistic/softmax regression. Followed by Feedforward deep neural networks, the role of different activation functions, normalization and dropout layers. Then Convolutional Neural Networks and Transfer learning will be covered. Finally, several other Deep learning methods will be covered. Learning Outcomes: After completing this course, learners will be able to: • explain and apply their knowledge of Deep Neural Networks and related machine learning methods • know how to use Python libraries such as PyTorch for Deep Learning applications • build Deep Neural Networks using PyTorch",
+                "prerequisites": [
+                    "aie 3"
+                ],
+                "cp": [
+                    1950,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "keyFromParent": "81",
+                "crs_id": "aie 5",
+                "name": "Building Deep Learning Models with TensorFlow",
+                "description": "The majority of data in the world is unlabeled and unstructured. Shallow neural networks cannot easily capture relevant structure in, for instance, images, sound, and textual data. Deep networks are capable of discovering hidden structures within this type of data. In this course you’ll use TensorFlow library to apply deep learning to different data types in order to solve real world problems. Learning Outcomes: After completing this course, learners will be able to: • explain foundational TensorFlow concepts such as the main functions, operations and the execution pipelines. • describe how TensorFlow can be used in curve fitting, regression, classification and minimization of error functions. • understand different types of Deep Architectures, such as Convolutional Networks, Recurrent Networks and Autoencoders. • apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained.",
+                "prerequisites": ["aie 4"],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "",
+            "ref": null,
+            "props": {
+                "keyFromParent": "",
+                "crs_id": "aie 6",
+                "name": "AI Capstone Project with Deep Learning",
+                "description": "In this capstone, learners will apply their deep learning knowledge and expertise to a real world challenge. They will use a library of their choice to develop and test a deep learning model. They will load and pre-process data for a real problem, build the model and validate it. Learners will then present a project report to demonstrate the validity of their model and their proficiency in the field of Deep Learning. Learning Outcomes: • determine what kind of deep learning method to use in which situation • know how to build a deep learning model to solve a real problem • master the process of creating a deep learning pipeline • apply knowledge of deep learning to improve models using real data • demonstrate ability to present and communicate outcomes of deep learning projects",
+                "prerequisites": ["aie 5"],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "",
+            "ref": null,
+            "props": {
+                "keyFromParent": "",
+                "crs_id": "aip 1",
+                "name": "Introduction to Artificial Intelligence (AI)",
+                "description": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI. You will also demonstrate AI in action with a mini project. This course does not require any programming or computer science expertise and is designed to introduce the basics of AI to anyone whether you have a technical background or not.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "",
+            "ref": null,
+            "props": {
+                "keyFromParent": "",
+                "crs_id": "aip 2",
+                "name": "Getting Started with AI using IBM Watson",
+                "description": "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real life client examples, and be introduced to several of Watson AI services from IBM that enable anyone to easily apply AI and build smart apps. You will also work with several Watson services to demonstrate AI in action. This course does not require any programming or computer science expertise and is designed for anyone whether you have a technical background or not.",
+                "prerequisites": ["aip 1"],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "",
+            "ref": null,
+            "props": {
+                "keyFromParent": "",
+                "crs_id": "aip 3",
+                "name": "Building AI Powered Chatbots Without Programming",
+                "description": "This course will teach you how to create useful chatbots without the need to write any code. Leveraging IBM Watson's Natural Language Processing capabilities, you'll learn how to plan, implement, test, and deploy chatbots that delight your users, rather than frustrate them. True to our promise of not requiring any code, you'll learn how to visually create chatbots with Watson Assistant (formerly Watson Conversation) and how to deploy them on your own website through a handy WordPress plugin. Don't have a website? No worries, one will be provided to you. Chatbots are a hot topic in our industry and are about to go big. New jobs requiring this specific skill are being added every day, consultants demand premium rates, and the interest in chatbots is quickly exploding. Gartner predicts that by 2020, 85% of customer interactions with the enterprise will be through automated means (that's chatbots and related technologies). Here is your chance to learn this highly in demand set of skills with a gentle introduction to the topic that leaves no stone unturned.",
+                "prerequisites": ["aip 2"],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "",
+            "ref": null,
+            "props": {
+                "keyFromParent": "",
+                "crs_id": "aip 4",
+                "name": "Building AI Applications with Watson APIs",
+                "description": "A learner will be able to write an application that leverages multiple Watson AI services (Discovery, Speech to Text, Assistant, and Text to Speech). By the end of the course, they’ll learn best practices of combining Watson services, and how they can build interactive information retrieval systems with Discovery + Assistant.",
+                "prerequisites": ["ds 4"],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "",
+            "ref": null,
+            "props": {
+                "keyFromParent": "",
+                "crs_id": "aip 5",
+                "name": "Introduction to Computer Vision with Watson and OpenCV",
+                "description": "Computer Vision is one of the most exciting fields in Machine Learning and AI. It has applications in many industries such as self-driving cars, robotics, augmented reality, face detection in law enforcement agencies. In this beginner-friendly course you will understand about computer vision, and will learn about its various applications across many industries. As part of this course you will utilize Python, Watson AI, and OpenCV to process images and interact with image classification models. You will also build, train, and test your own custom image classifiers. This is a hands-on course and involves several labs and exercises. All the labs will be performed on the Cloud and you will be provided access to a Cloud environment completely free of charge. At the end of the course, you will create your own computer vision web app and deploy it to the Cloud. This course does not require any prior Machine Learning or Computer Vision experience, however some knowledge of Python programming language is necessary.",
+                "prerequisites": ["aip 4"],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        }
+    ],
+    "map": {
+        "2": "aws 1",
+        "15": "aws 6",
+        "16": "aws 2",
+        "27": "aws 12",
+        "28": "aws 7",
+        "29": "aws 3",
+        "31": "aws 11",
+        "41": "aws 8",
+        "42": "aws 4",
+        "53": "aws 13",
+        "55": "aws 5",
+        "68": "aws 9",
+        "80": "aws 10",
+        "81": "aws 17",
+        "82": "aws 14",
+        "83": "aws 15",
+        "84": "aws 16"
+    }
+}

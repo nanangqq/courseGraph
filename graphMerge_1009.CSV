@@ -1,0 +1,331 @@
+강좌명\학교명,SNU,KAIST,Korea,Postech,SKKU,Google,Microsoft,Amazon,Coursera,Edx,udacity,Udemy,CMU,Berkeley,MIT,Cornell,Harvard,Stanford,MarylandCP,MichiganAA,IllinoisUC,Caltech,GeorgiaTech
+Introduction to Computer Programming,"(1, '컴퓨터 프로그래밍')","(1, '전산응용개론')",,"(1, '프로그래밍과 문제해결')","(1, 'AI를 위한 프로그래밍')",,,,,,"(1, 'Introduction to Python Programming')","(1, 'Python(파이썬) 프로그래밍 제대로 배우기')","(1, 'Principles of Imperative Computation')","(1, 'The Structure and Interpretation of Computer Programs')","(1, 'Introduction to Computer Science Programming in Python')","(1, 'Introduction to Computing Using Python')","(1, 'Introduction to computer science')","(1, 'Programming Methodology.')","(1, 'Introduction to C Programming')","(0.7, 'Programming and Introductory Data Structures')","(1, 'Intro to Computer Science')","(1, 'Introduction to Computer Programming')","(1, 'Introduction to Computing')"
+,,"(1, '프로그래밍기초')",,,,,,,,,,,,,,,,,,"(1, 'Foundations of Computer Science')",,"(1, 'Fundamentals of Computer Programming.')",
+Introduction to Computer Programming for Everyone,"(1, '컴퓨터의 개념 및 실습')","(1, '프로그래밍 실습')",,,,,,,"(1, 'Python for Data Science and AI')","(1, 'Programming for Data Science')","(1, 'Introduction to Python Programming')","(1, 'Python(파이썬) 프로그래밍 제대로 배우기')","(1, 'Computing @ Carnegie Mellon')","(1, 'Introduction to Computer Programming for Scientists and Engineers')",,,"(0.5, 'CS+X: Software enginnering in the arts and humanities')",,,"(1, 'Elementary Programming Concepts')","(1, 'Introduction to Computing')","(1, 'Introduction to Computer Science in Industry')",
+,,,,,,,,,,"(1, 'Python for Data Science')",,"(0.5, 'Python for Data Science and Machine Learning Bootcamp')",,,,,,,,,,"(1, 'Introduction to Matlab and Mathematica')",
+,,,,,,,,,,,,"(1, 'Fundamentals of Java with NetBeans')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'The Ultimate Python Programming Tutorial')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Python for beginners & logic building practice Questions 3.7')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'JavaScript Basics for Beginners')",,,,,,,,,,,
+Object Oriented Programming,"(0.5, '컴퓨터 프로그래밍')","(0.5, '프로그래밍의 이해')",,"(1, '객체지향 프로그래밍')",,,,,,,"(0.7, 'Become a C++ Developer')",,,,"(0.7, 'Fundamentals of Programming')","(1, 'Object-Oriented Programming and Data Structures')","(0.7, 'Abstraction and design in computation')","(0.7, 'Object-Oriented Systems Design.')","(0.5, 'Object-Oriented Programming II')","(1, 'Object Oriented and Advanced Programming')",,"(0.3, 'Introduction to Computer Programming')","(1, 'Introduction to Object Oriented Programming')"
+,,,,,,,,,,,,,,,,,,"(0.7, 'Programming Abstractions.')","(0.5, 'Object-Oriented Programming I')",,,,"(1, 'Objects and Design')"
+,,,,,,,,,,,,,,,,,,"(0.7, 'Programming Abstractions.(Honor)')",,,,,
+Data Structures,"(1, '자료구조')","(1, '데이타구조')",,"(1, '데이터 구조')",,,,,,,,"(1, 'Python(파이썬) 응용_자료구조 제대로 배우기')",,"(1, 'Data Structures')",,"(1, 'Data Structures and Functional Programming')","(1, 'Data structures and algorithms')",,"(1, 'Advanced Data Structures')","(0.7, 'Programming and Introductory Data Structures')","(1, 'Data Structures')","(0.5, 'Introduction to Programming Methods')","(1, 'Data Structures and Algorithms for Applications')"
+,,,,,,,,,,,,,,,,,,,,"(0.7, 'Data Structures and Algorithms')",,,
+Principles of Functional Programming,,,,,,,,,,,,,"(1, 'Principles of Functional Programming')","(0.3, 'The Structure and Interpretation of Computer Programs')",,,,,,,,"(1, 'Functional Programming')",
+Principles of Programming,"(1, '프로그래밍의 원리')","(0.7, '프로그래밍의 이해')",,,,,,,,,,,,,,,,"(0.8, 'Computational Logic.')",,,,,
+Programming Language,"(1, '프로그래밍 언어')","(1, '프로그래밍 언어')",,,,,,,,,,,,,,"(1, 'Programming Languages and Logics')","(1, 'programming languages')",,"(1, 'Organization of Programming Languages')",,,"(1, 'Programming Languages')","(1, 'Languages and Computation')"
+,,"(1, '프로그래밍 언어 이론')",,,,,,,,,,,,,,,"(1, 'advanced topics in programming languages')",,"(1, 'Programming Language Technologies and Paradigms')",,,,
+Compiler,"(1, '컴파일러')",,,,,,,,,,,,,,,,"(1, 'compilers')",,"(1, 'Introduction to Compilers')",,,,
+Algorithms,"(1, '알고리즘')","(1, '알고리즘 개론')",,"(1, '알고리즘')","(1, '알고리즘 분석')",,,,,,,"(0.7, '지능적인 파이썬 검색 알고리즘')","(0.7, 'Parallel and Sequential Data Structures and Algorithms')","(0.9, 'Efficient Algorithms and Intractable Problems')","(1, 'Introduction to Algorithms')",,"(0.7, 'Data structures and algorithms')",,"(1, 'Introduction to Algorithms')","(0.7, 'Data Structures and Algorithms')","(1, 'Algorithms')","(1, 'Algorithms')","(0.5, 'Data Structures and Algorithms for Applications')"
+,,,,,,,,,,,,,,,,,,,,,"(1, 'Introduction to Algorithms & Models of Computation')","(0.5, 'Introduction to Programming Methods')","(1, 'Design and Analysis of Algorithms')"
+Graduate Algorithms,,"(0.7, '분산 알고리즘 및 시스템')",,,,,,,,,,,"(1, 'Graduate Algorithms')",,"(1, 'Design and Analysis of Algorithms')",,"(0.7, 'probabilitic analysis and algorithm')","(1, 'Design and Analysis of Algorithms.')","(1, 'Bioinformatic Algorithms & Methods for Functional Genomics and Proteomics')","(1, 'Introduction to Algorithms')",,"(1, 'Probability and Algorithms')","(1, 'Computability, Algorithms, and Complexity')"
+,,"(1, '알고리즘 설계와 해석')",,,,,,,,,,,"(1, 'Algorithms in the Real World')",,"(1, 'Algorithms for Inference')",,"(1, 'Efficient Algorithms')","(0.7, 'Decision Making under Uncertainty.')","(1, 'Bioinformatic Algorithms, Databases, and Tools')",,,"(1, 'Algorithms in the Real World')","(1, 'Introduction to Graduate Algorithms')"
+,,,,,,,,,,,,,,,,,,,"(1, 'Design and Analysis of Computer Algorithms')",,,"(1, 'Analysis and Design of Algorithms')","(1, 'Design and Analysis of Algorithms(graduate)')"
+,,,,,,,,,,,,,,,,,,,,,,"(1, 'Numerical Algorithms and their Implementation')","(1, 'Graph Algorithms')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Approximation Algorithms')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Randomized Algorithms')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Markov Chain Monte Carlo Algorithms')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Spectral Algorithms and Representations')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, ' Computational Science and Engineering Algorithms')"
+Computational Complexity Theory,,,,,,,,,,,,,,,,,"(0.8, 'Introduction to theoritical computer science')","(1, 'Computational Complexity.')",,,,"(1, 'Computability Theory')","(1, 'Computational Complexity Theory')"
+Computer Systems,"(1, '시스템 프로그래밍')","(1, '시스템 프로그래밍')",,,,,,,,,,,"(1, 'Introduction to Computer Systems')","(0.5, 'Designing Information Devices and Systems 1')","(1, 'Computer Systems Engineering')",,"(1, 'Systems programming and machine organization')","(1, 'Computer Systems from the Ground Up.')","(1, 'Introduction to Computer Systems')",,"(1, 'Computer Systems & Programming')","(1, 'Introduction to Computing Systems')",
+,,"(0.8, '소프트웨어 및 시스템 설계')",,,,,,,,,,,,"(0.5, 'Designing Information Devices and Systems 2')",,,,"(1, 'Principles of Computer Systems.')",,,"(0.7, 'Computer Systems Engineering')",,
+,,,,,,,,,,,,,,,,,,"(0.7, 'Operating Systems and Systems Programming.')",,,"(1, 'System Programming')",,
+Database,"(1, '데이터베이스')","(1, '데이타베이스 개론')",,,,,"(0.5, 'Microsoft R and SQL Server ML Services')",,,,,"(0.5, 'SQL BootCamp 2019 - SQL for Beginners (SQL Mastery Course)')","(0.5, 'Multimedia Databases and Datamining')",,,,,"(1, 'Data Management and Data Systems.')","(1, 'Database Design')","(1, 'Database Management Systems')",,,
+,,"(1, '데이타베이스 시스템')",,,,,,,,,,,,,,,,"(0.8, 'Principles of Data-Intensive Systems.')","(0.5, 'Bioinformatic Algorithms, Databases, and Tools')",,,,
+,,"(1, '데이터베이스 설계')",,,,,,,,,,,,,,,,,,,,,
+Automata,"(1, '오토마타 이론')","(1, '형식언어 및 오토마타')",,,,,,,,,,,,,"(1, 'Automata, Computability, and Complexity')",,,"(1, 'Introduction to Automata and Complexity Theory.')",,,"(1, 'Formal Models of Computation')","(0.7, 'Decidability and Tractability')","(1, 'Automata and Complexity Theory')"
+Logic Programming,"(1, '논리설계')",,,,"(1, '논리회로')",,,,,,,,,,,,,"(1, 'Logic Programming.')",,,,"(0.5, 'Introduction to Digital Logic and Embedded Systems')",
+Computer Structure,"(1, '컴퓨터 구조')","(0.7, '전산기조직')",,,"(1, '고급 컴퓨터 구조')",,,,,,,,,,"(1, 'Computation Structures')",,"(1, 'computer architecture')","(1, 'Computer Organization and Systems.')","(1, 'Computer Systems Architecture')","(1, 'Introduction to Computer Organization')","(1, 'Computer Architecture')",,"(0.9, 'Computer Organization and Programming')"
+,,"(1, '컴퓨터 구조')",,,,,,,,,,,,,,,"(1, 'advanced computer architecture')",,,"(1, 'Computer Architecture')","(0.8, 'Computer Systems Engineering')",,
+,,,,,,,,,,,,,,,,,"(1, 'advanced topics in computer architecture')",,,,,,
+Operating Systems,"(1, '운영체제')","(1, '운영체제 및 실험')",,,,,,,,,,,,,,,"(1, 'operating systems')","(1, 'Operating Systems and Systems Programming.')","(1, 'Operating Systems')",,,,
+,,"(1, '운영체제')",,,,,,,,,,,,,,,,"(1, 'Advanced Topics in Operating Systems.')",,,,,
+Signal and Systems,"(1, '전기전자회로')","(1, '디지탈시스템 및 실험')",,,"(1, '전자회로이론')",,,,,,"(0.6, 'Sensor Fusion Engineer')",,,"(1, 'Signal and Systems ')","(1, 'Signals and Systems')",,"(1, 'design of vlsi circuits and systems')",,,,"(0.5, 'Introduction to Electronics')","(1, 'Deterministic Analysis of Systems and Circuits')","(0.5, 'Prototyping Intelligence Appliances')"
+,"(0.5, '데이터 통신')",,,,"(1, 'VLSI설계')",,,,,,,,,,,,"(1, 'advanced design of vlsi circuits and systems')",,,,"(0.7, 'Analog Signal Processing')",,
+,"(0.5, '디지털 신호처리')",,,,"(0.6, '신호처리 및 음성인식')",,,,,,,,,,,,,,,,"(0.7, 'Digital Signal Processing')",,
+,,,,,,,,,,,,,,,,,,,,,,,
+Hardware System Architecture,"(1, '하드웨어시스템설계')","(0.8, '내장형 컴퓨터 시스템')",,,"(0.8, '임베디드 시스템')",,,,,,"(0.7, 'Become a C++ Developer')",,,,,,"(1, 'computing hardware')",,,,,"(0.5, 'Introduction to Digital Logic and Embedded Systems')",
+,,,,,"(0.6, 'SW-HW 통합 설계론')",,,,,,,,,,,,,,,,,,
+Great Ideas in Theoretical Computer Science,,,,,,,,,,,,,"(1, 'Great Ideas in Theoretical Computer Science')",,,,"(1, 'Great ideas in computer science')",,,,,,
+Software Design,"(1, '소프트웨어 개발의 원리와 실습')",,,,,,,,,,,,"(0.7, 'Designing Human Centered Software:')",,"(1, 'Elements of Software Construction')",,"(1, 'Abstraction and design in computation')","(0.7, 'Object-Oriented Systems Design.')",,"(1, 'Software Development for Accessibility')",,,"(1, 'Software Development Process')"
+,,,,,,,,,,,,,,,,,"(1, 'design of useful and usable interactive systems')",,,,,,
+Software Engineering,"(1, '소프트웨어 공학')","(1, '소프트웨어 공학개론')",,,"(0.6, 'SW-HW 통합 설계론')",,,,,,,,,,,,"(0.6, 'computing foundations for computational science')",,"(1, 'Software Engineering')",,,,"(1, 'Advanced Topics in Software Engineering')"
+,,"(1, '소프트웨어 공학')",,,,,,,,,,,,,,,"(0.5, 'systems development for computational science')",,,,,,
+,,"(1, '소프트웨어 시스템 모델링')",,,,,,,,,,,,,,,,,,,,,
+Human-Computer Interaction,,,,,,,,,,,,,,,,,"(0.8, 'research topics in human-computer interaction')","(1, 'Introduction to Human-Computer Interaction Design.')","(1, 'Introduction to Human-Computer Interaction')",,,,"(1, 'Human-Computer Interaction')"
+,,,,,,,,,,,,,,,,,,"(1, 'Topics in Human-Computer Interaction.')",,,,,
+Basic Mathematics,,,,,,,,,,,,"(1, 'Become an Algebra Master')",,,,,,,"(1, 'College Algebra and Trigonometry')",,"(1, 'Preparation for Calculus')","(1, 'Introduction to Abstract Algebra ')",
+,,,,,,,,,,,,"(1, 'Become a Trigonometry & Precalculus Master')",,,,,,,"(1, 'Precalculus')",,"(1, 'Algebra')",,
+,,,,,,,,,,,,"(1, 'Become a Geometry Master')",,,,,,,"(1, 'Developmental Mathematics')",,,,
+Calculus,"(1, '공학수학 1')",,"(1, '미적분 (Calculus)')",,,,,"(0.8, 'Math for Machine Learning')",,,,"(1, 'Become a Calculus 1 Master')","(1, 'Differential and Integral Calculus')","(1, 'Calculus')",,"(1, 'Calculus for Engineers')","(1, 'Calculus, Series, and Differential Equations')","(1, 'Calculus.')","(0.3, 'Calculus I')","(0.5, 'Calculus I')","(0.3, 'Calculus')","(0.4, 'Differential Equations')",
+,"(1, '공학수학 2')",,,,,,,,,,,"(1, 'Calculus I - Introduction to Derivatives')",,"(1, 'Multivariable Calculus')",,"(1, 'Multivariable Calculus for Engineers')","(0.5, 'Introduction to Functions and Calculus I')","(1, 'Integral Calculus of Several Variables.')","(0.3, 'Calculus II')","(0.5, 'Calculus II')","(0.3, 'Calculus I')","(1, 'Calculus of One and Several Variables and Linear Algebra')",
+,,,,,,,,,,,,,,,,,"(0.5, 'Multivariable Calculus')",,"(0.3, 'Calculus III')",,"(0.3, 'Calculus II')",,
+,,,,,,,,,,,,,,,,,,,"(0.5, 'Calculus for Life Science I ')",,"(0.3, 'Calculus III')",,
+,,,,,,,,,,,,,,,,,,,"(0.5, 'Calculus for Life Sciences')",,"(0.4, 'Intro Differential Equations')",,
+,,,,,,,,,,,,,,,,,,,"(0.5, 'Multivariable Mathematics I')",,"(0.4, 'Intro to Differential Eq Plus')",,
+,,,,,,,,,,,,,,,,,,,"(0.5, 'Multivariable Calculus, Linear Algebra, Differential Equations II')",,,,
+,,,,,,,,,,,,,,,,,,,"(0.5, 'Differential Equations for Scientists and Engineers')",,,,
+Linear Algebra,"(0.8, '선형 및 비선형 계산모델')",,"(1, '선형대수 (Linear Algebra)')","(1, '응용선형대수')","(1, '선형대수')",,,,,,"(1, 'Linear Algebra Refresher Course')","(0.7, 'Matrix Algebra')","(0.8, 'Matrices and Linear Transformations')","(1, 'Linear Algebra and Differential Equations')",,"(0.9, 'Numerical Analysis: Linear and Nonlinear Problems')","(1, 'Linear Algebra and Differential Equations')","(1, 'Linear Algebra and Matrix Theory.')","(1, 'Linear Algebra')","(1, 'Applied Linear Algebra')","(1, 'Applied Linear Algebra')","(0.5, 'Calculus of One and Several Variables and Linear Algebra')",
+,,,,,,,,,,,,"(1, 'Become a Linear Algebra Master')",,,,"(0.8, 'Computational Mathematics for Computer Science')",,"(1, 'Linear Algebra, Multivariable Calculus, and Modern Applications.')","(1, 'Linear Algebra for Scientists and Engineers')",,,"(1, 'Applied Linear Algebra')",
+,,,,,,,,,,,,,,,,"(1, 'Linear Algebra for Engineers')",,"(0.7, 'Applied Matrix Theory.')",,,,,
+Discrete Mathematics and Probability Theory,"(0.8, '이산수학')","(0.8, '이산구조')","(0.8, '확률과 통계 (Probability and Statistics)')","(0.8, '전산수학')","(0.8, '확률 및 통계')",,,,,"(0.8, 'Probability and Statistics in Data Science using Python')",,"(0.7, 'Become a Probability & Statistics Master')","(0.8, 'Probability Theory for Computer Scientists')","(1, 'Discrete Mathematics and Probability Theory')","(0.5, 'Introduction to Probability')","(0.8, 'Discrete Structures')","(0.8, 'Discrete mathematics for computer science')","(0.8, 'Theory of Probability.')","(0.8, 'Discrete Mathematics for Life Sciences')","(0.8, 'Discrete Mathematics')","(0.8, 'Discrete Structures')","(0.8, 'Introduction to Probability and Statistics')","(0.8, 'Introduction to Discrete Mathematics for Computer Science')"
+,,,,"(0.8, '확률 및 통계')",,,,,,"(0.8, 'Probability - The Science of Uncertainty and Data')",,,"(0.8, 'Mathematical Foundations for Computer Science')",,"(0.5, 'Mathematics for Computer Science')","(0.8, 'Basic Probability')","(0.8, 'Introduction to Probability')","(0.8, 'Introduction to Probability for Computer Scientists.')","(0.8, 'Discrete Structures')",,"(0.8, 'Basic Discrete Mathematics')","(0.8, 'Introduction to Discrete Mathematics')",
+,,,,,,,,,,,,,,,,,,"(0.8, 'Mathematical Foundations of Computing.')","(0.8, 'Applied Probability and Statistics I')",,"(0.8, 'Introduction to Probability Theory')","(0.7, 'Combinatorial Analysis')",
+,,,,,,,,,,,,,,,,,,,,,"(0.8, 'Prob & Stat for Computer Sci')",,
+Probability and Computing,,"(1, '확률적 프로그래밍')",,,,,,,,,,,"(1, 'Probability and Computing')","(1, 'Probability and Random Processes')",,,"(0.7, 'Math Methods In Sciences')",,,"(1, 'Probabilistic Methods in Engineering')","(1, 'Probability with Engineering Applications')",,
+Advanced Methods for Data Analysis,,,,,,,,,,,,,"(1, 'Advanced Methods for Data Analysis')",,,,,,,,,,"(0.5, 'Big Data Systems and Analytics')"
+Introduction to Statistics,,,"(0.8, '확률과 통계 (Probability and Statistics)')","(0.8, '확률 및 통계')","(0.8, '확률 및 통계')",,"(1, 'Basic Statistics')",,"(0.5, 'Statistical Thinking I: Foundations')","(1, 'Probability and Statistics in Data Science using Python')","(1, 'Intro to Inferential Statistics')","(0.7, 'Become a Probability & Statistics Master')","(1, 'Probability and Mathematical Statistics')","(1, 'Introduction to Statistics')",,,"(1, 'Statistics')",,"(1, 'Applied Probability and Statistics I')",,"(1, 'Prob & Stat for Computer Sci')","(1, 'Introduction to Probability and Statistics')",
+,,,,,,,,,"(0.5, 'Statistical Thinking II: Further Applications')","(1, 'Fundamentals of Statistics')","(1, 'Intro to Descriptive Statistics')",,,,,,,,,,,,
+Intermediate Statistics,,,,,,,,"(1, 'Linear and Logistic Regression')","(0.5, 'Statistical Machine Learning')",,,,"(1, 'Intermediate Statistics')",,,,,,,,,"(1, 'Fundamentals of Statistical Learning')","(0.5, ' Computational Statistics')"
+Modern Regression,,,,,,,,,,,,,"(1, 'Modern Regression')",,,,,,,,,,
+Regression Analysis,,,,,,,,,,,,,"(1, 'Regression Analysis')",,,,,,,,,,
+Advanced Statistical Theory,,,,,,,,,,,,,"(0.5, 'Advanced Statistical Theory I')",,,,,,,,,,"(0.5, ' Bayesian Methods')"
+,,,,,,,,,,,,,"(0.5, 'Advanced Statistical Theory II')",,,,,,,,,,
+Inference and Information,,,,,"(0.5, '수치해석')",,,,,,,,,,"(1, 'Inference and Information')",,,"(0.5, 'From Languages to Information.')",,,,"(1, 'Statistical Inference')","(1, 'Introduction to Information Theory')"
+Topics in Machine Learning,,,"(1, '기계학습 특론 (Advanced Machine Learning)')",,,"(0.3, 'Intro to Fairness Machine Learning module')",,"(1, 'Types of Machine Learning Solutions')",,,,,,,,,"(1, 'TOPICS IN MACHINE LEARNING: INTERPRETABILITY AND EXPLAINABILITY')",,,,,"(1, 'Advanced Topics in Machine Learning')",
+,,,,,,"(0.5, 'Seedbank - Machine Learning Discovery')",,,,,,,,,,,,,,,,,
+Introduction to Machine Learning,"(1, '기계학습 개론')","(1, '기계학습')","(1, '기계학습 (Machine Learning)')","(1, '기계학습')","(1, '기계학습')","(0.6, 'Introduction to Machine Learning Problem Framing')","(0.7, 'Machine Learning basics')","(1, 'Conversation Primer: Machine Learning Terminology')","(0.5, 'Statistical Machine Learning')","(1, 'Machine Learning')","(1, 'Intro to Machine Learning')","(1, 'The Ultimate Data Science & Machine Learning Python in 2019')","(1, 'Introduction to Machine Learning')","(1, 'Introduction to Machine Learning')","(1, 'Introduction to Machine Learning')","(0.7, 'Machine Learning for Data Science')","(1, 'Machine Learning')","(0.7, 'Introduction to Statistical Learning.')","(1, 'Introduction to Machine Learning')","(1, 'Introduction to Machine Learning')","(1, 'Machine Learning')","(1, 'Machine Learning & Data Mining')","(1, 'Machine Learning')"
+,,,,,,"(0.5, 'Rules of Machine Learning')",,"(1, 'Exploring the Machine Learning Toolset')","(0.5, 'Machine Learning I: The Principles of Machine Learning')","(0.5, 'Machine Learning Fundamentals')",,"(0.5, 'Machine Learning Data Science Deep Learning Neural Networks')",,,"(0.7, 'Statistical Learning Theory and Applications')",,,"(1, 'Machine Learning.')",,,,"(1, 'Foundations of Machine Learning and Statistical Inference')",
+,,,,,,,,,"(0.5, 'Machine Learning II: Advanced Techniques')","(1, 'Machine Learning with Python: from Linear Models to Deep Learning')",,,,,,,,,,,,,
+,,,,,,,,,"(0.5, 'Python을 통한 머신 러닝')",,,,,,,,,,,,,,
+Advanced Machine Learning,,,,,,"(0.5, 'Serverless Machine Learning with TensorFlow on Google Cloud Platform')",,"(1, 'Developing Machine Learning Applications')","(0.5, 'Scalable Machine Learning on Big Data using Apache Spark')",,"(1, 'Machine Learning Engineer')",,"(1, 'Advanced Introduction to Machine Learning')","(0.5, 'Statistical machine learning')",,"(1, 'Applied Machine Learning')","(1, 'advance machine learning')","(0.7, 'Modern Applied Statistics: Learning.')",,"(1, 'Machine Learning')",,,"(1, 'Machine Learning(graduate)')"
+,,,,,,,,,,,,,"(1, 'Machine Learning for Structured Data')",,,"(1, 'Principles of Large-Scale Machine Learning Systems')",,"(1, 'Machine Learning with Graphs.')",,,,,
+,,,,,,,,,,,,,"(1, 'Machine Learning with Large Datasets')",,,,,"(1, 'Continuous Mathematical Methods with an Emphasis on Machine Learning.')",,,,,
+,,,,,,,,,,,,,"(1, 'Scalability in Machine Learning')",,,,,,,,,,
+Machine Learning Theory and Methods,"(1, '기계학습')","(1, '고급 기계학습')",,,,,,,,,,,"(1, 'Advanced Machine Learning: Theory and Methods')","(0.5, 'Statistical Learning Theory')",,,"(1, 'computational learning theory')",,,,"(0.8, 'Theory of Probability')","(1, 'Learning Systems')","(1, 'Theoretical Foundations of Machine Learning')"
+,,,,,,,,,,,,,,"(0.5, 'Advances Topics in Learning and Decision Making ')",,,,,,,,,
+Probabilistic Graphical Models,,,,"(1, '확률 그래프 모델')",,,,,,,,,"(1, 'Probabilistic Graphical Models')",,,,"(0.6, 'probabilitic analysis and algorithm')","(1, 'Probabilistic Graphical Models: Principles and Techniques.')",,,,"(1, 'Introduction to Probability Models')",
+Foundation of Data Science,,,,,,"(1, 'Data Preparation and Feature Engineering for Machine Learning')","(1, 'Hypothesis Testing and Handling Data')","(1, 'The Elements of Data Science')","(0.7, 'Data Processing at Scale')","(1, 'Probability and Statistics in Data Science using Python')","(1, 'Intro to Data Science')","(0.5, 'Python for Data Science and Machine Learning Bootcamp')",,"(1, 'Computational Structures in Data Science')",,,"(1, 'Elements of data scinence')",,"(1, 'Introduction to Data Science')",,,,
+,,,,,,"(1, 'Kaggle Learn')","(1, 'Data and Feature Management')","(1, 'Data Science Capstone: Real World ML Decisions')","(0.5, 'What is Data Science?')",,,,,"(0.5, 'Foundation of Data Sciecne')",,,"(1, 'Data science 1: introduction to data science')",,,,,,
+,,,,,,,,,"(0.5, 'Open Source tools for Data Science')",,,,,,,,,,,,,,
+,,,,,,,,,"(0.5, 'Data Science Methodology')",,,,,,,,,,,,,,
+Data Analysis,,,,,,"(0.6, 'Data Engineering on Google Cloud Platform Specialization')","(0.5, 'Microsoft R and SQL Server ML Services')","(1, 'Machine Learning Data Readiness')","(0.6, 'Data Visualization')",,"(1, 'Data Analysis')",,"(1, 'Data Analysis')",,,"(0.5, 'Machine Learning for Data Science')","(1, 'Data science 1: Advanced topics in data science')",,,,,,"(1, ' Computational Data Analysis: Learning, Mining, and Computation')"
+,,,,,,,,,,,,,,,,,"(1, 'data systems')",,,,,,
+,,,,,,,,,,,,,,,,,"(0.7, 'visualization')",,,,,,
+Big Data,,"(1, 'R을 활용한 빅데이터 분석 기초')","(1, '빅데이터 분석 (Big Data Analysis)')","(1, '빅데이터')","(1, '빅데이터 처리 및 분석')",,,,"(0.5, 'Scalable Machine Learning on Big Data using Apache Spark')","(0.5, 'Computational Thinking and Big Data')",,,,,,,"(1, 'big data systems')",,,,,"(1, 'Big Data Networks')","(1, 'Big Data Systems and Analytics')"
+,,,,,,,,,,"(0.5, 'Big Data Fundamentals')",,,,,,,,,,,,,
+,,,,,,,,,,"(0.5, 'Big Data Analytics')",,,,,,,,,,,,,
+,,,,,,,,,,"(1, 'Big Data Analytics using Spark')",,,,,,,,,,,,,
+Application of Big Data Technology,,,"(1, '빅데이터 분석 응용 및 실습 (Big Data Analysis Application and Pr..')",,"(1, '제조 빅데이터 분석')",,,,,"(1, 'Big Data Capstone Project')",,,,,,,,,,,,,"(1, ' Big Data for Health')"
+,,,"(1, '빅데이터 특론 (Advanced Big Data)')",,,,,,,,,,,,,,,,,,,,"(0.5, 'Information to Health Informatics')"
+Datamining,"(1, '데이터마이닝 개론')","(0.7, '텍스트마이닝')",,"(1, '데이터마이닝')","(1, '데이터마이닝')",,,,"(1, 'Data Mining')",,,,"(0.5, 'Multimedia Databases and Datamining')",,,"(0.5, 'Language and Information')",,,,,,"(1, 'Machine Learning & Data Mining')","(0.7, ' Web Search and Text Mining')"
+,,,,,,,,,,,,,,,,,,,,,,,"(0.5, ' Data and Visual Analytics')"
+Distributed system,,"(1, '분산시스템')",,,"(1, '병렬 및 분산 컴퓨팅')",,,,,,,,,,,,"(0.7, 'cloud netwoking and computing')","(1, 'Distributed Systems.')",,"(1, 'Introduction to Distributed Systems')",,"(1, 'Distributed Computing.')",
+,,"(1, '분산 알고리즘 및 시스템')",,,"(0.7, '엣지컴퓨팅')",,,,,,,,,,,,"(0.7, 'special topics in edge computing: autonomous machines')",,,,,"(1, 'Big Data Networks')",
+Optimization,,,"(1, '최적화 이론 (Optimization Theory)')",,"(1, '최적화이론')",,,,,,,"(0.7, 'Learn Bio Inspired Optimization Methods A-Z')",,"(1, 'Optimization Models in Engineering')",,,"(1, 'Solving and Optimizing')","(1, 'Optimization and Algorithmic Paradigms.')","(0.6, 'Computational Methods')",,,"(1, 'Mathematical Optimization')","(0.7, ' Stochastic Optimization')"
+,,,,,"(0.8, '인공지능 구조 최적화')",,,,,,,,,,,,,,,,,,
+Convex Optimization,,,,,,,,,,,,,"(1, 'Convex Optimization')","(0.5, 'Introduction to Convex Optimization')",,,,"(1, 'Convex Optimization I.')",,,,,
+,,,,,,,,,,,,,,"(0.5, 'Convex Optimization and Approximation')",,,,,,,,,
+,,,,,,,,,,,,,,"(1, 'Convex Optimization')",,,,,,,,,
+Integration and Approximation,,,,,"(0.5, '수치해석')",,,,,,,,"(1, 'Integration and Approximation')","(0.3, 'Convex Optimization and Approximation')",,,,,,,,,"(0.7, 'Approximation Algorithms')"
+Machine Learning for Text Mining,,,,,,,,,,,,,"(1, 'Machine Learning for Text Mining')",,,,,,,,,,"(0.5, ' Web Search and Text Mining')"
+Search Engines,,,,,"(1, '정보검색')",,,,,,,"(0.7, 'AI:Python을 사용한 텍스트 검색')","(1, 'Search Engines')",,,,,"(1, 'Information Retrieval and Web Search.')",,"(0.8, 'Informational Retrieval and Web Search')",,,
+Understanding Artificial Intelligence,"(1, '인공지능 입문')",,,,,,"(1, 'Introduction to Artificial Intelligence (AI)')","(1, 'Demystifying AI/ML/DL')","(1, 'Introduction to Artificial Intelligence (AI)')",,,"(1, '인공 지능이란 무엇인가')","(1, 'Freshman Seminar: Artificial Intelligence and Humanity')",,,,,,,,,,
+,,,,,,,,"(1, 'ML Building Blocks: Services and Terminology')",,,,"(0.7, '토목 기술자를위한 인공 지능 : 1 부')",,,,,,,,,,,
+Topics in Artificial Intelligence,,"(1, '인공지능 특강')","(1, '인공지능 특론 I (Advanced Artificial Intelligence I)')","(1, '인공지능 특론 A-')","(1, '고급인공지능특론')","(1, 'AI Adventures: 7 Steps of Machine Learning')",,,,,,"(1, 'The Rise of Artificial Intelligence At Work in 2019 & Beyond')","(1, 'AI, Society, and Humanity')",,,,,"(1, 'Topics in Artificial Intelligence.')",,,,,"(1, 'AI Storytelling in Virtual Worlds')"
+,,,"(1, '인공지능 특론 II (Advanced Artificial Intelligence II)')",,,"(1, 'AI for Social Good Guide')",,,,,,"(1, ""AI, ML & IT's IMPACT ON DIGITAL MARKETING"")","(1, 'Concepts in Artificial Intelligence')",,,,,,,,,,
+,,,"(1, '인공지능 콜로퀴엄 (Artificial Intelligence Colloquium)')",,,"(1, 'Responsible AI practices')",,,,,,"(1, 'AI와 Superintelligence')",,,,,,,,,,,
+Topics in Deep Learning,"(1, '인공지능 특강')",,"(1, '딥러닝 특론 (Advanced Deep Learning)')",,,"(1, 'Android and TensorFlow: Artistic Style Transfer Codelab')",,,,,,,"(1, 'Topics in Deep Learning')","(1, 'Special Topics in Deep Learning')",,,,,,,,,
+,,,"(1, '신경망 응용 및 실습 (Neural Networks Application and Practice..')",,,"(1, 'AI Experimets')",,,,,,,,,,,,,,,,,
+Intoduction to Artificial Intelligence,"(1, '인공지능')","(1, '인공지능개론')",,"(1, '인공지능')","(1, '인공지능')",,"(1, 'Introduction to Artificial Intelligence (AI)')",,"(0.7, 'Getting Started with AI using IBM Watson')","(1, 'Artificial Intelligence(AI)')","(1, 'Artificial Intelligence')","(0.5, 'Artificial Intelligence A-Z™: Learn How To Build An AI')","(1, 'Artificial Intelligence: Representation and Problem Solving')","(1, 'Intoduction to Artificial Intelligence')","(1, 'Artificial Intelligence')","(1, 'Foundations of Artificial Intelligence')","(1, 'Artifical Intelligence')","(1, 'Artificial Intelligence: Principles and Techniques.')","(1, 'Introduction to Artificial Intelligence')","(1, 'Introduction to Artificial Intelligence')","(1, 'Introduction to Artificial Intelligence')",,"(1, 'Introduction to Artificial Intelligence')"
+,,,,,,,,,,,,"(1, 'Artificial Intelligence I: Basics and Games in Java')",,,,,,,,,"(1, 'Artificial Intelligence')",,
+,,,,,,,,,,,,"(1, 'Learning Python Artificial Intelligence by Example')",,,,,,,,,,,
+Graduate Artificial Intelligence,"(1, '고급 인공지능')","(1, '인공지능 및 기계학습')",,,"(0.8, '인공지능 구조 최적화')",,,,,,,,"(1, 'Graduate Artificial Intelligence')",,,,,"(1, 'Logic and Artificial Intelligence.')",,"(1, 'Foundations of Artificial Intelligence')",,,"(1, 'Artificial Intelligence')"
+,,,,,"(0.8, '다중과제학습')",,,,,,,,,,,,,,,,,,
+,,,,,"(0.8, '다형 데이터 학습')",,,,,,,,,,,,,,,,,,
+,,,,,"(0.8, '설명가능인공지능')",,,,,,,,,,,,,,,,,,
+Artificial Intelligence for Robotics,,"(1, '지능 로봇 설계 및 프로그래밍')","(1, '지능로봇 (Intelligent Robotics)')",,"(0.8, 'AI로봇 플랫폼 설계 응용')",,,,,"(1, 'Vision Intelligence and Machine Learning')","(1, 'Artificial Intelligence for Robotics')",,,,,,,"(0.8, 'Robot Perception and Decision-Making: Optimal and Learning-based Approaches.')",,,,"(1, 'Robotic Systems.')","(1, 'Artificial Intelligence for Robotics')"
+,,"(1, '지능형 로보틱스')",,,,,,,,,,,,,,,,,,,,,
+Case-Based Reasoning,,,,,"(0.9, '상황기반행동학습')",,,,,,,,,,,,,,,,,,"(1, 'Case-Based Reasoning')"
+Knowledge-Based Modeling and Design,,,"(1, '지식 기반 시스템 (Knowledge-Based System)')",,,,,,,,,,,,,,,,,"(1, 'Knowledge-Based Systems')",,,"(1, 'Knowledge-Based Modeling and Design')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Knowledge-Based Artificial Intelligence')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Knowledge-Based AI(graduate)')"
+Human Information Processing and Artificial Intelligence,,,,,,,,,,,,,"(1, 'Human Information Processing and Artificial Intelligence')",,"(1, 'The Human Intelligence Enterprise')",,,,,,,,"(1, 'Introduction to Behavioral Imaging')"
+Game Artificial Intelligence,,,,,"(1, '게임 인공지능 및 스토리텔링')",,,,,,,"(0.5, 'Artificial Intelligence I: Basics and Games in Java')",,,,,,"(1, 'General Game Playing.')",,"(1, 'Computer Game Design and Development')",,,"(1, 'Game AI')"
+,,,,,,,,,,,,"(1, 'Game Devs Unleash Artificial Intelligence: Flocking Agents')",,,,,,,,,,,"(1, 'Game Artificial Intelligence(graduate)')"
+,,,,,,,,,,,,"(1, 'The Complete Unity® Masterclass: Build 2D & 3D AI Games')",,,,,,,,,,,
+Design of Artificial Intelligence Products,,"(1, '인공 지능 기반 소프트웨어 공학')","(0.7, '에이전트 인공지능 (Intelligent Agent)')",,"(1, '추천시스템')",,,,"(1, 'AI Capstone Project with Deep Learning')",,"(1, 'Become a Self-Driving Car Engineer')","(1, 'Website Design - Create websites in minutes with AI Tools')","(1, 'Design of Artificial Intelligence Products')",,,,,"(1, 'Computational Methods for Biomedical Image Analysis and Interpretation.')",,,,,"(0.6, 'Modeling and Design')"
+,,"(1, '시멘틱웹')","(1, '헬스케어 인공지능 (Healthcare Artificial Intelligence)')",,"(1, '인공지능가속기')",,,,"(1, 'Building AI Powered Chatbots Without Programming')",,"(1, 'Intro to Self-Driving Cars')","(1, 'Make predictions with Python machine learning for apps')",,,,,,,,,,,
+,,,"(1, '문화콘텐츠 인공지능 (Cultural Content Artificial Intelligence)')",,"(1, '신경망모사프로세서')",,,,"(1, 'Building AI Applications with Watson APIs')",,"(1, 'Flying Car and Autonomous Flight Engineer')","(1, 'Mobile VR Virtual Reality & Artificial Intelligence in Unity')",,,,,,,,,,,
+,,,"(1, '자율주행 인공지능 (Autonomous Driving Artificial Intelligence..')",,"(1, '저전력 인공지능 통합설계')",,,,,,"(1, 'Self-Driving Fundamentals: Featuring Apollo')","(1, 'Learn To Gain Writing Skills Using Artificial Intelligence')",,,,,,,,,,,
+,,,"(1, '정보보호')",,"(1, 'AI헬스캐어시스템')",,,,,,,"(1, 'RoboAuthor: Content Writing Automation 2019 - Part 1')",,,,,,,,,,,
+,,,,,"(1, '의료영상분석')",,,,,,,"(1, 'Learning Path: Artificial Intelligence for Apps and Games')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, '인공 지능과 챗봇 기본지식')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Chatbot - JavaScript')",,,,,,,,,,,
+Introduction to Deep Learning,,,"(1, '딥러닝 (Deep Learning)')",,"(0.7, '인공신경망')","(0.3, 'Deep Playground')","(0.4, 'Basic Deep Learning')",,"(1, 'Introduction to Deep Learning & Neural Networks with Keras')","(0.8, 'Machine Learning with Python: from Linear Models to Deep Learning')","(1, 'Deep Learning')","(1, 'Artificial Intelligence II - Neural Networks in Java')","(1, 'Introduction to Deep Learning')",,,"(1, 'Deep Learning')",,"(1, 'Deep Learning.')",,,,,"(1, 'Deep Learning')"
+,,,"(0.7, '신경망 (Neural Networks)')",,,,"(0.4, 'Recurrent Neural Networks')",,,,,"(1, 'Artificial Intelligence III - Deep Learning in Java')",,,,,,,,,,,
+,,,,,,,"(0.4, 'LSTM network for Predictive Maintenance')",,,,,"(1, 'Machine Learning Data Science Deep Learning Neural Networks')",,,,,,,,,,,
+,,,,,,,"(0.4, 'Overview - Intro to CNNs for Visual Recognition')",,,,,,,,,,,,,,,,
+Advanced Deep Learning,"(0.7, '인공신경망')",,"(1, '고급 딥러닝 (Advanced Deep Learning)')",,"(0.8, '전파학습')",,"(0.3, 'Transfer Learning')",,,,,"(0.5, 'Deep Learning: CNNs for Visual Recognition')","(1, 'Intermediate Deep Learning')",,,,,"(0.8, 'Deep Generative Models.')",,,,,"(1, 'Deep Learning')"
+,,,,,"(0.8, '심층생성모델')",,,,,,,"(0.5, 'Deep Learning: Recurrent Neural Networks in Python')",,,,,,"(1, 'Deep Multi-task and Meta Learning.')",,,,,
+Deep Learning Application and Practice,,,"(1, '딥러닝 응용 및 실습 (Deep Learning Application and Practice)')",,,"(1, 'Machine Learning Crash Course with TensorFlow APIs')","(1, 'AI Developer Bootcamp videos')","(0.7, 'AWS DeepRacer: Driven by Reinforcement Learning')","(1, 'Deep Neural Networks with PyTorch')",,"(1, 'Intro to TensorFlow for Deep Learning')","(0.5, 'Artificial Intelligence A-Z™: Learn How To Build An AI')",,,,"(1, 'Practicum in Artificial Intelligence')",,,,,,,
+,,,,,,"(1, 'Machine Learning Recipes with Josh Gordon: Hello World')","(0.5, 'Setup Environment')",,"(1, 'Building Deep Learning Models with TensorFlow')",,"(1, 'Intro to Deep Learning with PyTorch')","(1, 'TensorFlow 101: Introduction to Deep Learning')",,,,,,,,,,,
+,,,,,,"(1, 'TensorFlow Workshops')","(1, 'Deep Learning Explained')",,,,,"(1, 'Practical Deep Learning: Image Search engine')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'JavaScript를 사용한 인공 지능 및 기계 학습')",,,,,,,,,,,
+Computational Systems Biology: Deep Learning in the Life Sciences,,,,,,,,,,,,,,,"(1, 'Computational Systems Biology: Deep Learning in the Life Sciences')",,,,,,,,
+Deep Reinforcement Learning,,"(1, '강화학습')","(1, '강화학습 (Reinforcement Learning)')",,"(1, '강화학습')",,,"(0.7, 'AWS DeepRacer: Driven by Reinforcement Learning')",,,"(1, 'Deep Reinforcement Learning')","(1, 'Artificial Intelligence IV - Reinforcement Learning in Java')","(1, 'Deep Reinforcement Learning')",,,,"(1, 'TOPICS IN MACHINE LEARNING: BATCH REINFORCEMENT LEARNING')","(1, 'Reinforcement Learning.')",,,,,"(1, 'Reinforcement Learning and Decision Making')"
+,,,,,,,,,,,,,"(1, 'Deep Reinforcement Learning & Control')",,,,,,,,,,
+Pattern Recognition,,"(1, '패턴인식')",,"(1, '패턴 인식론')","(1, '패턴인식')",,,,,,,,,,,,,,,,,,"(1, 'Pattern Recognition')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Pattern Recognition(graduate)')"
+Computer Vision,"(1, '컴퓨터 비전')","(1, '컴퓨터비전개론')","(1, '컴퓨터비전 (Computer Vision)')","(1, '컴퓨터비전개론')","(1, '컴퓨터 비전')",,"(0.3, 'Overview - Intro to CNNs for Visual Recognition')","(1, 'Seeing Clearly Computer Vision Theory')","(1, 'Introduction to Computer Vision with Watson and OpenCV')",,"(1, 'Computer Vision')","(1, 'Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs')","(1, 'Computer Vision:')","(1, 'Computer Vision')","(0.8, 'Advances in Computer Vision')","(1, 'Introduction to Computer Vision')","(1, 'Computer vision')","(1, 'Computer Vision: Foundations and Applications.')","(1, 'Computer Vision')","(1, 'Computer Vision')","(1, 'Computer vision')","(1, 'Selected Topics in Computer Vision')","(1, 'Introduction to Computer Vision')"
+,,"(1, '컴퓨터 비젼')","(1, '고급 컴퓨터비전 (Advanced Computer Vision)')",,,,"(0.3, 'OCR Recognition')",,,,,"(1, 'Learn Python AI for Image Recognition & Fraud Detection')",,,,,,"(1, 'Computer Vision: From 3D Reconstruction to Recognition.')",,,,"(1, 'Vision: From Computational Theory to Neural Mechanisms.')","(1, 'Introduction to Computer Vision GR')"
+,,"(1, '컴퓨터비젼 특강')","(1, '컴퓨터비전 응용 및 실습 (Computer Vision Application and Practi..')",,,,"(0.3, 'Object Detection')",,,,,"(0.5, 'Deep Learning: CNNs for Visual Recognition')",,,,,,"(1, 'Convolutional Neural Networks for Visual Recognition.')",,,,,"(1, '3D Reconstruction and Mapping in Computer Vision, Robotics, and Augmented Reality')"
+,,,,,,,,,,,,"(0.5, 'Practical Deep Learning: Image Search engine')",,,,,,,,,,,
+,,,,,,,,,,,,"(0.7, '컴퓨터 비전을 이용한 얼굴 및 물체 인식')",,,,,,,,,,,
+Computer Graphics,"(1, '컴퓨터 그래픽스')","(1, '컴퓨터그래픽스 개론')",,"(1, '컴퓨터그래픽스')",,,,,,"(1, 'Animation and CGI Motion')",,,"(0.8, 'Computational Photography')","(0.7, 'Computational Imaging')","(1, 'Machine Vision')",,"(1, 'computer graphics')","(1, 'Introduction to Computer Graphics and Imaging.')","(1, 'Computer Graphics')",,"(0.5, 'Multimedia Signal Processing')",,"(1, 'Computational Photography')"
+,,"(1, '컴퓨터그래픽스')",,,,,,,,,,,,"(0.8, 'Image Manipulation and Computational Photography')",,,,"(1, 'Digital Image Processing.')",,,"(0.6, 'TOPICS IN IMAGE PROCESSING WEB PAGE')",,
+,,,,,,,,,,,,,,,,,,"(1, 'Interactive Computer Graphics.')",,,"(0.5, 'Multimedia Systems')",,
+,,,,,,,,,,,,,,,,,,,,,"(1, 'Interactive Computer Graphics')",,
+Natural Language Processing:,"(0.7, '인공신경망')","(1, '파이썬을 통한 자연언어처리')","(1, '자연어처리 (Natural Language Processing)')","(1, '통계적 자연언어처리')","(1, '자연어처리')",,,"(1, 'Communicating with Chat Bots')",,,"(1, 'Natural Language Processing')","(1, 'Deep Learning and NLP A-Z™: How to create a ChatBot')","(1, 'Natural Language Processing:')","(1, 'Natural Language Processing')","(1, 'Advanced Natural Language Processing')","(1, 'Natural Language Processing')","(1, 'CURRICULAR DESIGN FOR COMPUTER SCIENCE: COMPUTATIONAL LINGUISTICS AND NATURAL-LANGUAGE PROCESSING')","(1, 'Natural Language Processing with Deep Learning.')",,,,,"(1, 'Natural Language')"
+,"(1, '자연언어처리')","(1, '자연언어 처리I')","(1, '고급 자연어처리 (Advanced Natural Language Processing)')","(1, '기계번역')",,,,"(1, 'Speaking Of: Machine Translation and NLP')",,,,,,,"(0.5, 'Computational Psycholinguistics')","(0.5, 'Computational Linguistics')",,"(1, 'Spoken Language Processing.')",,,,,
+,,"(1, '자연언어 처리II')","(1, '자연어처리 응용 및 실습 (Natural Language Processing Applicatio..')","(1, '인간언어 처리론')",,,,,,,,,,,,,,,,,,,
+,,"(1, '자연언어 처리 특강')",,,,,,,,,,,,,,,,,,,,,
+,,"(0.5, '계산언어학')",,,,,,,,,,,,,,,,,,,,,
+Linguistics,,"(1, '계산언어학')",,"(1, '자연언어처리를 위한 언어학 기초')",,,,,,,,,"(1, 'Language and Thought')",,"(1, 'Natural Language and the Computer Representation of Knowledge')","(0.5, 'Language and Information')",,"(1, 'From Languages to Information.')",,,,,"(1, 'Natural Language Understanding')"
+,,,,,,,,,,,,,,,"(1, 'Computational Psycholinguistics')","(1, 'Introduction to Linguistics')",,"(1, 'Natural Language Understanding.')",,,,,
+,,,,,,,,,,,,,,,,"(1, 'Computational Linguistics')",,,,,,,
+Speech Processing,,,"(1, '음성인식 (Automatic Speech Recognition)')",,"(0.6, '신호처리 및 음성인식')",,,,,,,,"(1, 'Speech Processing')",,"(1, 'Automatic Speech Recognition')",,,,,,"(0.5, 'Multimedia Signal Processing')",,
+,,,"(1, '음성인식 응용 및 실습 (Automatic Speech Recognition Applicatio..')",,,,,,,,,,,,,,,,,,,,
+,,,"(1, '고급 음성인식 (Advanced Automatic Speech Recognition)')",,,,,,,,,,,,,,,,,,,,
+Autonomous Agents,,,"(0.7, '에이전트 인공지능 (Intelligent Agent)')",,,,,,,,,,"(1, 'Autonomous Agents')",,,"(1, 'Intelligent Autonomous Systems')","(1, 'autonomous robot systems')","(0.5, 'Principles of Robot Autonomy I.')",,,,,"(0.7, 'Autonomous Robotics')"
+,,,,,,,,,,,,,,,,,"(0.7, 'BIOLOGICALLY-INSPIRED MULTI-AGENT SYSTEMS')","(0.5, 'Principles of Robot Autonomy II.')",,,,,"(0.7, 'Autonomous Multi-Robot Systems')"
+Introduction to Robotics,,"(0.5, '지능 로봇 설계 및 프로그래밍')","(0.5, '지능로봇 (Intelligent Robotics)')",,,,,,,"(1, 'Robotics')",,,"(0.7, 'Cognitive Robotics: The Future of Robot Toys')","(1, 'Introduction to Robotics')","(0.8, 'Introduction to EECS via Robotics')",,,"(1, 'Introduction to Robotics.')",,"(1, 'Introduction to Autonomous Robotics')","(1, 'Introduction to Robotics')",,"(0.5, 'Introduction to Perception and Robotics')"
+,,"(0.5, '지능형 로보틱스')",,,,,,,,"(1, 'Kinematics and Mathematical Foundations')",,,,,,,,,,,,,
+Planning Techniques for Robotics,,,,,"(0.5, '스마트팩토리 모델링 및 시뮬레이션')",,,,,"(0.8, 'Locomotion Engineering')","(1, 'Robotics Software Engineer')",,"(1, 'Planning Techniques for Robotics')","(1, 'Advanced Robotics')","(0.5, 'Cognitive Robotics')",,,"(1, 'Topics in Advanced Robotic Manipulation.')",,"(1, 'Autonomous Robotics Design Experience')","(0.7, 'Control Systems')","(1, 'Advanced Robotics: Navigation and Vision')","(1, 'Robot Intelli Planning')"
+,,,,,,,,,,,"(0.5, 'Sensor Fusion Engineer')",,"(0.7, 'Mobile Robot Algorithms Laboratory')",,,,,"(1, 'Advanced Robotic Manipulation.')",,,"(0.8, 'Control System Theory & Design')","(1, 'Experimental Robotics')","(1, 'Robot Intelligence: Planning')"
+Robot Kinematics and Dynamics,,,,,,,,,,"(1, 'Dynamics and Control')",,,"(1, 'Robot Kinematics and Dynamics')","(1, 'Robotic Manipulation and Interaction')",,,,,,,,"(1, 'Introduction to Kinematics and Robotics')",
+Human Robot Interaction,,,,,,,,,,,,,"(1, 'Human Robot Interaction')","(0.9, 'Algorithmic Human-Robot Interaction')","(0.5, 'Cognitive Robotics')",,,,,,,,"(1, 'Human-Robot Interaction')"
+Interpretation and Argument,,,,,,,,,,,,,"(1, 'Interpretation and Argument')",,,,,,,,,,
+Introduction to Cryptography,,,,,,,,,,,,,,,,,"(1, 'cryptography')","(1, 'Introduction to Cryptography.')",,"(1, 'Introduction to Cryptography')",,,
+,,,,,,,,,,,,,,,,,"(1, 'topics in cryptography')",,,,,,
+Network,"(1, '컴퓨터 네트워크')","(1, '전산망개론')",,,,,,,,,,,,,"(0.7, 'Networks')",,"(1, 'networks')","(1, 'Introduction to Computer Networking.')","(0.3, 'Computer and Network Security')","(1, 'Computer Networks')",,,
+,,"(1, '네트워크아키텍춰')",,,,,,,,,,,,,,,"(1, 'computing networks')","(0.3, 'Computer and Network Security.')","(1, 'Computer Networks')",,,,
+,,"(0.8, '인터넷 시스템 기술')",,,,,,,,,,,,,,,"(1, 'advanced computer networks')","(1, 'Advanced Topics in Networking.')",,,,,
+Cognitive Psychology,,,,,,,,,,,,"(0.5, '뇌과학과 AI: 싱귤러 리티 이브의 인간과 기계의 접점')","(1, 'Cognitive Psychology')","(1, 'Introduction to Cognitive Science')","(0.7, 'Introduction to Neuroscience')",,,,,,,,"(1, 'Introduction to Cognitive Science')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Introduction to Cognitive Science(graduate)')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Introduction to Psychology')"
+Computational Models of Cognition,,,,,,,,,,,,,"(1, 'Cognitive Modeling:')","(1, 'Computational Models of Cognition')","(1, 'Computational Cognitive Science')",,,"(1, 'Computation and Cognition: The Probabilistic Approach.')",,,,,
+,,,,,,,,,,,,,,,"(0.5, 'Neural Circuits for Cognition (New)')",,,,,,,,
+Neural Computation,,,"(0.7, '신경망 (Neural Networks)')",,,,,,,,,,"(1, 'Neural Computation')","(1, 'Neural Computation')","(1, 'Introduction to Neural Computation')",,,,,,,"(1, 'Neural Computation')",
+,,,,,,,,,,,,,,,"(0.5, 'Neural Circuits for Cognition (New)')",,,,,,,,
+Biomedical Computing,,,,,,,,,,,,,,,"(1, 'Biomedical Computing')",,,"(0.5, 'Translational Bioinformatics.')",,,,,"(0.5, 'Information to Health Informatics')"
+,,,,,,,,,,,,,,,,,,"(0.5, 'Computational Biology in Four Dimensions.')",,,,,
+Computational Perception,,"(1, '인지과학 특강')",,,,,,,,,,,"(1, 'Computational Perception')",,"(1, 'Perception')",,"(0.3, 'visualization')",,,,,,"(0.5, 'Introduction to Perception and Robotics')"
+,,,,,,,,,,,,,"(1, 'Perception')",,"(0.6, 'Cellular Neurophysiology and Computing')",,,,,,,,"(1, 'Computational Perception')"
+,,,,,,,,,,,,,"(1, 'Human Memory')",,,,,,,,,,"(1, 'Sensation and Perception')"
+,,,,,,,,,,,,,"(1, 'Visual Cognition')",,,,,,,,,,
+Economics,,,,,,,,,,,,,,,"(1, 'Psychology and Economics')",,"(0.6, 'Market Design')",,,,,,
+,,,,,,,,,,,,,,,"(1, 'Principles of Microeconomics')",,"(0.8, 'topics at the interface between computer science and economics')",,,,,,
+,,,,,,,,,,,,,,,"(1, 'Intermediate Macroeconomics')",,"(1, 'Intermediate Microeconomics: Advanced')",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Economics and computation,,,,,,,,,,,,,,,"(1, 'Economic Applications of Game Theory')",,"(1, 'Game Theory and Economic Applications')",,,,,"(1, 'Algorithmic Economics')",
+,,,,,,,,,,,,,,,"(1, 'Econometric Data Science')",,"(1, 'economics and computation')",,,,,,
+Artificial Intelligence for Business,,,,,"(1, 'AI비지니스 플랫폼')",,"(1, 'Microsoft Business Analytics and AI')","(1, 'Machine Learning for Business Challenges')",,,,"(1, 'Artificial Intelligence for Business')",,,"(1, 'Stochastic Models in Business Analytics')",,,,,,,,
+,,,,,,,,"(0.5, 'Process Model: CRISP-DM on the AWS Stack')",,,,"(1, 'Artificial Intelligence & Machine Learning for Business')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Power Your Business with Artificial Intelligence')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Artificial Intelligence: Practical Essentials for Management')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Introduction to AI for Business')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Hands-On Artificial Intelligence for Small Businesses')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, '인공 지능(AI/ML) 활용 비즈니스 모델 수립 강좌 - 기초편 -')",,,,,,,,,,,
+Machine Learning for Trading,,,,,,,,,,,"(1, 'Artificial Intelligence for Trading')","(1, 'Predict the stock market with data and model building!')",,,,,,,,,,,"(1, 'Machine Learning for Trading')"
+,,,,,,,,,,,"(1, 'Machine Learning for Trading')","(1, '인공 지능을 갖춘 투자자 로봇-모듈 1')",,,,,,,,,,,"(1, 'Machine Learning for Trading(graduate)')"
+,,,,,,,,,,,,"(1, '인공 지능을 갖춘 투자자 로봇-모듈 2')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Trader를 위한 인공지능의 기초')",,,,,,,,,,,
+,,,,,,,,,,,,"(1, 'Python for Financial Analysis and Algorithmic Trading')",,,,,,,,,,,
+Computational Social Science,,,,,,,,,,"(1, 'Data Analytics in Social Science - Accessing Your Knowledge')",,,"(1, 'Ethics and Policy Issues in Computing')",,,,"(0.7, 'privacy and technology')","(0.7, 'Machine Learning with Graphs.')",,,,"(1, 'Data, Algorithms and Society')","(1, 'Computational Journalism')"
+,,,,,,,,,,,,,,,,,"(0.7, 'Fairness and privacy: perspectives of law and probability')",,,,,,"(1, 'Computational Journalism(graduate)')"
+,,,,,,,,,,,,,,,,,,,,,,,"(1, 'Computational Social Science')"
+Business methods,,,"(1, 'IT 창업 및 경영 (IT Founding and Business)')",,"(1, '창업연계캡스톤')",,,,,,,"(1, '인공지능(AI/ML)사업추진인력에 필요한 기술/육성방법')",,,,,,,,,,,
+,,,"(1, '창의혁신론 (Creative Innovation Theory)')",,,,,,,,,,,,,,,,,,,,
+,,,"(1, '지적재산권법 (Intellectual Property Right)')",,,,,,,,,,,,,,,,,,,,
+,,,"(1, '기술사업화 (Technology Commercialization)')",,,,,,,,,,,,,,,,,,,,
+,,,"(1, '기술 마케팅 (Technology Marketing)')",,,,,,,,,,,,,,,,,,,,
+,,,"(1, '창업 보육 정책/법규 (Incubator Policy and Regulation)')",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,

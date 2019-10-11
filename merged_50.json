@@ -1,1 +1,1866 @@
-{"merged":true,"view_size":[3900,2700],"cps":[[150,90],[450,90],[750,90],[1050,90],[1350,90],[1650,90],[1950,90],[2250,90],[2550,90],[2850,90],[3150,90],[3450,90],[3750,90],[150,270],[450,270],[750,270],[1050,270],[1350,270],[1650,270],[1950,270],[2250,270],[2550,270],[2850,270],[3150,270],[3450,270],[3750,270],[150,450],[450,450],[750,450],[1050,450],[1350,450],[1650,450],[1950,450],[2250,450],[2550,450],[2850,450],[3150,450],[3450,450],[3750,450],[150,630],[450,630],[750,630],[1050,630],[1350,630],[1650,630],[1950,630],[2250,630],[2550,630],[2850,630],[3150,630],[3450,630],[3750,630],[150,810],[450,810],[750,810],[1050,810],[1350,810],[1650,810],[1950,810],[2250,810],[2550,810],[2850,810],[3150,810],[3450,810],[3750,810],[150,990],[450,990],[750,990],[1050,990],[1350,990],[1650,990],[1950,990],[2250,990],[2550,990],[2850,990],[3150,990],[3450,990],[3750,990],[150,1170],[450,1170],[750,1170],[1050,1170],[1350,1170],[1650,1170],[1950,1170],[2250,1170],[2550,1170],[2850,1170],[3150,1170],[3450,1170],[3750,1170],[150,1350],[450,1350],[750,1350],[1050,1350],[1350,1350],[1650,1350],[1950,1350],[2250,1350],[2550,1350],[2850,1350],[3150,1350],[3450,1350],[3750,1350],[150,1530],[450,1530],[750,1530],[1050,1530],[1350,1530],[1650,1530],[1950,1530],[2250,1530],[2550,1530],[2850,1530],[3150,1530],[3450,1530],[3750,1530],[150,1710],[450,1710],[750,1710],[1050,1710],[1350,1710],[1650,1710],[1950,1710],[2250,1710],[2550,1710],[2850,1710],[3150,1710],[3450,1710],[3750,1710],[150,1890],[450,1890],[750,1890],[1050,1890],[1350,1890],[1650,1890],[1950,1890],[2250,1890],[2550,1890],[2850,1890],[3150,1890],[3450,1890],[3750,1890],[150,2070],[450,2070],[750,2070],[1050,2070],[1350,2070],[1650,2070],[1950,2070],[2250,2070],[2550,2070],[2850,2070],[3150,2070],[3450,2070],[3750,2070],[150,2250],[450,2250],[750,2250],[1050,2250],[1350,2250],[1650,2250],[1950,2250],[2250,2250],[2550,2250],[2850,2250],[3150,2250],[3450,2250],[3750,2250],[150,2430],[450,2430],[750,2430],[1050,2430],[1350,2430],[1650,2430],[1950,2430],[2250,2430],[2550,2430],[2850,2430],[3150,2430],[3450,2430],[3750,2430],[150,2610],[450,2610],[750,2610],[1050,2610],[1350,2610],[1650,2610],[1950,2610],[2250,2610],[2550,2610],[2850,2610],[3150,2610],[3450,2610],[3750,2610]],"crsList":[{"key":"17","ref":null,"props":{"keyFromParent":17,"crs_id":"CoreElecCS 1","name":"Object Oriented Programming","prerequisites":{"CoreEssCS 1":5.1000000000000005},"cp":[1350,270],"offset":80,"display":"none","sourceWeight":11.5},"_owner":null,"_store":{}},{"key":"30","ref":null,"props":{"keyFromParent":30,"crs_id":"CoreElecCS 2","name":"Data Structures","prerequisites":{"CoreElecCS 1":1.5,"CoreEssMath 3":3.2,"CoreEssCS 1":2},"cp":[1350,450],"offset":80,"display":"none","sourceWeight":11.899999999999999},"_owner":null,"_store":{}},{"key":"44","ref":null,"props":{"keyFromParent":44,"crs_id":"CoreElecCS 3","name":"Database","prerequisites":{"CoreEssCS 3":2.2},"cp":[1650,630],"offset":80,"display":"none","sourceWeight":9.8},"_owner":null,"_store":{}},{"key":"2","ref":null,"props":{"keyFromParent":2,"crs_id":"CoreElecMath 1","name":"Basic Mathematics","prerequisites":{},"cp":[750,90],"offset":80,"display":"none","sourceWeight":9},"_owner":null,"_store":{}},{"key":"119","ref":null,"props":{"keyFromParent":119,"crs_id":"CoreElecAdv 1","name":"Machine Learning Theory and Methods","prerequisites":{"CoreEssAdv 1":1},"cp":[750,1710],"offset":80,"display":"none","sourceWeight":7.8},"_owner":null,"_store":{}},{"key":"53","ref":null,"props":{"keyFromParent":53,"crs_id":"CoreElecDS 1","name":"Data Analysis","prerequisites":{"CoreEssDS 1":1,"CoreEssCS 2":1},"cp":[450,810],"offset":80,"display":"none","sourceWeight":8.899999999999999},"_owner":null,"_store":{}},{"key":"79","ref":null,"props":{"keyFromParent":79,"crs_id":"CoreElecDS 2","name":"Big Data","prerequisites":{"CoreElecCS 2":1,"CoreEssCS 3":1,"CoreElecDS 1":1},"cp":[450,1170],"offset":80,"display":"none","sourceWeight":10},"_owner":null,"_store":{}},{"key":"66","ref":null,"props":{"keyFromParent":66,"crs_id":"CoreElecDS 3","name":"Datamining","prerequisites":{"CoreElecCS 2":1,"CoreEssDS 1":0.7},"cp":[450,990],"offset":80,"display":"none","sourceWeight":7.9},"_owner":null,"_store":{}},{"key":"58","ref":null,"props":{"keyFromParent":58,"crs_id":"CoreElecCS 4","name":"Distributed system","prerequisites":{"CoreEssCS 5":0.7,"CoreElecCS 5":1,"CoreElecCS 7":1},"cp":[1950,810],"offset":80,"display":"none","sourceWeight":9.1},"_owner":null,"_store":{}},{"key":"71","ref":null,"props":{"keyFromParent":71,"crs_id":"CoreElecAdv 2","name":"Optimization","prerequisites":{"CoreEssMath 4":1.29,"CoreEssMath 2":3.2,"CoreEssCS 3":1,"CoreEssMath 1":2.08},"cp":[1950,990],"offset":80,"display":"none","sourceWeight":8.8},"_owner":null,"_store":{}},{"key":"96","ref":null,"props":{"keyFromParent":96,"crs_id":"CoreElecAdv 3","name":"Graduate Artificial Intelligence","prerequisites":{"CoreEssAI 2":1},"cp":[1650,1350],"offset":80,"display":"none","sourceWeight":9.200000000000001},"_owner":null,"_store":{}},{"key":"98","ref":null,"props":{"keyFromParent":98,"crs_id":"CoreElecRB 2","name":"Artificial Intelligence for Robotics","prerequisites":{"CoreElecRB 1":1,"CoreEssAI 2":0.8,"CoreEssRB 1":1},"cp":[2250,1350],"offset":80,"display":"none","sourceWeight":8.6},"_owner":null,"_store":{}},{"key":"134","ref":null,"props":{"keyFromParent":134,"crs_id":"CoreElecAdv 4","name":"Advanced Deep Learning","prerequisites":{"CoreEssAI 1":3.3,"CoreEssAdv 1":2,"CoreEssAI 3":0.8},"cp":[1350,1890],"offset":80,"display":"none","sourceWeight":8.399999999999999},"_owner":null,"_store":{}},{"key":"108","ref":null,"props":{"keyFromParent":108,"crs_id":"CoreElecAdv 5","name":"Deep Reinforcement Learning","prerequisites":{"CoreEssAI 3":2,"CoreEssAI 4":2,"CoreEssAI 1":3,"CoreEssAdv 1":2},"cp":[1350,1530],"offset":80,"display":"none","sourceWeight":10.7},"_owner":null,"_store":{}},{"key":"94","ref":null,"props":{"keyFromParent":94,"crs_id":"CoreElecNLP 1","name":"Linguistics","prerequisites":{"CoreEssAI 2":2,"CoreEssMath 3":2.5},"cp":[1050,1350],"offset":80,"display":"none","sourceWeight":10.5},"_owner":null,"_store":{}},{"key":"72","ref":null,"props":{"keyFromParent":72,"crs_id":"CoreElecRB 1","name":"Introduction to Robotics","prerequisites":{"CoreEssAI 1":1,"CoreEssCS 1":1.5,"CoreEssCS 5":1,"CoreElecCS 7":1},"cp":[2250,990],"offset":80,"display":"none","sourceWeight":9.5},"_owner":null,"_store":{}},{"key":"45","ref":null,"props":{"keyFromParent":45,"crs_id":"CoreElecCS 5","name":"Network","prerequisites":{"CoreEssMath 3":1.15,"CoreElecCS 7":2.3},"cp":[1950,630],"offset":80,"display":"none","sourceWeight":12.100000000000001},"_owner":null,"_store":{}},{"key":"133","ref":null,"props":{"keyFromParent":133,"crs_id":"CoreElecCog 1","name":"Computational Perception","prerequisites":{"CoreEssAI 1":1},"cp":[1050,1890],"offset":80,"display":"none","sourceWeight":9.399999999999999},"_owner":null,"_store":{}},{"key":"105","ref":null,"props":{"keyFromParent":105,"crs_id":"CoreElecBusi 1","name":"Artificial Intelligence for Business","prerequisites":{"test52":2.5,"CoreEssAI 1":0.5,"CoreEssCS 2":2,"CoreElecCS 2":2,"CoreEssDS 1":1,"CoreEssMath 1":1,"CoreElecMath 1":3,"CoreEssMath 3":0.5},"cp":[450,1530],"offset":80,"display":"none","sourceWeight":11.5},"_owner":null,"_store":{}},{"key":"118","ref":null,"props":{"keyFromParent":118,"crs_id":"CoreElecBusi 2","name":"Machine Learning for Trading","prerequisites":{"CoreElecDS 1":2,"CoreEssMath 2":2,"CoreEssMath 4":1.7},"cp":[450,1710],"offset":80,"display":"none","sourceWeight":9},"_owner":null,"_store":{}},{"key":"132","ref":null,"props":{"keyFromParent":132,"crs_id":"CoreElecAdv 6","name":"Computational Social Science","prerequisites":{"CoreElecAdv 1":1},"cp":[750,1890],"offset":80,"display":"none","sourceWeight":8.100000000000001},"_owner":null,"_store":{}},{"key":"131","ref":null,"props":{"keyFromParent":131,"crs_id":"CoreElecBusi 3","name":"Business methods","prerequisites":{},"cp":[450,1890],"offset":80,"display":"none","sourceWeight":8},"_owner":null,"_store":{}},{"key":"4","ref":null,"props":{"keyFromParent":4,"crs_id":"CoreEssCS 1","name":"Introduction to Computer Programming","prerequisites":{},"cp":[1350,90],"offset":80,"display":"none","sourceWeight":19.7},"_owner":null,"_store":{}},{"key":"5","ref":null,"props":{"keyFromParent":5,"crs_id":"CoreEssCS 2","name":"Introduction to Computer Programming for Everyone","prerequisites":{},"cp":[1650,90],"offset":80,"display":"none","sourceWeight":18},"_owner":null,"_store":{}},{"key":"43","ref":null,"props":{"keyFromParent":43,"crs_id":"CoreEssCS 3","name":"Algorithms","prerequisites":{"CoreElecCS 2":4.39,"CoreEssCS 1":1.7,"CoreEssMath 3":5.86,"CoreElecCS 1":1.35},"cp":[1350,630],"offset":80,"display":"none","sourceWeight":14.7},"_owner":null,"_store":{}},{"key":"83","ref":null,"props":{"keyFromParent":83,"crs_id":"CoreElecCS 6","name":"Graduate Algorithms","prerequisites":{"CoreEssCS 3":7.2,"CoreEssMath 3":4.5},"cp":[1650,1170],"offset":80,"display":"none","sourceWeight":26.1},"_owner":null,"_store":{}},{"key":"33","ref":null,"props":{"keyFromParent":33,"crs_id":"CoreElecCS 7","name":"Computer Systems","prerequisites":{"CoreEssCS 4":4,"CoreElecCS 1":2.5999999999999996},"cp":[2250,450],"offset":80,"display":"none","sourceWeight":14.2},"_owner":null,"_store":{}},{"key":"46","ref":null,"props":{"keyFromParent":46,"crs_id":"CoreEssCS 4","name":"Computer Structure","prerequisites":{"CoreEssCS 1":3,"CoreEssCS 5":1,"CoreElecCS 1":2.3,"CoreElecCS 2":1.7},"cp":[2250,630],"offset":80,"display":"none","sourceWeight":14.4},"_owner":null,"_store":{}},{"key":"19","ref":null,"props":{"keyFromParent":19,"crs_id":"CoreEssCS 5","name":"Signal and Systems","prerequisites":{"CoreEssMath 1":3.9599999999999995,"CoreEssCS 1":2},"cp":[1950,270],"offset":80,"display":"none","sourceWeight":13.599999999999998},"_owner":null,"_store":{}},{"key":"15","ref":null,"props":{"keyFromParent":15,"crs_id":"CoreEssMath 1","name":"Calculus","prerequisites":{"CoreElecMath 1":1.1},"cp":[750,270],"offset":80,"display":"none","sourceWeight":22.6},"_owner":null,"_store":{}},{"key":"28","ref":null,"props":{"keyFromParent":28,"crs_id":"CoreEssMath 2","name":"Linear Algebra","prerequisites":{"CoreEssMath 1":5.199999999999999,"CoreElecMath 1":1.2},"cp":[750,450],"offset":80,"display":"none","sourceWeight":20.2},"_owner":null,"_store":{}},{"key":"29","ref":null,"props":{"keyFromParent":29,"crs_id":"CoreEssMath 3","name":"Discrete Mathematics and Probability Theory","prerequisites":{"CoreEssMath 1":4.480000000000001,"CoreElecMath 1":2.3},"cp":[1050,450],"offset":80,"display":"none","sourceWeight":25.80000000000001},"_owner":null,"_store":{}},{"key":"1","ref":null,"props":{"keyFromParent":1,"crs_id":"CoreEssMath 4","name":"Introduction to Statistics","prerequisites":{},"cp":[450,90],"offset":80,"display":"none","sourceWeight":15.100000000000001},"_owner":null,"_store":{}},{"key":"68","ref":null,"props":{"keyFromParent":68,"crs_id":"CoreEssAI 1","name":"Introduction to Machine Learning","prerequisites":{"CoreEssMath 4":2.85,"CoreEssCS 1":3,"CoreEssCS 3":2.7,"CoreEssCS 5":1,"CoreEssMath 2":7,"CoreEssAdv 2":0.6,"CoreEssDS 1":1.7,"CoreElecDS 3":0.5,"CoreEssCS 2":1.5,"CoreEssAI 2":2,"CoreEssMath 3":3.75,"CoreEssMath 1":1.5,"CoreElecRB 1":0.8,"CoreEssAdv 1":1,"CoreElecAdv 2":1,"CoreElecCS 1":1},"cp":[1050,990],"offset":80,"display":"none","sourceWeight":28.9},"_owner":null,"_store":{}},{"key":"106","ref":null,"props":{"keyFromParent":106,"crs_id":"CoreEssAdv 1","name":"Advanced Machine Learning","prerequisites":{"CoreEssAI 1":4},"cp":[750,1530],"offset":80,"display":"none","sourceWeight":15.2},"_owner":null,"_store":{}},{"key":"27","ref":null,"props":{"keyFromParent":27,"crs_id":"CoreEssDS 1","name":"Foundation of Data Science","prerequisites":{"CoreEssMath 4":4,"CoreEssCS 2":2,"CoreEssCS 1":2},"cp":[450,450],"offset":80,"display":"none","sourceWeight":15.2},"_owner":null,"_store":{}},{"key":"147","ref":null,"props":{"keyFromParent":147,"crs_id":"CoreEssAdv 2","name":"Topics in Artificial Intelligence","prerequisites":{"CoreEssAdv 3":1,"CoreEssCS 1":1},"cp":[1350,2070],"offset":80,"display":"none","sourceWeight":16},"_owner":null,"_store":{}},{"key":"69","ref":null,"props":{"keyFromParent":69,"crs_id":"CoreEssAI 2","name":"Intoduction to Artificial Intelligence","prerequisites":{"CoreElecCS 2":6,"CoreEssCS 1":3,"CoreEssCS 3":3.2,"CoreEssCS 5":1,"CoreEssMath 4":0.8,"CoreEssMath 2":1.8,"CoreEssAI 3":1,"CoreEssAI 4":2,"CoreEssCS 2":1,"CoreEssMath 3":5,"CoreElecCS 1":2.4,"CoreEssCS 4":2.6},"cp":[1350,990],"offset":80,"display":"none","sourceWeight":21.2},"_owner":null,"_store":{}},{"key":"110","ref":null,"props":{"keyFromParent":110,"crs_id":"CoreEssAdv 3","name":"Design of Artificial Intelligence Products","prerequisites":{"CoreEssAI 4":2,"CoreEssAI 2":0.7,"CoreEssAI 1":1,"CoreElecCS 2":1},"cp":[1950,1530],"offset":80,"display":"none","sourceWeight":30.3},"_owner":null,"_store":{}},{"key":"67","ref":null,"props":{"keyFromParent":67,"crs_id":"CoreEssAI 3","name":"Introduction to Deep Learning","prerequisites":{"CoreEssMath 4":1.3599999999999999,"CoreEssMath 2":2.2,"CoreEssAI 1":1.15,"CoreEssCS 2":2,"CoreEssMath 1":3,"CoreElecMath 1":3},"cp":[750,990],"offset":80,"display":"none","sourceWeight":14.1},"_owner":null,"_store":{}},{"key":"70","ref":null,"props":{"keyFromParent":70,"crs_id":"CoreEssAI 4","name":"Deep Learning Application and Practice","prerequisites":{"CoreEssAI 2":2,"CoreEssAI 3":1,"CoreEssCS 2":3.5,"CoreElecMath 1":1.5},"cp":[1650,990],"offset":80,"display":"none","sourceWeight":15.7},"_owner":null,"_store":{}},{"key":"109","ref":null,"props":{"keyFromParent":109,"crs_id":"CoreEssCV 1","name":"Computer Vision","prerequisites":{"CoreEssAI 3":1.12,"CoreEssAI 4":3.1,"CoreEssCS 3":2.2,"CoreEssAI 2":1},"cp":[1650,1530],"offset":80,"display":"none","sourceWeight":32.400000000000006},"_owner":null,"_store":{}},{"key":"122","ref":null,"props":{"keyFromParent":122,"crs_id":"CoreEssCV 2","name":"Computer Graphics","prerequisites":{"CoreElecCS 7":2.1,"CoreEssCV 1":0.8,"CoreEssCS 5":1.42,"CoreEssCS 4":2.4},"cp":[1650,1710],"offset":80,"display":"none","sourceWeight":16.9},"_owner":null,"_store":{}},{"key":"107","ref":null,"props":{"keyFromParent":107,"crs_id":"CoreEssNLP 1","name":"Natural Language Processing:","prerequisites":{"CoreElecNLP 1":3,"CoreEssAI 2":4},"cp":[1050,1530],"offset":80,"display":"none","sourceWeight":26.2},"_owner":null,"_store":{}},{"key":"85","ref":null,"props":{"keyFromParent":85,"crs_id":"CoreEssRB 1","name":"Planning Techniques for Robotics","prerequisites":{"CoreEssAdv 3":1.5,"CoreElecRB 1":2,"CoreEssCS 3":1.2},"cp":[2250,1170],"offset":80,"display":"none","sourceWeight":14.5},"_owner":null,"_store":{}}],"filteredCrsList":[],"map":{"1":"CoreEssMath 4","2":"CoreElecMath 1","4":"CoreEssCS 1","5":"CoreEssCS 2","15":"CoreEssMath 1","17":"CoreElecCS 1","19":"CoreEssCS 5","27":"CoreEssDS 1","28":"CoreEssMath 2","29":"CoreEssMath 3","30":"CoreElecCS 2","33":"CoreElecCS 7","43":"CoreEssCS 3","44":"CoreElecCS 3","45":"CoreElecCS 5","46":"CoreEssCS 4","53":"CoreElecDS 1","58":"CoreElecCS 4","66":"CoreElecDS 3","67":"CoreEssAI 3","68":"CoreEssAI 1","69":"CoreEssAI 2","70":"CoreEssAI 4","71":"CoreElecAdv 2","72":"CoreElecRB 1","79":"CoreElecDS 2","83":"CoreElecCS 6","85":"CoreEssRB 1","94":"CoreElecNLP 1","96":"CoreElecAdv 3","98":"CoreElecRB 2","105":"CoreElecBusi 1","106":"CoreEssAdv 1","107":"CoreEssNLP 1","108":"CoreElecAdv 5","109":"CoreEssCV 1","110":"CoreEssAdv 3","118":"CoreElecBusi 2","119":"CoreElecAdv 1","122":"CoreEssCV 2","131":"CoreElecBusi 3","132":"CoreElecAdv 6","133":"CoreElecCog 1","134":"CoreElecAdv 4","147":"CoreEssAdv 2"}}
+{
+    "merged": true,
+    "view_size": [
+        3900,
+        2700
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            3150,
+            90
+        ],
+        [
+            3450,
+            90
+        ],
+        [
+            3750,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            3150,
+            270
+        ],
+        [
+            3450,
+            270
+        ],
+        [
+            3750,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            3150,
+            450
+        ],
+        [
+            3450,
+            450
+        ],
+        [
+            3750,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            3150,
+            630
+        ],
+        [
+            3450,
+            630
+        ],
+        [
+            3750,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            3150,
+            810
+        ],
+        [
+            3450,
+            810
+        ],
+        [
+            3750,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            3150,
+            990
+        ],
+        [
+            3450,
+            990
+        ],
+        [
+            3750,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            3150,
+            1170
+        ],
+        [
+            3450,
+            1170
+        ],
+        [
+            3750,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            3150,
+            1350
+        ],
+        [
+            3450,
+            1350
+        ],
+        [
+            3750,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            3150,
+            1530
+        ],
+        [
+            3450,
+            1530
+        ],
+        [
+            3750,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ],
+        [
+            3150,
+            1710
+        ],
+        [
+            3450,
+            1710
+        ],
+        [
+            3750,
+            1710
+        ],
+        [
+            150,
+            1890
+        ],
+        [
+            450,
+            1890
+        ],
+        [
+            750,
+            1890
+        ],
+        [
+            1050,
+            1890
+        ],
+        [
+            1350,
+            1890
+        ],
+        [
+            1650,
+            1890
+        ],
+        [
+            1950,
+            1890
+        ],
+        [
+            2250,
+            1890
+        ],
+        [
+            2550,
+            1890
+        ],
+        [
+            2850,
+            1890
+        ],
+        [
+            3150,
+            1890
+        ],
+        [
+            3450,
+            1890
+        ],
+        [
+            3750,
+            1890
+        ],
+        [
+            150,
+            2070
+        ],
+        [
+            450,
+            2070
+        ],
+        [
+            750,
+            2070
+        ],
+        [
+            1050,
+            2070
+        ],
+        [
+            1350,
+            2070
+        ],
+        [
+            1650,
+            2070
+        ],
+        [
+            1950,
+            2070
+        ],
+        [
+            2250,
+            2070
+        ],
+        [
+            2550,
+            2070
+        ],
+        [
+            2850,
+            2070
+        ],
+        [
+            3150,
+            2070
+        ],
+        [
+            3450,
+            2070
+        ],
+        [
+            3750,
+            2070
+        ],
+        [
+            150,
+            2250
+        ],
+        [
+            450,
+            2250
+        ],
+        [
+            750,
+            2250
+        ],
+        [
+            1050,
+            2250
+        ],
+        [
+            1350,
+            2250
+        ],
+        [
+            1650,
+            2250
+        ],
+        [
+            1950,
+            2250
+        ],
+        [
+            2250,
+            2250
+        ],
+        [
+            2550,
+            2250
+        ],
+        [
+            2850,
+            2250
+        ],
+        [
+            3150,
+            2250
+        ],
+        [
+            3450,
+            2250
+        ],
+        [
+            3750,
+            2250
+        ],
+        [
+            150,
+            2430
+        ],
+        [
+            450,
+            2430
+        ],
+        [
+            750,
+            2430
+        ],
+        [
+            1050,
+            2430
+        ],
+        [
+            1350,
+            2430
+        ],
+        [
+            1650,
+            2430
+        ],
+        [
+            1950,
+            2430
+        ],
+        [
+            2250,
+            2430
+        ],
+        [
+            2550,
+            2430
+        ],
+        [
+            2850,
+            2430
+        ],
+        [
+            3150,
+            2430
+        ],
+        [
+            3450,
+            2430
+        ],
+        [
+            3750,
+            2430
+        ],
+        [
+            150,
+            2610
+        ],
+        [
+            450,
+            2610
+        ],
+        [
+            750,
+            2610
+        ],
+        [
+            1050,
+            2610
+        ],
+        [
+            1350,
+            2610
+        ],
+        [
+            1650,
+            2610
+        ],
+        [
+            1950,
+            2610
+        ],
+        [
+            2250,
+            2610
+        ],
+        [
+            2550,
+            2610
+        ],
+        [
+            2850,
+            2610
+        ],
+        [
+            3150,
+            2610
+        ],
+        [
+            3450,
+            2610
+        ],
+        [
+            3750,
+            2610
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "17",
+            "ref": null,
+            "props": {
+                "keyFromParent": 17,
+                "crs_id": "CoreElecCS 1",
+                "name": "Object Oriented Programming",
+                "prerequisites": {
+                    "CoreEssCS 1": 5.1000000000000005
+                },
+                "cp": [
+                    1350,
+                    270
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 11.5
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "30",
+            "ref": null,
+            "props": {
+                "keyFromParent": 30,
+                "crs_id": "CoreElecCS 2",
+                "name": "Data Structures",
+                "prerequisites": {
+                    "CoreElecCS 1": 1.5,
+                    "CoreEssMath 3": 3.2,
+                    "CoreEssCS 1": 2
+                },
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 11.899999999999999
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "44",
+            "ref": null,
+            "props": {
+                "keyFromParent": 44,
+                "crs_id": "CoreElecCS 3",
+                "name": "Database",
+                "prerequisites": {
+                    "CoreEssCS 3": 2.2
+                },
+                "cp": [
+                    1650,
+                    630
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 9.8
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "2",
+            "ref": null,
+            "props": {
+                "keyFromParent": 2,
+                "crs_id": "CoreElecMath 1",
+                "name": "Basic Mathematics",
+                "prerequisites": {},
+                "cp": [
+                    750,
+                    90
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 9
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "119",
+            "ref": null,
+            "props": {
+                "keyFromParent": 119,
+                "crs_id": "CoreElecAdv 1",
+                "name": "Machine Learning Theory and Methods",
+                "prerequisites": {
+                    "CoreEssAdv 1": 1
+                },
+                "cp": [
+                    750,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 7.8
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "keyFromParent": 53,
+                "crs_id": "CoreElecDS 1",
+                "name": "Data Analysis",
+                "prerequisites": {
+                    "CoreEssDS 1": 1,
+                    "CoreEssCS 2": 1
+                },
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 8.899999999999999
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "79",
+            "ref": null,
+            "props": {
+                "keyFromParent": 79,
+                "crs_id": "CoreElecDS 2",
+                "name": "Big Data",
+                "prerequisites": {
+                    "CoreElecCS 2": 1,
+                    "CoreEssCS 3": 1,
+                    "CoreElecDS 1": 1
+                },
+                "cp": [
+                    450,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 10
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "66",
+            "ref": null,
+            "props": {
+                "keyFromParent": 66,
+                "crs_id": "CoreElecDS 3",
+                "name": "Datamining",
+                "prerequisites": {
+                    "CoreElecCS 2": 1,
+                    "CoreEssDS 1": 0.7
+                },
+                "cp": [
+                    450,
+                    990
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 7.9
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "58",
+            "ref": null,
+            "props": {
+                "keyFromParent": 58,
+                "crs_id": "CoreElecCS 4",
+                "name": "Distributed system",
+                "prerequisites": {
+                    "CoreEssCS 5": 0.7,
+                    "CoreElecCS 5": 1,
+                    "CoreElecCS 7": 1
+                },
+                "cp": [
+                    1950,
+                    810
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 9.1
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "71",
+            "ref": null,
+            "props": {
+                "keyFromParent": 71,
+                "crs_id": "CoreElecAdv 2",
+                "name": "Optimization",
+                "prerequisites": {
+                    "CoreEssMath 4": 1.29,
+                    "CoreEssMath 2": 3.2,
+                    "CoreEssCS 3": 1,
+                    "CoreEssMath 1": 2.08
+                },
+                "cp": [
+                    1950,
+                    990
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 8.8
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "keyFromParent": 96,
+                "crs_id": "CoreElecAdv 3",
+                "name": "Graduate Artificial Intelligence",
+                "prerequisites": {
+                    "CoreEssAI 2": 1
+                },
+                "cp": [
+                    1650,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 9.200000000000001
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "98",
+            "ref": null,
+            "props": {
+                "keyFromParent": 98,
+                "crs_id": "CoreElecRB 2",
+                "name": "Artificial Intelligence for Robotics",
+                "prerequisites": {
+                    "CoreElecRB 1": 1,
+                    "CoreEssAI 2": 0.8,
+                    "CoreEssRB 1": 1
+                },
+                "cp": [
+                    2250,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 8.6
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "134",
+            "ref": null,
+            "props": {
+                "keyFromParent": 134,
+                "crs_id": "CoreElecAdv 4",
+                "name": "Advanced Deep Learning",
+                "prerequisites": {
+                    "CoreEssAI 1": 3.3,
+                    "CoreEssAdv 1": 2,
+                    "CoreEssAI 3": 0.8
+                },
+                "cp": [
+                    1350,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 8.399999999999999
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "108",
+            "ref": null,
+            "props": {
+                "keyFromParent": 108,
+                "crs_id": "CoreElecAdv 5",
+                "name": "Deep Reinforcement Learning",
+                "prerequisites": {
+                    "CoreEssAI 3": 2,
+                    "CoreEssAI 4": 2,
+                    "CoreEssAI 1": 3,
+                    "CoreEssAdv 1": 2
+                },
+                "cp": [
+                    1350,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 10.7
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "keyFromParent": 94,
+                "crs_id": "CoreElecNLP 1",
+                "name": "Linguistics",
+                "prerequisites": {
+                    "CoreEssAI 2": 2,
+                    "CoreEssMath 3": 2.5
+                },
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 10.5
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "72",
+            "ref": null,
+            "props": {
+                "keyFromParent": 72,
+                "crs_id": "CoreElecRB 1",
+                "name": "Introduction to Robotics",
+                "prerequisites": {
+                    "CoreEssAI 1": 1,
+                    "CoreEssCS 1": 1.5,
+                    "CoreEssCS 5": 1,
+                    "CoreElecCS 7": 1
+                },
+                "cp": [
+                    2250,
+                    990
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 9.5
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "keyFromParent": 45,
+                "crs_id": "CoreElecCS 5",
+                "name": "Network",
+                "prerequisites": {
+                    "CoreEssMath 3": 1.15,
+                    "CoreElecCS 7": 2.3
+                },
+                "cp": [
+                    1950,
+                    630
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 12.100000000000001
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "133",
+            "ref": null,
+            "props": {
+                "keyFromParent": 133,
+                "crs_id": "CoreElecCog 1",
+                "name": "Computational Perception",
+                "prerequisites": {
+                    "CoreEssAI 1": 1
+                },
+                "cp": [
+                    1050,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 9.399999999999999
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "105",
+            "ref": null,
+            "props": {
+                "keyFromParent": 105,
+                "crs_id": "CoreElecBusi 1",
+                "name": "Artificial Intelligence for Business",
+                "prerequisites": {
+                    "test52": 2.5,
+                    "CoreEssAI 1": 0.5,
+                    "CoreEssCS 2": 2,
+                    "CoreElecCS 2": 2,
+                    "CoreEssDS 1": 1,
+                    "CoreEssMath 1": 1,
+                    "CoreElecMath 1": 3,
+                    "CoreEssMath 3": 0.5
+                },
+                "cp": [
+                    450,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 11.5
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "118",
+            "ref": null,
+            "props": {
+                "keyFromParent": 118,
+                "crs_id": "CoreElecBusi 2",
+                "name": "Machine Learning for Trading",
+                "prerequisites": {
+                    "CoreElecDS 1": 2,
+                    "CoreEssMath 2": 2,
+                    "CoreEssMath 4": 1.7
+                },
+                "cp": [
+                    450,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 9
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "132",
+            "ref": null,
+            "props": {
+                "keyFromParent": 132,
+                "crs_id": "CoreElecAdv 6",
+                "name": "Computational Social Science",
+                "prerequisites": {
+                    "CoreElecAdv 1": 1
+                },
+                "cp": [
+                    750,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 8.100000000000001
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "131",
+            "ref": null,
+            "props": {
+                "keyFromParent": 131,
+                "crs_id": "CoreElecBusi 3",
+                "name": "Business methods",
+                "prerequisites": {},
+                "cp": [
+                    450,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 8
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "keyFromParent": 4,
+                "crs_id": "CoreEssCS 1",
+                "name": "Introduction to Computer Programming",
+                "prerequisites": {},
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 19.7
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "keyFromParent": 5,
+                "crs_id": "CoreEssCS 2",
+                "name": "Introduction to Computer Programming for Everyone",
+                "prerequisites": {},
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 18
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "43",
+            "ref": null,
+            "props": {
+                "keyFromParent": 43,
+                "crs_id": "CoreEssCS 3",
+                "name": "Algorithms",
+                "prerequisites": {
+                    "CoreElecCS 2": 4.39,
+                    "CoreEssCS 1": 1.7,
+                    "CoreEssMath 3": 5.86,
+                    "CoreElecCS 1": 1.35
+                },
+                "cp": [
+                    1350,
+                    630
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 14.7
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "keyFromParent": 83,
+                "crs_id": "CoreElecCS 6",
+                "name": "Graduate Algorithms",
+                "prerequisites": {
+                    "CoreEssCS 3": 7.2,
+                    "CoreEssMath 3": 4.5
+                },
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 26.1
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "33",
+            "ref": null,
+            "props": {
+                "keyFromParent": 33,
+                "crs_id": "CoreElecCS 7",
+                "name": "Computer Systems",
+                "prerequisites": {
+                    "CoreEssCS 4": 4,
+                    "CoreElecCS 1": 2.5999999999999996
+                },
+                "cp": [
+                    2250,
+                    450
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 14.2
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "46",
+            "ref": null,
+            "props": {
+                "keyFromParent": 46,
+                "crs_id": "CoreEssCS 4",
+                "name": "Computer Structure",
+                "prerequisites": {
+                    "CoreEssCS 1": 3,
+                    "CoreEssCS 5": 1,
+                    "CoreElecCS 1": 2.3,
+                    "CoreElecCS 2": 1.7
+                },
+                "cp": [
+                    2250,
+                    630
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 14.4
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "19",
+            "ref": null,
+            "props": {
+                "keyFromParent": 19,
+                "crs_id": "CoreEssCS 5",
+                "name": "Signal and Systems",
+                "prerequisites": {
+                    "CoreEssMath 1": 3.9599999999999995,
+                    "CoreEssCS 1": 2
+                },
+                "cp": [
+                    1950,
+                    270
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 13.599999999999998
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "15",
+            "ref": null,
+            "props": {
+                "keyFromParent": 15,
+                "crs_id": "CoreEssMath 1",
+                "name": "Calculus",
+                "prerequisites": {
+                    "CoreElecMath 1": 1.1
+                },
+                "cp": [
+                    750,
+                    270
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 22.6
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "28",
+            "ref": null,
+            "props": {
+                "keyFromParent": 28,
+                "crs_id": "CoreEssMath 2",
+                "name": "Linear Algebra",
+                "prerequisites": {
+                    "CoreEssMath 1": 5.199999999999999,
+                    "CoreElecMath 1": 1.2
+                },
+                "cp": [
+                    750,
+                    450
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 20.2
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "29",
+            "ref": null,
+            "props": {
+                "keyFromParent": 29,
+                "crs_id": "CoreEssMath 3",
+                "name": "Discrete Mathematics and Probability Theory",
+                "prerequisites": {
+                    "CoreEssMath 1": 4.480000000000001,
+                    "CoreElecMath 1": 2.3
+                },
+                "cp": [
+                    1050,
+                    450
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 25.80000000000001
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "keyFromParent": 1,
+                "crs_id": "CoreEssMath 4",
+                "name": "Introduction to Statistics",
+                "prerequisites": {},
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 15.100000000000001
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "68",
+            "ref": null,
+            "props": {
+                "keyFromParent": 68,
+                "crs_id": "CoreEssAI 1",
+                "name": "Introduction to Machine Learning",
+                "prerequisites": {
+                    "CoreEssMath 4": 2.85,
+                    "CoreEssCS 1": 3,
+                    "CoreEssCS 3": 2.7,
+                    "CoreEssCS 5": 1,
+                    "CoreEssMath 2": 7,
+                    "CoreEssAdv 2": 0.6,
+                    "CoreEssDS 1": 1.7,
+                    "CoreElecDS 3": 0.5,
+                    "CoreEssCS 2": 1.5,
+                    "CoreEssAI 2": 2,
+                    "CoreEssMath 3": 3.75,
+                    "CoreEssMath 1": 1.5,
+                    "CoreElecRB 1": 0.8,
+                    "CoreEssAdv 1": 1,
+                    "CoreElecAdv 2": 1,
+                    "CoreElecCS 1": 1
+                },
+                "cp": [
+                    1050,
+                    990
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 28.9
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "106",
+            "ref": null,
+            "props": {
+                "keyFromParent": 106,
+                "crs_id": "CoreEssAdv 1",
+                "name": "Advanced Machine Learning",
+                "prerequisites": {
+                    "CoreEssAI 1": 4
+                },
+                "cp": [
+                    750,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 15.2
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "keyFromParent": 27,
+                "crs_id": "CoreEssDS 1",
+                "name": "Foundation of Data Science",
+                "prerequisites": {
+                    "CoreEssMath 4": 4,
+                    "CoreEssCS 2": 2,
+                    "CoreEssCS 1": 2
+                },
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 15.2
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "147",
+            "ref": null,
+            "props": {
+                "keyFromParent": 147,
+                "crs_id": "CoreEssAdv 2",
+                "name": "Topics in Artificial Intelligence",
+                "prerequisites": {
+                    "CoreEssAdv 3": 1,
+                    "CoreEssCS 1": 1
+                },
+                "cp": [
+                    1350,
+                    2070
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 16
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "69",
+            "ref": null,
+            "props": {
+                "keyFromParent": 69,
+                "crs_id": "CoreEssAI 2",
+                "name": "Intoduction to Artificial Intelligence",
+                "prerequisites": {
+                    "CoreElecCS 2": 6,
+                    "CoreEssCS 1": 3,
+                    "CoreEssCS 3": 3.2,
+                    "CoreEssCS 5": 1,
+                    "CoreEssMath 4": 0.8,
+                    "CoreEssMath 2": 1.8,
+                    "CoreEssAI 3": 1,
+                    "CoreEssAI 4": 2,
+                    "CoreEssCS 2": 1,
+                    "CoreEssMath 3": 5,
+                    "CoreElecCS 1": 2.4,
+                    "CoreEssCS 4": 2.6
+                },
+                "cp": [
+                    1350,
+                    990
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 21.2
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "110",
+            "ref": null,
+            "props": {
+                "keyFromParent": 110,
+                "crs_id": "CoreEssAdv 3",
+                "name": "Design of Artificial Intelligence Products",
+                "prerequisites": {
+                    "CoreEssAI 4": 2,
+                    "CoreEssAI 2": 0.7,
+                    "CoreEssAI 1": 1,
+                    "CoreElecCS 2": 1
+                },
+                "cp": [
+                    1950,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 30.3
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "67",
+            "ref": null,
+            "props": {
+                "keyFromParent": 67,
+                "crs_id": "CoreEssAI 3",
+                "name": "Introduction to Deep Learning",
+                "prerequisites": {
+                    "CoreEssMath 4": 1.3599999999999999,
+                    "CoreEssMath 2": 2.2,
+                    "CoreEssAI 1": 1.15,
+                    "CoreEssCS 2": 2,
+                    "CoreEssMath 1": 3,
+                    "CoreElecMath 1": 3
+                },
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 14.1
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "70",
+            "ref": null,
+            "props": {
+                "keyFromParent": 70,
+                "crs_id": "CoreEssAI 4",
+                "name": "Deep Learning Application and Practice",
+                "prerequisites": {
+                    "CoreEssAI 2": 2,
+                    "CoreEssAI 3": 1,
+                    "CoreEssCS 2": 3.5,
+                    "CoreElecMath 1": 1.5
+                },
+                "cp": [
+                    1650,
+                    990
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 15.7
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "109",
+            "ref": null,
+            "props": {
+                "keyFromParent": 109,
+                "crs_id": "CoreEssCV 1",
+                "name": "Computer Vision",
+                "prerequisites": {
+                    "CoreEssAI 3": 1.12,
+                    "CoreEssAI 4": 3.1,
+                    "CoreEssCS 3": 2.2,
+                    "CoreEssAI 2": 1
+                },
+                "cp": [
+                    1650,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 32.400000000000006
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "122",
+            "ref": null,
+            "props": {
+                "keyFromParent": 122,
+                "crs_id": "CoreEssCV 2",
+                "name": "Computer Graphics",
+                "prerequisites": {
+                    "CoreElecCS 7": 2.1,
+                    "CoreEssCV 1": 0.8,
+                    "CoreEssCS 5": 1.42,
+                    "CoreEssCS 4": 2.4
+                },
+                "cp": [
+                    1650,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 16.9
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "107",
+            "ref": null,
+            "props": {
+                "keyFromParent": 107,
+                "crs_id": "CoreEssNLP 1",
+                "name": "Natural Language Processing:",
+                "prerequisites": {
+                    "CoreElecNLP 1": 3,
+                    "CoreEssAI 2": 4
+                },
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 26.2
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "85",
+            "ref": null,
+            "props": {
+                "keyFromParent": 85,
+                "crs_id": "CoreEssRB 1",
+                "name": "Planning Techniques for Robotics",
+                "prerequisites": {
+                    "CoreEssAdv 3": 1.5,
+                    "CoreElecRB 1": 2,
+                    "CoreEssCS 3": 1.2
+                },
+                "cp": [
+                    2250,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none",
+                "sourceWeight": 14.5
+            },
+            "_owner": null,
+            "_store": {}
+        }
+    ],
+    "filteredCrsList": [],
+    "map": {
+        "1": "CoreEssMath 4",
+        "2": "CoreElecMath 1",
+        "4": "CoreEssCS 1",
+        "5": "CoreEssCS 2",
+        "15": "CoreEssMath 1",
+        "17": "CoreElecCS 1",
+        "19": "CoreEssCS 5",
+        "27": "CoreEssDS 1",
+        "28": "CoreEssMath 2",
+        "29": "CoreEssMath 3",
+        "30": "CoreElecCS 2",
+        "33": "CoreElecCS 7",
+        "43": "CoreEssCS 3",
+        "44": "CoreElecCS 3",
+        "45": "CoreElecCS 5",
+        "46": "CoreEssCS 4",
+        "53": "CoreElecDS 1",
+        "58": "CoreElecCS 4",
+        "66": "CoreElecDS 3",
+        "67": "CoreEssAI 3",
+        "68": "CoreEssAI 1",
+        "69": "CoreEssAI 2",
+        "70": "CoreEssAI 4",
+        "71": "CoreElecAdv 2",
+        "72": "CoreElecRB 1",
+        "79": "CoreElecDS 2",
+        "83": "CoreElecCS 6",
+        "85": "CoreEssRB 1",
+        "94": "CoreElecNLP 1",
+        "96": "CoreElecAdv 3",
+        "98": "CoreElecRB 2",
+        "105": "CoreElecBusi 1",
+        "106": "CoreEssAdv 1",
+        "107": "CoreEssNLP 1",
+        "108": "CoreElecAdv 5",
+        "109": "CoreEssCV 1",
+        "110": "CoreEssAdv 3",
+        "118": "CoreElecBusi 2",
+        "119": "CoreElecAdv 1",
+        "122": "CoreEssCV 2",
+        "131": "CoreElecBusi 3",
+        "132": "CoreElecAdv 6",
+        "133": "CoreElecCog 1",
+        "134": "CoreElecAdv 4",
+        "147": "CoreEssAdv 2"
+    }
+}

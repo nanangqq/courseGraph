@@ -796,10 +796,10 @@
                 "description": "The interplay between economic thinking and computational thinking as it relates to electronic commerce, social networks, collective intelligence and networked systems. ",
                 "prerequisites": [
                     "MATH 21b",
-                    "COMPSC 51",
+                    "COMPSCI 51",
                     "STAT 110",
-                    "COMPSC 181",
-                    "COMPSC 182",
+                    "COMPSCI 181",
+                    "COMPSCI 182",
                     "ECON 1011a",
                     "ECON 1052",
                     "ECON 1056"
@@ -820,7 +820,7 @@
                 "name": "Linear Algebra and Differential Equations",
                 "description": "Matrices provide the algebraic structure for solving myriad problems across the sciences. We study matrices and related topics such as linear transformations and linear spaces, determinants, eigenvalues, and eigenvectors.",
                 "prerequisites": [
-                    "COMPSC 51",
+                    "COMPSCI 51",
                     "STAT 110",
                     "MATH 21a",
                     "MATH 21b"
@@ -837,11 +837,11 @@
             "key": "25",
             "ref": null,
             "props": {
-                "crs_id": "COMPSC 181",
+                "crs_id": "COMPSCI 181",
                 "name": "Machine Learning",
                 "description": "supervised learning, ensemble methods and boosting, neural networks, support vector machines, kernel methods, clustering and unsupervised learning, maximum likelihood, graphical models, hidden Markov models, inference methods, and computational learning theory. Students should feel comfortable with multivariate calculus, linear algebra, probability theory, and complexity theory. ",
                 "prerequisites": [
-                    "COMPSC 51",
+                    "COMPSCI 51",
                     "STAT 110",
                     "MATH 21a",
                     "MATH 21b",
@@ -859,7 +859,7 @@
             "key": "56",
             "ref": null,
             "props": {
-                "crs_id": "COMPSC 182",
+                "crs_id": "COMPSCI 182",
                 "name": "Artifical Intelligence",
                 "description": "three core sections: search, representation, and uncertainty. In each section, it will provide a thorough understanding of major approaches, representational techniques and core algorithms. ",
                 "prerequisites": [
@@ -954,7 +954,7 @@
                 "name": "computing hardware",
                 "description": "This course introduces fundamentals in designing and building modern information devices and systems that interface with the real world. It focuses on digital devices and systems",
                 "prerequisites": [
-                    "COMPSC 50"
+                    "COMPSCI 50"
                 ],
                 "cp": [
                     1050,
@@ -972,7 +972,7 @@
                 "name": "computing networks",
                 "description": "Computer networking has enabled the emergence of mobile and cloud computing, creating two of the most important technological breakthroughs in computing of the past decade.  ",
                 "prerequisites": [
-                    "COMPSC 50"
+                    "COMPSCI 50"
                 ],
                 "cp": [
                     1350,
@@ -990,8 +990,8 @@
                 "name": "cloud netwoking and computing",
                 "description": "we will take a look inside the cloud infrastructure and learn critical technology trends and challenges in the networking and computing layers.",
                 "prerequisites": [
-                    "COMPSC 61",
-                    "COMPSC 143"
+                    "COMPSCI 61",
+                    "COMPSCI 143"
                 ],
                 "cp": [
                     1350,
@@ -1009,7 +1009,7 @@
                 "name": "computer architecture",
                 "description": "Topics include computer organization, memory system design, pipelining, and other techniques to exploit parallelism. Emphasis on a quantitative evaluation of design alternatives and an understanding of timing issues.",
                 "prerequisites": [
-                    "COMPSC 61",
+                    "COMPSCI 61",
                     "COMPSCI 153"
                 ],
                 "cp": [
@@ -1028,8 +1028,8 @@
                 "name": "design of vlsi circuits and systems",
                 "description": "Presentation of concepts and techniques for the design and fabrication of VLSI systems and digital MOS integrated circuits",
                 "prerequisites": [
-                    "COMPSC 51",
-                    "COMPSC 121"
+                    "COMPSCI 51",
+                    "COMPSCI 121"
                 ],
                 "cp": [
                     1350,
@@ -1047,8 +1047,8 @@
                 "name": "programming languages",
                 "description": "Comprehensive introduction to the principal features and overall design of both traditional and modern programming languages, including syntax, formal semantics, abstraction mechanisms, modularity, type systems, naming, polymorphism, closures, continuations, and concurrency. ",
                 "prerequisites": [
-                    "COMPSC 51",
-                    "COMPSC 121"
+                    "COMPSCI 51",
+                    "COMPSCI 121"
                 ],
                 "cp": [
                     150,
@@ -1066,8 +1066,8 @@
                 "name": "compilers",
                 "description": "Implementation of efficient interpreters and compilers for programming languages. Associated algorithms and pragmatic issues. Emphasizes practical applications including those outside of programming languages proper. ",
                 "prerequisites": [
-                    "COMPSC 51",
-                    "COMPSC 61",
+                    "COMPSCI 51",
+                    "COMPSCI 61",
                     "COMPSCI 152"
                 ],
                 "cp": [
@@ -1086,7 +1086,7 @@
                 "name": "operating systems",
                 "description": "This course focuses on the design and implementation of modern operating systems. The course discusses threads, processes, virtual memory, schedulers, and the other fundamental primitives that an OS uses to represent active computations.",
                 "prerequisites": [
-                    "COMPSC 61"
+                    "COMPSCI 61"
                 ],
                 "cp": [
                     1950,
@@ -1104,8 +1104,8 @@
                 "name": "data systems",
                 "description": "This course is a comprehensive introduction to modern data systems/ We are going through major transformations in businesses, sciences, as well as everyday life - collecting and analyzing data changes everything and data systems provide the means to store and analyze a massive amount of data. ",
                 "prerequisites": [
-                    "COMPSC 51",
-                    "COMPSC 61"
+                    "COMPSCI 51",
+                    "COMPSCI 61"
                 ],
                 "cp": [
                     450,
@@ -1123,7 +1123,7 @@
                 "name": "visualization",
                 "description": "An introduction to key design principles and techniques for visualizing data. Covers design practices, data and image models, visual perception, interaction principles, visualization tools, and applications. Introduces programming of web-based interactive visualizations.",
                 "prerequisites": [
-                    "COMPSC 50"
+                    "COMPSCI 50"
                 ],
                 "cp": [
                     2850,
@@ -1141,8 +1141,8 @@
                 "name": "computer graphics",
                 "description": "This course covers the fundamentals of 3D computer graphics using a modern shader-based version of OpenGL/ Main topics include: geometric coordinate systems and transformations, keyframe animation and interpolation, camera simulation, triangle rasterization, material simulation, texture mapping, image sampling and color theory.",
                 "prerequisites": [
-                    "COMPSC 51",
-                    "COMPSC 61",
+                    "COMPSCI 51",
+                    "COMPSCI 61",
                     "APMTH 22a",
                     "MATH 21b"
                 ],
@@ -1198,8 +1198,8 @@
                 "name": "autonomous robot systems",
                 "description": "Building autonomous robotic systems requires understanding how to make robots that observe, reason, and act.  Each component uses many engineering principles",
                 "prerequisites": [
-                    "COMPSC 51",
-                    "COMPSC 61",
+                    "COMPSCI 51",
+                    "COMPSCI 61",
                     "COMPSCI 161"
                 ],
                 "cp": [
@@ -1256,7 +1256,7 @@
                 "name": "probabilitic analysis and algorithm",
                 "description": "Probabilistic techniques and tools for the design and analysis of algorithms. Designed for all first-year graduate students in all areas.",
                 "prerequisites": [
-                    "COMPSC 226r",
+                    "COMPSCI 226r",
                     "STAT 110",
                     "MATH 191",
                     "COMPSCI 124"
@@ -1273,7 +1273,7 @@
             "key": "61",
             "ref": null,
             "props": {
-                "crs_id": "COMPSC 226r",
+                "crs_id": "COMPSCI 226r",
                 "name": "Efficient Algorithms",
                 "description": "",
                 "prerequisites": [
@@ -1679,7 +1679,7 @@
         "21": "COMPSCI 279R",
         "23": "COMPSCI 282R",
         "24": "COMPSCI 281",
-        "25": "COMPSC 181",
+        "25": "COMPSCI 181",
         "26": "COMPSCI 91R",
         "27": "ECON 1011a",
         "29": "AM 22a",
@@ -1699,11 +1699,11 @@
         "51": "COMPSCI 223",
         "54": "COMPSCI 143",
         "55": "COMPSCI 243",
-        "56": "COMPSC 182",
+        "56": "COMPSCI 182",
         "57": "COMPSCI 207",
         "58": "COMPSCI 10",
         "59": "COMPSCI 109A",
-        "61": "COMPSC 226r",
+        "61": "COMPSCI 226r",
         "62": "COMPSCI 228",
         "63": "COMPSCI 127",
         "64": "COMPSCI 124",

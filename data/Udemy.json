@@ -1,1 +1,2243 @@
-{"view_size":[3900,2700],"cps":[[150,90],[450,90],[750,90],[1050,90],[1350,90],[1650,90],[1950,90],[2250,90],[2550,90],[2850,90],[3150,90],[3450,90],[3750,90],[150,270],[450,270],[750,270],[1050,270],[1350,270],[1650,270],[1950,270],[2250,270],[2550,270],[2850,270],[3150,270],[3450,270],[3750,270],[150,450],[450,450],[750,450],[1050,450],[1350,450],[1650,450],[1950,450],[2250,450],[2550,450],[2850,450],[3150,450],[3450,450],[3750,450],[150,630],[450,630],[750,630],[1050,630],[1350,630],[1650,630],[1950,630],[2250,630],[2550,630],[2850,630],[3150,630],[3450,630],[3750,630],[150,810],[450,810],[750,810],[1050,810],[1350,810],[1650,810],[1950,810],[2250,810],[2550,810],[2850,810],[3150,810],[3450,810],[3750,810],[150,990],[450,990],[750,990],[1050,990],[1350,990],[1650,990],[1950,990],[2250,990],[2550,990],[2850,990],[3150,990],[3450,990],[3750,990],[150,1170],[450,1170],[750,1170],[1050,1170],[1350,1170],[1650,1170],[1950,1170],[2250,1170],[2550,1170],[2850,1170],[3150,1170],[3450,1170],[3750,1170],[150,1350],[450,1350],[750,1350],[1050,1350],[1350,1350],[1650,1350],[1950,1350],[2250,1350],[2550,1350],[2850,1350],[3150,1350],[3450,1350],[3750,1350],[150,1530],[450,1530],[750,1530],[1050,1530],[1350,1530],[1650,1530],[1950,1530],[2250,1530],[2550,1530],[2850,1530],[3150,1530],[3450,1530],[3750,1530],[150,1710],[450,1710],[750,1710],[1050,1710],[1350,1710],[1650,1710],[1950,1710],[2250,1710],[2550,1710],[2850,1710],[3150,1710],[3450,1710],[3750,1710],[150,1890],[450,1890],[750,1890],[1050,1890],[1350,1890],[1650,1890],[1950,1890],[2250,1890],[2550,1890],[2850,1890],[3150,1890],[3450,1890],[3750,1890],[150,2070],[450,2070],[750,2070],[1050,2070],[1350,2070],[1650,2070],[1950,2070],[2250,2070],[2550,2070],[2850,2070],[3150,2070],[3450,2070],[3750,2070],[150,2250],[450,2250],[750,2250],[1050,2250],[1350,2250],[1650,2250],[1950,2250],[2250,2250],[2550,2250],[2850,2250],[3150,2250],[3450,2250],[3750,2250],[150,2430],[450,2430],[750,2430],[1050,2430],[1350,2430],[1650,2430],[1950,2430],[2250,2430],[2550,2430],[2850,2430],[3150,2430],[3450,2430],[3750,2430],[150,2610],[450,2610],[750,2610],[1050,2610],[1350,2610],[1650,2610],[1950,2610],[2250,2610],[2550,2610],[2850,2610],[3150,2610],[3450,2610],[3750,2610]],"crsList":[{"key":"98","ref":null,"props":{"keyFromParent":"98","crs_id":"1000uw","name":"Artificial Intelligence A-Z™: Learn How To Build An AI","description":"Build an AI/Understand the theory behind Artificial Intelligence/Make a virtual Self Driving Car/Make an AI to beat games/Solve Real World Problems with AI/Master the State of the Art AI models/Q-Learning/Deep Q-Learning/Deep Convolutional Q-Learning/A3C","prerequisites":["101G9u","101Tcm","10008A","10001q","10010I","10052s","1001jY"],"cp":[2250,1350],"offset":80,"display":"none"},"_owner":null},{"key":"133","ref":null,"props":{"keyFromParent":"133","crs_id":"101G9u","name":"Python(파이썬) 프로그래밍 제대로 배우기","description":"","prerequisites":[""],"cp":[1050,1890],"offset":80,"display":"none"},"_owner":null},{"key":"56","ref":null,"props":{"keyFromParent":"56","crs_id":"101Tcm","name":"Python(파이썬) 응용_자료구조 제대로 배우기","description":"","prerequisites":[""],"cp":[1350,810],"offset":80,"display":"none"},"_owner":null},{"key":"94","ref":null,"props":{"keyFromParent":"94","crs_id":"10008A","name":"Python for Data Science and Machine Learning Bootcamp","description":"","prerequisites":[""],"cp":[1050,1350],"offset":80,"display":"none"},"_owner":null},{"key":"4","ref":null,"props":{"keyFromParent":"4","crs_id":"10001q","name":"Become a Calculus 1 Master","description":"","prerequisites":[""],"cp":[1350,90],"offset":80,"display":"none"},"_owner":null},{"key":"19","ref":null,"props":{"keyFromParent":"19","crs_id":"10010I","name":"Become an Algebra Master","description":"","prerequisites":[""],"cp":[1950,270],"offset":80,"display":"none"},"_owner":null},{"key":"42","ref":null,"props":{"keyFromParent":"42","crs_id":"10052s","name":"Become a Trigonometry & Precalculus Master","description":"","prerequisites":[""],"cp":[1050,630],"offset":80,"display":"none"},"_owner":null},{"key":"127","ref":null,"props":{"keyFromParent":"127","crs_id":"1001jY","name":"Become a Geometry Master","description":"","prerequisites":[""],"cp":[3150,1710],"offset":80,"display":"none"},"_owner":null},{"key":"87","ref":null,"props":{"keyFromParent":"87","crs_id":"100CDo","name":"Artificial Intelligence for Business","description":"1. Optimize Business Processes/ 2. Minimize Costs/ 3. Maximize Revenues","prerequisites":["101G9u","101Tcm","10008A","10001q","10010I","10052s","1001jY"],"cp":[2850,1170],"offset":80,"display":"none"},"_owner":null},{"key":"45","ref":null,"props":{"keyFromParent":"45","crs_id":"100FTk","name":"Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs","description":"Face detection with OpenCV/ Object detection with SSD/ Gans/ Neural Networks","prerequisites":["101G9u","101Tcm","10008A","10001q","10010I","10052s","1001jY"],"cp":[1950,630],"offset":80,"display":"none"},"_owner":null},{"key":"186","ref":null,"props":{"keyFromParent":186,"crs_id":"101BhW","name":"Website Design - Create websites in minutes with AI Tools","description":"Website Design using AI/Use of chatbots to creat websites/Advanced:Social Network Creation/Create a chatbot without using coding/Al analytics and Apple TV app Creation","prerequisites":[""],"cp":[1350,2610],"offset":80,"display":"none"},"_owner":null},{"key":"10","ref":null,"props":{"keyFromParent":"10","crs_id":"101PnT","name":"Artificial Intelligence I: Basics and Games in Java","description":"path finding algorithms/graph traversal (BFS and DFS)/enhanced search algorihtms/A* search algorithm/basic optimization algorithms/brute-force search/stochastic search and hill climbing algorithm/heuristics and meta-heuristics/tabu search/simulated annealing/genetic algorithms/particle swarm optimization/minimax algorithm/game trees/applications of game trees in chess/tic tac toe game and its implementation","prerequisites":["1002uE/101CJe/101Ix0"],"cp":[3150,90],"offset":80,"display":"none"},"_owner":null},{"key":"8","ref":null,"props":{"keyFromParent":"8","crs_id":"101CJe","name":"Fundamentals of Java with NetBeans","description":"Basic principles of the Java language by example","prerequisites":[""],"cp":[2550,90],"offset":80,"display":"none"},"_owner":null},{"key":"9","ref":null,"props":{"keyFromParent":"9","crs_id":"101um4","name":"Artificial Intelligence II - Neural Networks in Java","description":"what are neural networks/modeling the human brain/the big picture/Hopfield neural networks/what is back-propagation/feedforward neural networks/optimizing the cost function/error calculation/backpropagation and resilient propagation/the single perceptron model/solving linear classification problems/logical operators (AND and XOR operation)/applications of neural networks/clustering/classification (Iris-dataset)/optical character recognition (OCR)","prerequisites":["101PnT"],"cp":[2850,90],"offset":80,"display":"none"},"_owner":null},{"key":"21","ref":null,"props":{"keyFromParent":"21","crs_id":"101SF0","name":"Artificial Intelligence III - Deep Learning in Java","description":"Installing Deep Learning library/Multi-layer Neural networks/Deep neural networks implementation/Convolutional Neural networks theory/Convolutional Neural networks implemetn/Recurrent Neural networks theory/Recurrent Neural networks implement","prerequisites":["101CJe","101Tdc","101Tde","101um4"],"cp":[2550,270],"offset":80,"display":"none"},"_owner":null},{"key":"6","ref":null,"props":{"keyFromParent":"6","crs_id":"101Tdc","name":"Calculus I - Introduction to Derivatives","description":"The Constant Multiple Rule/The Sum and Difference Rules/The Power Rule/The Product Rule/The Quotient Rule/The Infamous Chain Rule/Commonly used derivative formulas","prerequisites":["10001q"],"cp":[1950,90],"offset":80,"display":"none"},"_owner":null},{"key":"20","ref":null,"props":{"keyFromParent":"20","crs_id":"101Tde","name":"Matrix Algebra","description":"Learn and develop understanding for solving mathematical problems on Matrix Algebra in few steps","prerequisites":["10010I"],"cp":[2250,270],"offset":80,"display":"none"},"_owner":null},{"key":"22","ref":null,"props":{"keyFromParent":"22","crs_id":"101SF2","name":"Artificial Intelligence IV - Reinforcement Learning in Java","description":"All you need to know about Markov Decision processes, value- and policy-iteation as well as about Q learning approach","prerequisites":["101SF0"],"cp":[2850,270],"offset":80,"display":"none"},"_owner":null},{"key":"123","ref":null,"props":{"keyFromParent":"123","crs_id":"101SD2","name":"Predict the stock market with data and model building!","description":"Python basics/TensorFlow Basics /Stock market prediction/Machine learning Neural networks/Keras API/Format database and Examine CIFAR-10/Image classifier model/Save and load traines models","prerequisites":["101MQR","101T7u"],"cp":[1950,1710],"offset":80,"display":"none"},"_owner":null},{"key":"138","ref":null,"props":{"keyFromParent":"138","crs_id":"101Fee","name":"The Ultimate Data Science & Machine Learning Python in 2019","description":"Data analysis with Numpy/Data analysis with Pandas/Data visualization with Matplotlib/Data visualization-plotly/Data visualization with Tableau/Introduction to Data/Importing Data in python/Data preprocessing","prerequisites":[""],"cp":[2550,1890],"offset":80,"display":"none"},"_owner":null},{"key":"165","ref":null,"props":{"keyFromParent":"165","crs_id":"101qTK","name":"Artificial Intelligence & Machine Learning for Business","description":"What is AI & ML/What AI can and can not do?/AI uprising/Building blocks of AI/Common terminologies in real world/Common tools used for creating AI/Common terminologies in AI/Application of AI in variois industries(banking, e-commerce, healthcare, telecom)/Application of AI in different functions(human resourses, sales, operations, marketing, supplu chain)/Whay do you need to enable a AI/ML practice in your organization?/How to recruit a team for enabling AI/ML?/Common misconceptions about AI&ML/The AI creation process/Promises and challenges of AI","prerequisites":["100nD2"],"cp":[2850,2250],"offset":80,"display":"none"},"_owner":null},{"key":"28","ref":null,"props":{"keyFromParent":"28","crs_id":"101rqs","name":"Learn Python AI for Image Recognition & Fraud Detection","description":"Combine Python & TensorFlow powers to build projects. ​​Learn artificial intelligence, data science & linear regression","prerequisites":["101HVA"],"cp":[750,450],"offset":80,"display":"none"},"_owner":null},{"key":"3","ref":null,"props":{"keyFromParent":"3","crs_id":"101HVA","name":"The Ultimate Python Programming Tutorial","description":"","prerequisites":["Installing python, data types and variables, Input/output, If, while, for, iterators, list"],"cp":[1050,90],"offset":80,"display":"none"},"_owner":null},{"key":"170","ref":null,"props":{"keyFromParent":"170","crs_id":"101MaA","name":"Game Devs Unleash Artificial Intelligence: Flocking Agents","description":"Observe Nature/Questions & Answers /Hypothesis /Implement basic flocking in pseudocode and unity/Refinements for advanced flocking behavior in pseudocode and unity","prerequisites":["101D5G"],"cp":[450,2430],"offset":80,"display":"none"},"_owner":null},{"key":"183","ref":null,"props":{"keyFromParent":"183","crs_id":"101D5G","name":"Unity Virtual Reality - Volume 1","description":"Virtually everything for everyone/objects and scale/VR build and run/Gaze based control/World space UI","prerequisites":["1008tk"],"cp":[450,2610],"offset":80,"display":"none"},"_owner":null},{"key":"30","ref":null,"props":{"keyFromParent":"30","crs_id":"100338","name":"Deep Learning and NLP A-Z™: How to create a ChatBot","description":"Deep NLP Intuition/Building a Chatbot with Deep NLP/Other chatbot implementations/Artificial Neural networks/Recurrent Neural networks","prerequisites":["10001q","10010I","10052s","1001jY","101HVA","100eKS"],"cp":[1350,450],"offset":80,"display":"none"},"_owner":null},{"key":"166","ref":null,"props":{"keyFromParent":"166","crs_id":"101vQS","name":"The Rise of Artificial Intelligence At Work in 2019 & Beyond","description":"The future of work is with AI/Are Robots Our Best Friend? /Artificial Intelligence Powered Business Advisor /Automate your HR HelpDesk with an awesome AI Tool /Sales Acceleration Redefined: Automate your sales cycle with an AI tool /A famous case study on an global enterprise mobile company/Virtual Humans: The Future is Here/ A magnitude of AI tools to automate the workforce into 2019 and beyond","prerequisites":["101qTK"],"cp":[3150,2250],"offset":80,"display":"none"},"_owner":null},{"key":"62","ref":null,"props":{"keyFromParent":62,"crs_id":"101J4I","name":"Machine Learning Data Science Deep Learning Neural Networks","description":"","prerequisites":["10001q","10010I","10052s","1001jY"],"cp":[3150,810],"offset":80,"display":"none"},"_owner":null},{"key":"124","ref":null,"props":{"keyFromParent":"124","crs_id":"101MQR","name":"Make predictions with Python machine learning for apps","description":"Intro to Android studio/Intro to Java/Machine learning concepts/python language basics/TensorFlow/TensorFlow estimator/importin android machine learning model/simple MNIST/Weather Prediction/Text prediction/Stock market prediction","prerequisites":["101Fee"],"cp":[2250,1710],"offset":80,"display":"none"},"_owner":null},{"key":"14","ref":null,"props":{"keyFromParent":"14","crs_id":"101yqE","name":"Practical Deep Learning: Image Search engine","description":"Dataset preprocessing and helper functions/model util function/training and testing/putting the model in production","prerequisites":["101HVA","101Tdu","101Tdw"],"cp":[450,270],"offset":80,"display":"none"},"_owner":null},{"key":"13","ref":null,"props":{"keyFromParent":"13","crs_id":"101Tdu","name":"Deep Learning: CNNs for Visual Recognition","description":"Learn Convolutional Neural Networks for Visual Recognition and the building blocks and methods associated with them.","prerequisites":[""],"cp":[150,270],"offset":80,"display":"none"},"_owner":null},{"key":"1","ref":null,"props":{"keyFromParent":"1","crs_id":"101Tdw","name":"TensorFlow 101: Introduction to Deep Learning","description":"This course provides you to be able to build Deep Neural Networks models for different business domains with one of the most common machine learning library TensorFlow provided by Google AI team.","prerequisites":[""],"cp":[450,90],"offset":80,"display":"none"},"_owner":null},{"key":"184","ref":null,"props":{"keyFromParent":"184","crs_id":"101D5S","name":"Mobile VR Virtual Reality & Artificial Intelligence in Unity","description":"Unity introduction/C# Coding /user interaction in unity/prefabs/project: AI game/virtual reality introduction/virtual reality in unity","prerequisites":["101D5G"],"cp":[750,2610],"offset":80,"display":"none"},"_owner":null},{"key":"182","ref":null,"props":{"keyFromParent":"182","crs_id":"1008tk","name":"retr0의 유니티 (Unity C#) 게임 프로그래밍 에센스","description":"유니티준비/게임엔진원리/C#프로그래밍 기본,중급,고급/게임제작-소코반(창고지기),어메이징 볼링/유니티 애니메이션/UGUI","prerequisites":[""],"cp":[150,2610],"offset":80,"display":"none"},"_owner":null},{"key":"187","ref":null,"props":{"keyFromParent":187,"crs_id":"101SGe","name":"AI, ML & IT's IMPACT ON DIGITAL MARKETING","description":"Knowledge on Digital Marketing basics. Having an idea of technology for Digital marketing.","prerequisites":["101BhW"],"cp":[1650,2610],"offset":80,"display":"none"},"_owner":null},{"key":"153","ref":null,"props":{"keyFromParent":"153","crs_id":"101SGm","name":"Power Your Business with Artificial Intelligence","description":"The phenominal shift from programming to machine learning/unstoppable forces which are driving the advances in AI/Differences between AI and human intelligence/example applications of AI technologies/Hands on experiments with AI systems and technology/documenting and ecaluationg your idea","prerequisites":["101qTK"],"cp":[3150,2070],"offset":80,"display":"none"},"_owner":null},{"key":"91","ref":null,"props":{"keyFromParent":"91","crs_id":"101Fum","name":"Learn To Gain Writing Skills Using Artificial Intelligence","description":" targets on achieving the best through expertise gaining via the platforms and strategies incorporated through AI. The effectiveness is modelled via the mechanism of various platforms being showcased.","prerequisites":[""],"cp":[150,1350],"offset":80,"display":"none"},"_owner":null},{"key":"178","ref":null,"props":{"keyFromParent":"178","crs_id":"101uVQ","name":"Artificial Intelligence: Practical Essentials for Management","description":"AI Techniques & use cases/using AI to solve business problems","prerequisites":["101yDy"],"cp":[2850,2430],"offset":80,"display":"none"},"_owner":null},{"key":"111","ref":null,"props":{"keyFromParent":"111","crs_id":"101SGM","name":"Learning Python Artificial Intelligence by Example","description":"using natural language processing with knowledge bases/face recognition/predicting taxi journey times/predicting the steering angles of a self driving car","prerequisites":["101G9u","101Tcm","10008A","10004q"],"cp":[2250,1530],"offset":80,"display":"none"},"_owner":null},{"key":"125","ref":null,"props":{"keyFromParent":"125","crs_id":"10004q","name":"Deep Learning: Recurrent Neural Networks in Python","description":"GRU, LSTM, + more modern deep learning, machine learning, and data science for sequences","prerequisites":["101Fee"],"cp":[2550,1710],"offset":80,"display":"none"},"_owner":null},{"key":"53","ref":null,"props":{"keyFromParent":"53","crs_id":"101SGQ","name":"Learn Bio Inspired Optimization Methods A-Z","description":"genetic algorithm optimization method/optimize simple function by GA using deap library and python/find optimum point of complicated trigonometric function","prerequisites":["100056","101HVA"],"cp":[450,810],"offset":80,"display":"none"},"_owner":null},{"key":"66","ref":null,"props":{"keyFromParent":"66","crs_id":"100056","name":"Become a Probability & Statistics Master","description":"visualizing/analyzing/data distributuins/probability/discrete random variables/sampling/hypothesis/regression","prerequisites":[""],"cp":[450,990],"offset":80,"display":"none"},"_owner":null},{"key":"157","ref":null,"props":{"keyFromParent":"157","crs_id":"101SH2","name":"The Complete Unity® Masterclass: Build 2D & 3D AI Games","description":"Intro to Unity/Intro to coding/Intro to inputs/Intro to prefavs/pathfinding algorithm game/building a level/creating movement/game interface/finale and resources/3D navmesh game-setup","prerequisites":["101MaA"],"cp":[450,2250],"offset":80,"display":"none"},"_owner":null},{"key":"82","ref":null,"props":{"keyFromParent":"82","crs_id":"101SHm","name":"Learning Path: Artificial Intelligence for Apps and Games","description":"using AI to transform search/implementing AI to play play games","prerequisites":["101G9u","101Tcm","10008A"],"cp":[1350,1170],"offset":80,"display":"none"},"_owner":null},{"key":"55","ref":null,"props":{"keyFromParent":"55","crs_id":"101SI8","name":"Hands-On Artificial Intelligence for Small Businesses","description":"What can AI do for business/prediction sales with supervised learning/understanding your customer base using unsupervised learning/product recommendaions using semi-supervised learning/optimizing page layouts and advertisements using reinforcement learning","prerequisites":["101G9u","101Tcm","10008A"],"cp":[1050,810],"offset":80,"display":"none"},"_owner":null},{"key":"177","ref":null,"props":{"keyFromParent":"177","crs_id":"101yDy","name":"Introduction to AI for Business","description":"What is AI/Digital transformation & AI/engage customers/AI amplifies AI platform/The microsoft AI platform/cognitive search","prerequisites":["101T8g"],"cp":[2550,2430],"offset":80,"display":"none"},"_owner":null},{"key":"164","ref":null,"props":{"keyFromParent":"164","crs_id":"100nD2","name":"인공 지능(AI/ML) 활용 비즈니스 모델 수립 강좌 - 기초편 -","description":"AI 활용에서의 비즈니스 능력/AI 비즈니스 캔버스 학습/AI 기초지식(기계학습,딥러닝,심층강화학습)/사례 연구(이미지 식별, 의료)","prerequisites":["101yDy"],"cp":[2550,2250],"offset":80,"display":"none"},"_owner":null},{"key":"27","ref":null,"props":{"keyFromParent":"27","crs_id":"101rkC","name":"컴퓨터 비전을 이용한 얼굴 및 물체 인식","description":"얼굴인식/물체인식/GAN(R-CNN, SSD, GAN)","prerequisites":["101HVA","101Te0"],"cp":[450,450],"offset":80,"display":"none"},"_owner":null},{"key":"26","ref":null,"props":{"keyFromParent":"26","crs_id":"101Te0","name":"Python for beginners & logic building practice Questions 3.7","description":"50 Practice questions for sharpening your logic | Beginner's Masterclass","prerequisites":[""],"cp":[150,450],"offset":80,"display":"none"},"_owner":null},{"key":"118","ref":null,"props":{"keyFromParent":"118","crs_id":"101Ci4","name":"AI:Python을 사용한 텍스트 검색","description":"크롤러 및 문서 인덱서/문서검색","prerequisites":["101HY2","101Oq1"],"cp":[450,1710],"offset":80,"display":"none"},"_owner":null},{"key":"117","ref":null,"props":{"keyFromParent":"117","crs_id":"101HY2","name":"지능적인 파이썬 검색 알고리즘","description":"검색을 통한 문제 해결/정보없이 검색/정보로 검색","prerequisites":[""],"cp":[150,1710],"offset":80,"display":"none"},"_owner":null},{"key":"130","ref":null,"props":{"keyFromParent":130,"crs_id":"101Oq1","name":"SQL BootCamp 2019 - SQL for Beginners (SQL Mastery Course)","description":"Learn SQL by Coding! A Course that You Will Actually Learn SQL Easily with Hundreds of Examples!","prerequisites":[""],"cp":[150,1890],"offset":80,"display":"none"},"_owner":null},{"key":"174","ref":null,"props":{"keyFromParent":174,"crs_id":"101J4A","name":"뇌과학과 AI: 싱귤러 리티 이브의 인간과 기계의 접점","description":"뇌과학과 인공지능의 개요/뇌의 구조/뇌의 연산과 기억/뇌와 인공지능","prerequisites":[""],"cp":[1650,2430],"offset":80,"display":"none"},"_owner":null},{"key":"149","ref":null,"props":{"keyFromParent":"149","crs_id":"101Cjw","name":"인공 지능을 갖춘 투자자 로봇-모듈 1","description":"인공지능 없는 투자자 로봇/인공지능 갖춘 투자자 로봇/System view(일반 인공지능 생태계/컨트롤 아키텍처/학습 아키텍처)/인공지능을 이요한 조사 로봇 연구(주요 시장참가자)/미래 비전","prerequisites":["101T7y"],"cp":[1950,2070],"offset":80,"display":"none"},"_owner":null},{"key":"136","ref":null,"props":{"keyFromParent":"136","crs_id":"101T7u","name":"인공 지능을 갖춘 투자자 로봇-모듈 2","description":"투자자 로봇을 이용한 경쟁, 협력 및 갈등/모델링 문제 로봇 게임 이론 투자자/System view(게임 이론 생태계/반응 아키텍처/예측 아키텍처)/인공지능을 이용한 조사 로봇 연구(고전 게임 이론 모델/혁신적인 개인모델/새로운 패러다임)/미래비전","prerequisites":["101Cjw"],"cp":[1950,1890],"offset":80,"display":"none"},"_owner":null},{"key":"162","ref":null,"props":{"keyFromParent":"162","crs_id":"101T7y","name":"Trader를 위한 인공지능의 기초","description":"trader를 위한 인공지능 기회,위협/패턴 식별/인과 관계 식별/시나리오 인텔리전스/노출 정보/운영 인텔리전스/RPA 로봇 프로세스 자동화","prerequisites":[""],"cp":[1950,2250],"offset":80,"display":"none"},"_owner":null},{"key":"39","ref":null,"props":{"keyFromParent":"39","crs_id":"101T7C","name":"인공 지능과 챗봇 기본지식","description":"기술비전(인공지능/기계학습/자연어 처리 NLP/챗봇)/전략적비전(챗봇 진화/조직을 위한 챗봇의 위험 및 기회)/미래비전","prerequisites":[""],"cp":[150,630],"offset":80,"display":"none"},"_owner":null},{"key":"52","ref":null,"props":{"keyFromParent":"52","crs_id":"101sqM","name":"JavaScript를 사용한 인공 지능 및 기계 학습","description":"피드 포워드 신경망/활성화 기능/단순 선형 회귀/다변량 선형 회귀/나이브베이지안 확률/k-nearest neighbors/k-means 클러스터링/강화학습","prerequisites":["100eKS"],"cp":[150,810],"offset":80,"display":"none"},"_owner":null},{"key":"40","ref":null,"props":{"keyFromParent":"40","crs_id":"100eKS","name":"JavaScript Basics for Beginners","description":"","prerequisites":["101T7C"],"cp":[450,630],"offset":80,"display":"none"},"_owner":null},{"key":"65","ref":null,"props":{"keyFromParent":"65","crs_id":"101uAE","name":"Chatbot - JavaScript","description":"CROUD 개발/사용자 상호 작용 루틴/상호 작용 흐름 순서/등록, 제어 및 사용자 관리/대화에서 개인 정보 캡쳐/Application HTML 레이아웃을 위한 인터페이스/챗봇 인터렉션 레이아웃 인코딩","prerequisites":["101sqM"],"cp":[150,990],"offset":80,"display":"none"},"_owner":null},{"key":"190","ref":null,"props":{"keyFromParent":"190","crs_id":"101T8g","name":"인공 지능이란 무엇인가","description":"기술비전(AI의 진실/AI의 패러다임)/전략적비전(AI가 아닌것/실제로 AI란?)/미래비전(AI 미래 시나리오)","prerequisites":[""],"cp":[2550,2610],"offset":80,"display":"none"},"_owner":null},{"key":"191","ref":null,"props":{"keyFromParent":"191","crs_id":"101T8i","name":"AI와 Superintelligence","description":"사람vs기계: 새로운 패러다임/인공지능과 초지능/초지능","prerequisites":["101T8g"],"cp":[2850,2610],"offset":80,"display":"none"},"_owner":null},{"key":"173","ref":null,"props":{"keyFromParent":173,"crs_id":"101qLI","name":"토목 기술자를위한 인공 지능 : 1 부","description":"토목기술자를 위한 AI(건설관리:스냅샷)/토목분야 첨단기술개념(품질관리혁신/안전관리혁신/내부평면도/3D홈인테리어건축Sofrware 튜토리얼)","prerequisites":[""],"cp":[1350,2430],"offset":80,"display":"none"},"_owner":null},{"key":"79","ref":null,"props":{"keyFromParent":"79","crs_id":"101tpk","name":"RoboAuthor: Content Writing Automation 2019 - Part 1","description":"'Talk to Transformer'로 글쓰기 소개/ 작가의 스타일을 가지고 스타일로 문장을 완성/ 시 쓰기 자동화 팁 : Talk to Transformer/ Talk to Transformer를 사용한 스크립트 작성 자동화/ 작곡 자동화 및 보너스 도구 배우기/ AI 도구를 사용하여 팬 소설 이야기 작성 자동화 ","prerequisites":["101Fum","101uAE"],"cp":[450,1170],"offset":80,"display":"none"},"_owner":null},{"key":"189","ref":null,"props":{"keyFromParent":"189","crs_id":"101Lyu","name":"인공지능(AI/ML)사업추진인력에 필요한 기술/육성방법","description":"AI 사업추진인력과 기술/AI 사업추진 인재육성방법(기획력, 추진력, 경영능력)/AI 사업기획(기획, 실태조사, 기획서계획)","prerequisites":["101T8g"],"cp":[2250,2610],"offset":80,"display":"none"},"_owner":null},{"key":"67","ref":null,"props":{"keyFromParent":"67","crs_id":"10011K","name":"Python for Financial Analysis and Algorithmic Trading","description":"Python programming/Basic Statistics and Linear Algebra ","prerequisites":["101v8o","101HVA","100056"],"cp":[750,990],"offset":80,"display":"none"},"_owner":null},{"key":"80","ref":null,"props":{"keyFromParent":"80","crs_id":"101v8o","name":"Become a Linear Algebra Master","description":"","prerequisites":[""],"cp":[750,1170],"offset":80,"display":"none"},"_owner":null}],"map":{"1":"101Tdw","3":"101HVA","4":"10001q","6":"101Tdc","8":"101CJe","9":"101um4","10":"101PnT","13":"101Tdu","14":"101yqE","19":"10010I","20":"101Tde","21":"101SF0","22":"101SF2","26":"101Te0","27":"101rkC","28":"101rqs","30":"100338","39":"101T7C","40":"100eKS","42":"10052s","45":"100FTk","52":"101sqM","53":"101SGQ","55":"101SI8","56":"101Tcm","62":"101J4I","65":"101uAE","66":"100056","67":"10011K","79":"101tpk","80":"101v8o","82":"101SHm","87":"100CDo","91":"101Fum","94":"10008A","98":"1000uw","111":"101SGM","117":"101HY2","118":"101Ci4","123":"101SD2","124":"101MQR","125":"10004q","127":"1001jY","130":"101Oq1","133":"101G9u","136":"101T7u","138":"101Fee","149":"101Cjw","153":"101SGm","157":"101SH2","162":"101T7y","164":"100nD2","165":"101qTK","166":"101vQS","170":"101MaA","173":"101qLI","174":"101J4A","177":"101yDy","178":"101uVQ","182":"1008tk","183":"101D5G","184":"101D5S","186":"101BhW","187":"101SGe","189":"101Lyu","190":"101T8g","191":"101T8i"}}
+{
+    "view_size": [
+        3900,
+        2700
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            3150,
+            90
+        ],
+        [
+            3450,
+            90
+        ],
+        [
+            3750,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            3150,
+            270
+        ],
+        [
+            3450,
+            270
+        ],
+        [
+            3750,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            3150,
+            450
+        ],
+        [
+            3450,
+            450
+        ],
+        [
+            3750,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            3150,
+            630
+        ],
+        [
+            3450,
+            630
+        ],
+        [
+            3750,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            3150,
+            810
+        ],
+        [
+            3450,
+            810
+        ],
+        [
+            3750,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            3150,
+            990
+        ],
+        [
+            3450,
+            990
+        ],
+        [
+            3750,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            3150,
+            1170
+        ],
+        [
+            3450,
+            1170
+        ],
+        [
+            3750,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            3150,
+            1350
+        ],
+        [
+            3450,
+            1350
+        ],
+        [
+            3750,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            3150,
+            1530
+        ],
+        [
+            3450,
+            1530
+        ],
+        [
+            3750,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ],
+        [
+            3150,
+            1710
+        ],
+        [
+            3450,
+            1710
+        ],
+        [
+            3750,
+            1710
+        ],
+        [
+            150,
+            1890
+        ],
+        [
+            450,
+            1890
+        ],
+        [
+            750,
+            1890
+        ],
+        [
+            1050,
+            1890
+        ],
+        [
+            1350,
+            1890
+        ],
+        [
+            1650,
+            1890
+        ],
+        [
+            1950,
+            1890
+        ],
+        [
+            2250,
+            1890
+        ],
+        [
+            2550,
+            1890
+        ],
+        [
+            2850,
+            1890
+        ],
+        [
+            3150,
+            1890
+        ],
+        [
+            3450,
+            1890
+        ],
+        [
+            3750,
+            1890
+        ],
+        [
+            150,
+            2070
+        ],
+        [
+            450,
+            2070
+        ],
+        [
+            750,
+            2070
+        ],
+        [
+            1050,
+            2070
+        ],
+        [
+            1350,
+            2070
+        ],
+        [
+            1650,
+            2070
+        ],
+        [
+            1950,
+            2070
+        ],
+        [
+            2250,
+            2070
+        ],
+        [
+            2550,
+            2070
+        ],
+        [
+            2850,
+            2070
+        ],
+        [
+            3150,
+            2070
+        ],
+        [
+            3450,
+            2070
+        ],
+        [
+            3750,
+            2070
+        ],
+        [
+            150,
+            2250
+        ],
+        [
+            450,
+            2250
+        ],
+        [
+            750,
+            2250
+        ],
+        [
+            1050,
+            2250
+        ],
+        [
+            1350,
+            2250
+        ],
+        [
+            1650,
+            2250
+        ],
+        [
+            1950,
+            2250
+        ],
+        [
+            2250,
+            2250
+        ],
+        [
+            2550,
+            2250
+        ],
+        [
+            2850,
+            2250
+        ],
+        [
+            3150,
+            2250
+        ],
+        [
+            3450,
+            2250
+        ],
+        [
+            3750,
+            2250
+        ],
+        [
+            150,
+            2430
+        ],
+        [
+            450,
+            2430
+        ],
+        [
+            750,
+            2430
+        ],
+        [
+            1050,
+            2430
+        ],
+        [
+            1350,
+            2430
+        ],
+        [
+            1650,
+            2430
+        ],
+        [
+            1950,
+            2430
+        ],
+        [
+            2250,
+            2430
+        ],
+        [
+            2550,
+            2430
+        ],
+        [
+            2850,
+            2430
+        ],
+        [
+            3150,
+            2430
+        ],
+        [
+            3450,
+            2430
+        ],
+        [
+            3750,
+            2430
+        ],
+        [
+            150,
+            2610
+        ],
+        [
+            450,
+            2610
+        ],
+        [
+            750,
+            2610
+        ],
+        [
+            1050,
+            2610
+        ],
+        [
+            1350,
+            2610
+        ],
+        [
+            1650,
+            2610
+        ],
+        [
+            1950,
+            2610
+        ],
+        [
+            2250,
+            2610
+        ],
+        [
+            2550,
+            2610
+        ],
+        [
+            2850,
+            2610
+        ],
+        [
+            3150,
+            2610
+        ],
+        [
+            3450,
+            2610
+        ],
+        [
+            3750,
+            2610
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "98",
+            "ref": null,
+            "props": {
+                "keyFromParent": "98",
+                "crs_id": "1000uw",
+                "name": "Artificial Intelligence A-Z™: Learn How To Build An AI",
+                "description": "Build an AI/Understand the theory behind Artificial Intelligence/Make a virtual Self Driving Car/Make an AI to beat games/Solve Real World Problems with AI/Master the State of the Art AI models/Q-Learning/Deep Q-Learning/Deep Convolutional Q-Learning/A3C",
+                "prerequisites": [
+                    "101G9u",
+                    "101Tcm",
+                    "10008A",
+                    "10001q",
+                    "10010I",
+                    "10052s",
+                    "1001jY"
+                ],
+                "cp": [
+                    2250,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "133",
+            "ref": null,
+            "props": {
+                "keyFromParent": "133",
+                "crs_id": "101G9u",
+                "name": "Python(파이썬) 프로그래밍 제대로 배우기",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1050,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "56",
+            "ref": null,
+            "props": {
+                "keyFromParent": "56",
+                "crs_id": "101Tcm",
+                "name": "Python(파이썬) 응용_자료구조 제대로 배우기",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1350,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "keyFromParent": "94",
+                "crs_id": "10008A",
+                "name": "Python for Data Science and Machine Learning Bootcamp",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "keyFromParent": "4",
+                "crs_id": "10001q",
+                "name": "Become a Calculus 1 Master",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "19",
+            "ref": null,
+            "props": {
+                "keyFromParent": "19",
+                "crs_id": "10010I",
+                "name": "Become an Algebra Master",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1950,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "42",
+            "ref": null,
+            "props": {
+                "keyFromParent": "42",
+                "crs_id": "10052s",
+                "name": "Become a Trigonometry & Precalculus Master",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1050,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "127",
+            "ref": null,
+            "props": {
+                "keyFromParent": "127",
+                "crs_id": "1001jY",
+                "name": "Become a Geometry Master",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    3150,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "87",
+            "ref": null,
+            "props": {
+                "keyFromParent": "87",
+                "crs_id": "100CDo",
+                "name": "Artificial Intelligence for Business",
+                "description": "1. Optimize Business Processes/ 2. Minimize Costs/ 3. Maximize Revenues",
+                "prerequisites": [
+                    "101G9u",
+                    "101Tcm",
+                    "10008A",
+                    "10001q",
+                    "10010I",
+                    "10052s",
+                    "1001jY"
+                ],
+                "cp": [
+                    2850,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "keyFromParent": "45",
+                "crs_id": "100FTk",
+                "name": "Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs",
+                "description": "Face detection with OpenCV/ Object detection with SSD/ Gans/ Neural Networks",
+                "prerequisites": [
+                    "101G9u",
+                    "101Tcm",
+                    "10008A",
+                    "10001q",
+                    "10010I",
+                    "10052s",
+                    "1001jY"
+                ],
+                "cp": [
+                    1950,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "186",
+            "ref": null,
+            "props": {
+                "keyFromParent": 186,
+                "crs_id": "101BhW",
+                "name": "Website Design - Create websites in minutes with AI Tools",
+                "description": "Website Design using AI/Use of chatbots to creat websites/Advanced:Social Network Creation/Create a chatbot without using coding/Al analytics and Apple TV app Creation",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1350,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "10",
+            "ref": null,
+            "props": {
+                "keyFromParent": "10",
+                "crs_id": "101PnT",
+                "name": "Artificial Intelligence I: Basics and Games in Java",
+                "description": "path finding algorithms/graph traversal (BFS and DFS)/enhanced search algorihtms/A* search algorithm/basic optimization algorithms/brute-force search/stochastic search and hill climbing algorithm/heuristics and meta-heuristics/tabu search/simulated annealing/genetic algorithms/particle swarm optimization/minimax algorithm/game trees/applications of game trees in chess/tic tac toe game and its implementation",
+                "prerequisites": [
+                    "101CJe"
+                ],
+                "cp": [
+                    3150,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "8",
+            "ref": null,
+            "props": {
+                "keyFromParent": "8",
+                "crs_id": "101CJe",
+                "name": "Fundamentals of Java with NetBeans",
+                "description": "Basic principles of the Java language by example",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "9",
+            "ref": null,
+            "props": {
+                "keyFromParent": "9",
+                "crs_id": "101um4",
+                "name": "Artificial Intelligence II - Neural Networks in Java",
+                "description": "what are neural networks/modeling the human brain/the big picture/Hopfield neural networks/what is back-propagation/feedforward neural networks/optimizing the cost function/error calculation/backpropagation and resilient propagation/the single perceptron model/solving linear classification problems/logical operators (AND and XOR operation)/applications of neural networks/clustering/classification (Iris-dataset)/optical character recognition (OCR)",
+                "prerequisites": [
+                    "101PnT"
+                ],
+                "cp": [
+                    2850,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "21",
+            "ref": null,
+            "props": {
+                "keyFromParent": "21",
+                "crs_id": "101SF0",
+                "name": "Artificial Intelligence III - Deep Learning in Java",
+                "description": "Installing Deep Learning library/Multi-layer Neural networks/Deep neural networks implementation/Convolutional Neural networks theory/Convolutional Neural networks implemetn/Recurrent Neural networks theory/Recurrent Neural networks implement",
+                "prerequisites": [
+                    "101CJe",
+                    "101Tdc",
+                    "101Tde",
+                    "101um4"
+                ],
+                "cp": [
+                    2550,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "6",
+            "ref": null,
+            "props": {
+                "keyFromParent": "6",
+                "crs_id": "101Tdc",
+                "name": "Calculus I - Introduction to Derivatives",
+                "description": "The Constant Multiple Rule/The Sum and Difference Rules/The Power Rule/The Product Rule/The Quotient Rule/The Infamous Chain Rule/Commonly used derivative formulas",
+                "prerequisites": [
+                    "10001q"
+                ],
+                "cp": [
+                    1950,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "20",
+            "ref": null,
+            "props": {
+                "keyFromParent": "20",
+                "crs_id": "101Tde",
+                "name": "Matrix Algebra",
+                "description": "Learn and develop understanding for solving mathematical problems on Matrix Algebra in few steps",
+                "prerequisites": [
+                    "10010I"
+                ],
+                "cp": [
+                    2250,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "22",
+            "ref": null,
+            "props": {
+                "keyFromParent": "22",
+                "crs_id": "101SF2",
+                "name": "Artificial Intelligence IV - Reinforcement Learning in Java",
+                "description": "All you need to know about Markov Decision processes, value- and policy-iteation as well as about Q learning approach",
+                "prerequisites": [
+                    "101SF0"
+                ],
+                "cp": [
+                    2850,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "123",
+            "ref": null,
+            "props": {
+                "keyFromParent": "123",
+                "crs_id": "101SD2",
+                "name": "Predict the stock market with data and model building!",
+                "description": "Python basics/TensorFlow Basics /Stock market prediction/Machine learning Neural networks/Keras API/Format database and Examine CIFAR-10/Image classifier model/Save and load traines models",
+                "prerequisites": [
+                    "101MQR",
+                    "101T7u"
+                ],
+                "cp": [
+                    1950,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "138",
+            "ref": null,
+            "props": {
+                "keyFromParent": "138",
+                "crs_id": "101Fee",
+                "name": "The Ultimate Data Science & Machine Learning Python in 2019",
+                "description": "Data analysis with Numpy/Data analysis with Pandas/Data visualization with Matplotlib/Data visualization-plotly/Data visualization with Tableau/Introduction to Data/Importing Data in python/Data preprocessing",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "165",
+            "ref": null,
+            "props": {
+                "keyFromParent": "165",
+                "crs_id": "101qTK",
+                "name": "Artificial Intelligence & Machine Learning for Business",
+                "description": "What is AI & ML/What AI can and can not do?/AI uprising/Building blocks of AI/Common terminologies in real world/Common tools used for creating AI/Common terminologies in AI/Application of AI in variois industries(banking, e-commerce, healthcare, telecom)/Application of AI in different functions(human resourses, sales, operations, marketing, supplu chain)/Whay do you need to enable a AI/ML practice in your organization?/How to recruit a team for enabling AI/ML?/Common misconceptions about AI&ML/The AI creation process/Promises and challenges of AI",
+                "prerequisites": [
+                    "100nD2"
+                ],
+                "cp": [
+                    2850,
+                    2250
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "28",
+            "ref": null,
+            "props": {
+                "keyFromParent": "28",
+                "crs_id": "101rqs",
+                "name": "Learn Python AI for Image Recognition & Fraud Detection",
+                "description": "Combine Python & TensorFlow powers to build projects. ​​Learn artificial intelligence, data science & linear regression",
+                "prerequisites": [
+                    "101HVA"
+                ],
+                "cp": [
+                    750,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "3",
+            "ref": null,
+            "props": {
+                "keyFromParent": "3",
+                "crs_id": "101HVA",
+                "name": "The Ultimate Python Programming Tutorial",
+                "description": "",
+                "prerequisites": [
+                ],
+                "cp": [
+                    1050,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "170",
+            "ref": null,
+            "props": {
+                "keyFromParent": "170",
+                "crs_id": "101MaA",
+                "name": "Game Devs Unleash Artificial Intelligence: Flocking Agents",
+                "description": "Observe Nature/Questions & Answers /Hypothesis /Implement basic flocking in pseudocode and unity/Refinements for advanced flocking behavior in pseudocode and unity",
+                "prerequisites": [
+                    "101D5G"
+                ],
+                "cp": [
+                    450,
+                    2430
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "183",
+            "ref": null,
+            "props": {
+                "keyFromParent": "183",
+                "crs_id": "101D5G",
+                "name": "Unity Virtual Reality - Volume 1",
+                "description": "Virtually everything for everyone/objects and scale/VR build and run/Gaze based control/World space UI",
+                "prerequisites": [
+                    "1008tk"
+                ],
+                "cp": [
+                    450,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "30",
+            "ref": null,
+            "props": {
+                "keyFromParent": "30",
+                "crs_id": "100338",
+                "name": "Deep Learning and NLP A-Z™: How to create a ChatBot",
+                "description": "Deep NLP Intuition/Building a Chatbot with Deep NLP/Other chatbot implementations/Artificial Neural networks/Recurrent Neural networks",
+                "prerequisites": [
+                    "10001q",
+                    "10010I",
+                    "10052s",
+                    "1001jY",
+                    "101HVA",
+                    "100eKS"
+                ],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "166",
+            "ref": null,
+            "props": {
+                "keyFromParent": "166",
+                "crs_id": "101vQS",
+                "name": "The Rise of Artificial Intelligence At Work in 2019 & Beyond",
+                "description": "The future of work is with AI/Are Robots Our Best Friend? /Artificial Intelligence Powered Business Advisor /Automate your HR HelpDesk with an awesome AI Tool /Sales Acceleration Redefined: Automate your sales cycle with an AI tool /A famous case study on an global enterprise mobile company/Virtual Humans: The Future is Here/ A magnitude of AI tools to automate the workforce into 2019 and beyond",
+                "prerequisites": [
+                    "101qTK"
+                ],
+                "cp": [
+                    3150,
+                    2250
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "62",
+            "ref": null,
+            "props": {
+                "keyFromParent": 62,
+                "crs_id": "101J4I",
+                "name": "Machine Learning Data Science Deep Learning Neural Networks",
+                "description": "",
+                "prerequisites": [
+                    "10001q",
+                    "10010I",
+                    "10052s",
+                    "1001jY"
+                ],
+                "cp": [
+                    3150,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "124",
+            "ref": null,
+            "props": {
+                "keyFromParent": "124",
+                "crs_id": "101MQR",
+                "name": "Make predictions with Python machine learning for apps",
+                "description": "Intro to Android studio/Intro to Java/Machine learning concepts/python language basics/TensorFlow/TensorFlow estimator/importin android machine learning model/simple MNIST/Weather Prediction/Text prediction/Stock market prediction",
+                "prerequisites": [
+                    "101Fee"
+                ],
+                "cp": [
+                    2250,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "14",
+            "ref": null,
+            "props": {
+                "keyFromParent": "14",
+                "crs_id": "101yqE",
+                "name": "Practical Deep Learning: Image Search engine",
+                "description": "Dataset preprocessing and helper functions/model util function/training and testing/putting the model in production",
+                "prerequisites": [
+                    "101HVA",
+                    "101Tdu",
+                    "101Tdw"
+                ],
+                "cp": [
+                    450,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "13",
+            "ref": null,
+            "props": {
+                "keyFromParent": "13",
+                "crs_id": "101Tdu",
+                "name": "Deep Learning: CNNs for Visual Recognition",
+                "description": "Learn Convolutional Neural Networks for Visual Recognition and the building blocks and methods associated with them.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "keyFromParent": "1",
+                "crs_id": "101Tdw",
+                "name": "TensorFlow 101: Introduction to Deep Learning",
+                "description": "This course provides you to be able to build Deep Neural Networks models for different business domains with one of the most common machine learning library TensorFlow provided by Google AI team.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "184",
+            "ref": null,
+            "props": {
+                "keyFromParent": "184",
+                "crs_id": "101D5S",
+                "name": "Mobile VR Virtual Reality & Artificial Intelligence in Unity",
+                "description": "Unity introduction/C# Coding /user interaction in unity/prefabs/project: AI game/virtual reality introduction/virtual reality in unity",
+                "prerequisites": [
+                    "101D5G"
+                ],
+                "cp": [
+                    750,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "182",
+            "ref": null,
+            "props": {
+                "keyFromParent": "182",
+                "crs_id": "1008tk",
+                "name": "retr0의 유니티 (Unity C#) 게임 프로그래밍 에센스",
+                "description": "유니티준비/게임엔진원리/C#프로그래밍 기본,중급,고급/게임제작-소코반(창고지기),어메이징 볼링/유니티 애니메이션/UGUI",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "187",
+            "ref": null,
+            "props": {
+                "keyFromParent": 187,
+                "crs_id": "101SGe",
+                "name": "AI, ML & IT's IMPACT ON DIGITAL MARKETING",
+                "description": "Knowledge on Digital Marketing basics. Having an idea of technology for Digital marketing.",
+                "prerequisites": [
+                    "101BhW"
+                ],
+                "cp": [
+                    1650,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "153",
+            "ref": null,
+            "props": {
+                "keyFromParent": "153",
+                "crs_id": "101SGm",
+                "name": "Power Your Business with Artificial Intelligence",
+                "description": "The phenominal shift from programming to machine learning/unstoppable forces which are driving the advances in AI/Differences between AI and human intelligence/example applications of AI technologies/Hands on experiments with AI systems and technology/documenting and ecaluationg your idea",
+                "prerequisites": [
+                    "101qTK"
+                ],
+                "cp": [
+                    3150,
+                    2070
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "91",
+            "ref": null,
+            "props": {
+                "keyFromParent": "91",
+                "crs_id": "101Fum",
+                "name": "Learn To Gain Writing Skills Using Artificial Intelligence",
+                "description": " targets on achieving the best through expertise gaining via the platforms and strategies incorporated through AI. The effectiveness is modelled via the mechanism of various platforms being showcased.",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "178",
+            "ref": null,
+            "props": {
+                "keyFromParent": "178",
+                "crs_id": "101uVQ",
+                "name": "Artificial Intelligence: Practical Essentials for Management",
+                "description": "AI Techniques & use cases/using AI to solve business problems",
+                "prerequisites": [
+                    "101yDy"
+                ],
+                "cp": [
+                    2850,
+                    2430
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "111",
+            "ref": null,
+            "props": {
+                "keyFromParent": "111",
+                "crs_id": "101SGM",
+                "name": "Learning Python Artificial Intelligence by Example",
+                "description": "using natural language processing with knowledge bases/face recognition/predicting taxi journey times/predicting the steering angles of a self driving car",
+                "prerequisites": [
+                    "101G9u",
+                    "101Tcm",
+                    "10008A",
+                    "10004q"
+                ],
+                "cp": [
+                    2250,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "125",
+            "ref": null,
+            "props": {
+                "keyFromParent": "125",
+                "crs_id": "10004q",
+                "name": "Deep Learning: Recurrent Neural Networks in Python",
+                "description": "GRU, LSTM, + more modern deep learning, machine learning, and data science for sequences",
+                "prerequisites": [
+                    "101Fee"
+                ],
+                "cp": [
+                    2550,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "keyFromParent": "53",
+                "crs_id": "101SGQ",
+                "name": "Learn Bio Inspired Optimization Methods A-Z",
+                "description": "genetic algorithm optimization method/optimize simple function by GA using deap library and python/find optimum point of complicated trigonometric function",
+                "prerequisites": [
+                    "100056",
+                    "101HVA"
+                ],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "66",
+            "ref": null,
+            "props": {
+                "keyFromParent": "66",
+                "crs_id": "100056",
+                "name": "Become a Probability & Statistics Master",
+                "description": "visualizing/analyzing/data distributuins/probability/discrete random variables/sampling/hypothesis/regression",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    450,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "157",
+            "ref": null,
+            "props": {
+                "keyFromParent": "157",
+                "crs_id": "101SH2",
+                "name": "The Complete Unity® Masterclass: Build 2D & 3D AI Games",
+                "description": "Intro to Unity/Intro to coding/Intro to inputs/Intro to prefavs/pathfinding algorithm game/building a level/creating movement/game interface/finale and resources/3D navmesh game-setup",
+                "prerequisites": [
+                    "101MaA"
+                ],
+                "cp": [
+                    450,
+                    2250
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "82",
+            "ref": null,
+            "props": {
+                "keyFromParent": "82",
+                "crs_id": "101SHm",
+                "name": "Learning Path: Artificial Intelligence for Apps and Games",
+                "description": "using AI to transform search/implementing AI to play play games",
+                "prerequisites": [
+                    "101G9u",
+                    "101Tcm",
+                    "10008A"
+                ],
+                "cp": [
+                    1350,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "keyFromParent": "55",
+                "crs_id": "101SI8",
+                "name": "Hands-On Artificial Intelligence for Small Businesses",
+                "description": "What can AI do for business/prediction sales with supervised learning/understanding your customer base using unsupervised learning/product recommendaions using semi-supervised learning/optimizing page layouts and advertisements using reinforcement learning",
+                "prerequisites": [
+                    "101G9u",
+                    "101Tcm",
+                    "10008A"
+                ],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "177",
+            "ref": null,
+            "props": {
+                "keyFromParent": "177",
+                "crs_id": "101yDy",
+                "name": "Introduction to AI for Business",
+                "description": "What is AI/Digital transformation & AI/engage customers/AI amplifies AI platform/The microsoft AI platform/cognitive search",
+                "prerequisites": [
+                    "101T8g"
+                ],
+                "cp": [
+                    2550,
+                    2430
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "164",
+            "ref": null,
+            "props": {
+                "keyFromParent": "164",
+                "crs_id": "100nD2",
+                "name": "인공 지능(AI/ML) 활용 비즈니스 모델 수립 강좌 - 기초편 -",
+                "description": "AI 활용에서의 비즈니스 능력/AI 비즈니스 캔버스 학습/AI 기초지식(기계학습,딥러닝,심층강화학습)/사례 연구(이미지 식별, 의료)",
+                "prerequisites": [
+                    "101yDy"
+                ],
+                "cp": [
+                    2550,
+                    2250
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "27",
+            "ref": null,
+            "props": {
+                "keyFromParent": "27",
+                "crs_id": "101rkC",
+                "name": "컴퓨터 비전을 이용한 얼굴 및 물체 인식",
+                "description": "얼굴인식/물체인식/GAN(R-CNN, SSD, GAN)",
+                "prerequisites": [
+                    "101HVA",
+                    "101Te0"
+                ],
+                "cp": [
+                    450,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "26",
+            "ref": null,
+            "props": {
+                "keyFromParent": "26",
+                "crs_id": "101Te0",
+                "name": "Python for beginners & logic building practice Questions 3.7",
+                "description": "50 Practice questions for sharpening your logic | Beginner's Masterclass",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "118",
+            "ref": null,
+            "props": {
+                "keyFromParent": "118",
+                "crs_id": "101Ci4",
+                "name": "AI:Python을 사용한 텍스트 검색",
+                "description": "크롤러 및 문서 인덱서/문서검색",
+                "prerequisites": [
+                    "101HY2",
+                    "101Oq1"
+                ],
+                "cp": [
+                    450,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "117",
+            "ref": null,
+            "props": {
+                "keyFromParent": "117",
+                "crs_id": "101HY2",
+                "name": "지능적인 파이썬 검색 알고리즘",
+                "description": "검색을 통한 문제 해결/정보없이 검색/정보로 검색",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "130",
+            "ref": null,
+            "props": {
+                "keyFromParent": 130,
+                "crs_id": "101Oq1",
+                "name": "SQL BootCamp 2019 - SQL for Beginners (SQL Mastery Course)",
+                "description": "Learn SQL by Coding! A Course that You Will Actually Learn SQL Easily with Hundreds of Examples!",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "174",
+            "ref": null,
+            "props": {
+                "keyFromParent": 174,
+                "crs_id": "101J4A",
+                "name": "뇌과학과 AI: 싱귤러 리티 이브의 인간과 기계의 접점",
+                "description": "뇌과학과 인공지능의 개요/뇌의 구조/뇌의 연산과 기억/뇌와 인공지능",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1650,
+                    2430
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "149",
+            "ref": null,
+            "props": {
+                "keyFromParent": "149",
+                "crs_id": "101Cjw",
+                "name": "인공 지능을 갖춘 투자자 로봇-모듈 1",
+                "description": "인공지능 없는 투자자 로봇/인공지능 갖춘 투자자 로봇/System view(일반 인공지능 생태계/컨트롤 아키텍처/학습 아키텍처)/인공지능을 이요한 조사 로봇 연구(주요 시장참가자)/미래 비전",
+                "prerequisites": [
+                    "101T7y"
+                ],
+                "cp": [
+                    1950,
+                    2070
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "136",
+            "ref": null,
+            "props": {
+                "keyFromParent": "136",
+                "crs_id": "101T7u",
+                "name": "인공 지능을 갖춘 투자자 로봇-모듈 2",
+                "description": "투자자 로봇을 이용한 경쟁, 협력 및 갈등/모델링 문제 로봇 게임 이론 투자자/System view(게임 이론 생태계/반응 아키텍처/예측 아키텍처)/인공지능을 이용한 조사 로봇 연구(고전 게임 이론 모델/혁신적인 개인모델/새로운 패러다임)/미래비전",
+                "prerequisites": [
+                    "101Cjw"
+                ],
+                "cp": [
+                    1950,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "162",
+            "ref": null,
+            "props": {
+                "keyFromParent": "162",
+                "crs_id": "101T7y",
+                "name": "Trader를 위한 인공지능의 기초",
+                "description": "trader를 위한 인공지능 기회,위협/패턴 식별/인과 관계 식별/시나리오 인텔리전스/노출 정보/운영 인텔리전스/RPA 로봇 프로세스 자동화",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1950,
+                    2250
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "39",
+            "ref": null,
+            "props": {
+                "keyFromParent": "39",
+                "crs_id": "101T7C",
+                "name": "인공 지능과 챗봇 기본지식",
+                "description": "기술비전(인공지능/기계학습/자연어 처리 NLP/챗봇)/전략적비전(챗봇 진화/조직을 위한 챗봇의 위험 및 기회)/미래비전",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    150,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "52",
+            "ref": null,
+            "props": {
+                "keyFromParent": "52",
+                "crs_id": "101sqM",
+                "name": "JavaScript를 사용한 인공 지능 및 기계 학습",
+                "description": "피드 포워드 신경망/활성화 기능/단순 선형 회귀/다변량 선형 회귀/나이브베이지안 확률/k-nearest neighbors/k-means 클러스터링/강화학습",
+                "prerequisites": [
+                    "100eKS"
+                ],
+                "cp": [
+                    150,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "40",
+            "ref": null,
+            "props": {
+                "keyFromParent": "40",
+                "crs_id": "100eKS",
+                "name": "JavaScript Basics for Beginners",
+                "description": "",
+                "prerequisites": [
+                    "101T7C"
+                ],
+                "cp": [
+                    450,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "65",
+            "ref": null,
+            "props": {
+                "keyFromParent": "65",
+                "crs_id": "101uAE",
+                "name": "Chatbot - JavaScript",
+                "description": "CROUD 개발/사용자 상호 작용 루틴/상호 작용 흐름 순서/등록, 제어 및 사용자 관리/대화에서 개인 정보 캡쳐/Application HTML 레이아웃을 위한 인터페이스/챗봇 인터렉션 레이아웃 인코딩",
+                "prerequisites": [
+                    "101sqM"
+                ],
+                "cp": [
+                    150,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "190",
+            "ref": null,
+            "props": {
+                "keyFromParent": "190",
+                "crs_id": "101T8g",
+                "name": "인공 지능이란 무엇인가",
+                "description": "기술비전(AI의 진실/AI의 패러다임)/전략적비전(AI가 아닌것/실제로 AI란?)/미래비전(AI 미래 시나리오)",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    2550,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "191",
+            "ref": null,
+            "props": {
+                "keyFromParent": "191",
+                "crs_id": "101T8i",
+                "name": "AI와 Superintelligence",
+                "description": "사람vs기계: 새로운 패러다임/인공지능과 초지능/초지능",
+                "prerequisites": [
+                    "101T8g"
+                ],
+                "cp": [
+                    2850,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "173",
+            "ref": null,
+            "props": {
+                "keyFromParent": 173,
+                "crs_id": "101qLI",
+                "name": "토목 기술자를위한 인공 지능 : 1 부",
+                "description": "토목기술자를 위한 AI(건설관리:스냅샷)/토목분야 첨단기술개념(품질관리혁신/안전관리혁신/내부평면도/3D홈인테리어건축Sofrware 튜토리얼)",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    1350,
+                    2430
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "79",
+            "ref": null,
+            "props": {
+                "keyFromParent": "79",
+                "crs_id": "101tpk",
+                "name": "RoboAuthor: Content Writing Automation 2019 - Part 1",
+                "description": "'Talk to Transformer'로 글쓰기 소개/ 작가의 스타일을 가지고 스타일로 문장을 완성/ 시 쓰기 자동화 팁 : Talk to Transformer/ Talk to Transformer를 사용한 스크립트 작성 자동화/ 작곡 자동화 및 보너스 도구 배우기/ AI 도구를 사용하여 팬 소설 이야기 작성 자동화 ",
+                "prerequisites": [
+                    "101Fum",
+                    "101uAE"
+                ],
+                "cp": [
+                    450,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "189",
+            "ref": null,
+            "props": {
+                "keyFromParent": "189",
+                "crs_id": "101Lyu",
+                "name": "인공지능(AI/ML)사업추진인력에 필요한 기술/육성방법",
+                "description": "AI 사업추진인력과 기술/AI 사업추진 인재육성방법(기획력, 추진력, 경영능력)/AI 사업기획(기획, 실태조사, 기획서계획)",
+                "prerequisites": [
+                    "101T8g"
+                ],
+                "cp": [
+                    2250,
+                    2610
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "67",
+            "ref": null,
+            "props": {
+                "keyFromParent": "67",
+                "crs_id": "10011K",
+                "name": "Python for Financial Analysis and Algorithmic Trading",
+                "description": "Python programming/Basic Statistics and Linear Algebra ",
+                "prerequisites": [
+                    "101v8o",
+                    "101HVA",
+                    "100056"
+                ],
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "80",
+            "ref": null,
+            "props": {
+                "keyFromParent": "80",
+                "crs_id": "101v8o",
+                "name": "Become a Linear Algebra Master",
+                "description": "",
+                "prerequisites": [
+                    ""
+                ],
+                "cp": [
+                    750,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        }
+    ],
+    "map": {
+        "1": "101Tdw",
+        "3": "101HVA",
+        "4": "10001q",
+        "6": "101Tdc",
+        "8": "101CJe",
+        "9": "101um4",
+        "10": "101PnT",
+        "13": "101Tdu",
+        "14": "101yqE",
+        "19": "10010I",
+        "20": "101Tde",
+        "21": "101SF0",
+        "22": "101SF2",
+        "26": "101Te0",
+        "27": "101rkC",
+        "28": "101rqs",
+        "30": "100338",
+        "39": "101T7C",
+        "40": "100eKS",
+        "42": "10052s",
+        "45": "100FTk",
+        "52": "101sqM",
+        "53": "101SGQ",
+        "55": "101SI8",
+        "56": "101Tcm",
+        "62": "101J4I",
+        "65": "101uAE",
+        "66": "100056",
+        "67": "10011K",
+        "79": "101tpk",
+        "80": "101v8o",
+        "82": "101SHm",
+        "87": "100CDo",
+        "91": "101Fum",
+        "94": "10008A",
+        "98": "1000uw",
+        "111": "101SGM",
+        "117": "101HY2",
+        "118": "101Ci4",
+        "123": "101SD2",
+        "124": "101MQR",
+        "125": "10004q",
+        "127": "1001jY",
+        "130": "101Oq1",
+        "133": "101G9u",
+        "136": "101T7u",
+        "138": "101Fee",
+        "149": "101Cjw",
+        "153": "101SGm",
+        "157": "101SH2",
+        "162": "101T7y",
+        "164": "100nD2",
+        "165": "101qTK",
+        "166": "101vQS",
+        "170": "101MaA",
+        "173": "101qLI",
+        "174": "101J4A",
+        "177": "101yDy",
+        "178": "101uVQ",
+        "182": "1008tk",
+        "183": "101D5G",
+        "184": "101D5S",
+        "186": "101BhW",
+        "187": "101SGe",
+        "189": "101Lyu",
+        "190": "101T8g",
+        "191": "101T8i"
+    }
+}

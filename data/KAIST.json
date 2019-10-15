@@ -1,1 +1,1933 @@
-{"view_size":[3900,2700],"cps":[[150,90],[450,90],[750,90],[1050,90],[1350,90],[1650,90],[1950,90],[2250,90],[2550,90],[2850,90],[3150,90],[3450,90],[3750,90],[150,270],[450,270],[750,270],[1050,270],[1350,270],[1650,270],[1950,270],[2250,270],[2550,270],[2850,270],[3150,270],[3450,270],[3750,270],[150,450],[450,450],[750,450],[1050,450],[1350,450],[1650,450],[1950,450],[2250,450],[2550,450],[2850,450],[3150,450],[3450,450],[3750,450],[150,630],[450,630],[750,630],[1050,630],[1350,630],[1650,630],[1950,630],[2250,630],[2550,630],[2850,630],[3150,630],[3450,630],[3750,630],[150,810],[450,810],[750,810],[1050,810],[1350,810],[1650,810],[1950,810],[2250,810],[2550,810],[2850,810],[3150,810],[3450,810],[3750,810],[150,990],[450,990],[750,990],[1050,990],[1350,990],[1650,990],[1950,990],[2250,990],[2550,990],[2850,990],[3150,990],[3450,990],[3750,990],[150,1170],[450,1170],[750,1170],[1050,1170],[1350,1170],[1650,1170],[1950,1170],[2250,1170],[2550,1170],[2850,1170],[3150,1170],[3450,1170],[3750,1170],[150,1350],[450,1350],[750,1350],[1050,1350],[1350,1350],[1650,1350],[1950,1350],[2250,1350],[2550,1350],[2850,1350],[3150,1350],[3450,1350],[3750,1350],[150,1530],[450,1530],[750,1530],[1050,1530],[1350,1530],[1650,1530],[1950,1530],[2250,1530],[2550,1530],[2850,1530],[3150,1530],[3450,1530],[3750,1530],[150,1710],[450,1710],[750,1710],[1050,1710],[1350,1710],[1650,1710],[1950,1710],[2250,1710],[2550,1710],[2850,1710],[3150,1710],[3450,1710],[3750,1710],[150,1890],[450,1890],[750,1890],[1050,1890],[1350,1890],[1650,1890],[1950,1890],[2250,1890],[2550,1890],[2850,1890],[3150,1890],[3450,1890],[3750,1890],[150,2070],[450,2070],[750,2070],[1050,2070],[1350,2070],[1650,2070],[1950,2070],[2250,2070],[2550,2070],[2850,2070],[3150,2070],[3450,2070],[3750,2070],[150,2250],[450,2250],[750,2250],[1050,2250],[1350,2250],[1650,2250],[1950,2250],[2250,2250],[2550,2250],[2850,2250],[3150,2250],[3450,2250],[3750,2250],[150,2430],[450,2430],[750,2430],[1050,2430],[1350,2430],[1650,2430],[1950,2430],[2250,2430],[2550,2430],[2850,2430],[3150,2430],[3450,2430],[3750,2430],[150,2610],[450,2610],[750,2610],[1050,2610],[1350,2610],[1650,2610],[1950,2610],[2250,2610],[2550,2610],[2850,2610],[3150,2610],[3450,2610],[3750,2610]],"crsList":[{"key":"4","ref":null,"props":{"keyFromParent":4,"crs_id":"CSED101","name":"프로그래밍과 문제해결","description":"컴퓨터를 이용한 계산의 기본 원리와 문제해결 과정에 필수적인 계산적 사고방식을 배운다. 프로그래밍 실습을 통하여 계산적 사고방식을 어떻게 컴퓨터 프로그램으로 표현할 수 있는지를 익힌다. 실습을 위한 프로그래밍 언어는 C언어를 이용한다.","prerequisites":[],"cp":[1350,90],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"30","ref":null,"props":{"keyFromParent":30,"crs_id":"CSED233","name":"데이터 구조","description":"기본적인 데이터 구조에 대하여 배우고, 효율적인 알고리즘의 설계와 분석기술을 익힌다.","prerequisites":["CSED101"],"cp":[1350,450],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"18","ref":null,"props":{"keyFromParent":18,"crs_id":"CSED232","name":"객체지향 프로그래밍","description":"객체지향 프로그래밍의 기본 개념을 배우고 객체지향 프로그래밍 언어를 이용하여 주어진 문제를 해결하는 방법을 배운다. 프로그래밍 언어로 C++의 특성과 응용에 대한 이론 학습 및 개별적인 프로그래밍 숙제를 통하여 관련 지식을 얻도록 한다.","prerequisites":["CSED101"],"cp":[1650,270],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"2","ref":null,"props":{"keyFromParent":2,"crs_id":"CSED261","name":"전산수학","description":"컴퓨터공학의 기초가 되는 이산 수학을 공부한다. 집합, 명제에서 시작해서 계산의 기본 개념, 기초적인 이산구조와 기초적인 대수 내용 등을 다룬다.","prerequisites":[],"cp":[750,90],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"69","ref":null,"props":{"keyFromParent":69,"crs_id":"CSED331","name":"알고리즘","description":"알고리즘을 고안하는 여러 가지의 일반적인 방법을 살펴보고, 알고리즘 고안에 쓰이는 데이터 구조를 다루며, 알고리즘의 효율성을 분석하는 방법을 알아본다. 쓰임새가 많은 알고리즘들이 어떠한 방법으로 고안되었는지 살펴보고 그들의 효율성을 분석함으로써 알고리즘의 분석방법을 익힌다.","prerequisites":["CSED233"],"cp":[1350,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"15","ref":null,"props":{"keyFromParent":15,"crs_id":"MATH230","name":"확률 및 통계","description":"확률의 기초개념, 기대치, 확률분포, 모수추정, 가설 검정, 상관관계, 분산분석. 이 과목은 공학과 과학을 위한 것으로 최소한의 이론으로 많은 예를 다룬다.","prerequisites":[],"cp":[750,270],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"82","ref":null,"props":{"keyFromParent":82,"crs_id":"CSED426","name":"빅데이터","description":"빅데이터 분석 이론을 공부하고, 다양한 언어 및 툴을 사용해 실습한다. 본 과목은 크게 두 부분 — (1) 실제에서 빅데이터를 처리하는 방법을 다루는 시스템 관점의 빅데이터와 (2) 데이터로부터 모델을 생성하는 방법론 관점의 빅데이터 — 으로 나누어져 있다. 구체적으로, 처음 반은 빅데이터를 저장, 검색, 분석하기 위한 대표적인 솔루션인 SQL, 맵리듀스, 하둡, 스파크를 공부하고, 나머지 반은 대표적인 기계학습, 군집, 추천시스템, 링크분석, 빈번패턴분석 알고리즘 등을 공부한다.","prerequisites":["CSED233","CSED331"],"cp":[1350,1170],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"70","ref":null,"props":{"keyFromParent":70,"crs_id":"CSED442","name":"인공지능","description":"인공지능 문제의 특성과 기본 원리를 파악하고, 인공지능 문제 해결에 필요한 기초 이론과 방법론을 학습한다. 구체적으로 기계학습 이론, 탐색, 게임, Markov Decision Process, Constraint Satisfaction, Graphical Model, Logic 등을 학습한다. 또한, 인공지능 구현 실습을 통해 일상생활에서 만나는 인공지능 문제를 해결하기 위한 능력을 기른다.","prerequisites":["CSED233"],"cp":[1650,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"71","ref":null,"props":{"keyFromParent":71,"crs_id":"CSED441","name":"컴퓨터비전개론","description":"컴퓨터 비전 과목에서는 사진 및 동영상과 같은 시각적 데이터를 사람의 힘을 빌리지 않고 자동으로 이해하는 기술에 관하여 학습한다. 시각적 데이터를 수학적으로 모델링하고 다양한 방법으로 분석함으로써 그 내용을 이해하는 것을 목표로 하고 있다. 기계학습, 알고리즘, 그래픽스 등과도 밀접한 관련이 있는 이 과목은 대학원 수준의 컴퓨터 비전 과목을 이수하기 이전에 학부생들로 하여금 기본적인 개념뿐만 아니라 실용적인 구현 능력을 배양할 수 있도록 한다.","prerequisites":["MATH203"],"cp":[1950,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"19","ref":null,"props":{"keyFromParent":19,"crs_id":"MATH203","name":"응용선형대수","description":"연립 선형 방정식, 행렬 및 Gaussian 소거법, 역행렬, Gram-Schmidt 직교화, 수직 사영, 최소 자승법, 고유치, 고유벡터, 대각화 및 행렬의 부호.","prerequisites":[],"cp":[1950,270],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"72","ref":null,"props":{"keyFromParent":72,"crs_id":"CSED451","name":"컴퓨터그래픽스","description":"이차원 및 삼차원 그래픽스의 기본원리들을 다룬다. 그래픽스 시스템을 구성하는 H/W와 S/W를 소개하고 기하학적 변환, 인터렉티브 기법 등을 배운다. 삼차원 물체의 표현방법, 투사법(projections), 가시변환(viewing transformation), 은면제거(hidden surface removal), 렌더링 등을 다룬다. 프로그래밍 과제들을 통하여 기본 개념들을 간단히 구현하여 본다.","prerequisites":["MATH203","CSED233"],"cp":[2250,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"68","ref":null,"props":{"keyFromParent":68,"crs_id":"CSED514","name":"패턴 인식론","description":"패턴인식에 대한 기초 이론을 갖게 하고 이를 바탕으로 한 프로그래밍을 통하여 응용방법을 습득하여 다양한 문제에 적용할 수 있는 능력을 갖게 하는데 강의 목표가 있다. 통계적 패턴인식에 주력하고 기계학습 방법에 의한 패턴 인식 문제도 다룬다.","prerequisites":["MATH230"],"cp":[1050,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"67","ref":null,"props":{"keyFromParent":67,"crs_id":"CSED515","name":"기계학습","description":"기계학습이란 컴퓨터가 스스로 학습능력을 갖출 수 있게 하는 컴퓨터 알고리즘에 대하여 공부를 하는 분야이다. 패턴 인식, 예측, 의사결정 등 인간이 하는 능력을 컴퓨터가 갖추도록 하는 알고리즘에 대한 공부를 주로 한다. 이 과목에서는 기계학습을 위한 주로 수학적이고 통계학적인 방법론에 대하여 공부를 하며, 응용에 대해서도 살펴본다. 한 학기 동안 다루게 되는 토픽들은 확률밀도추정 (density estimation), 베이즈 결정이론 (Bayes decision theory), 은닉변수모델 (latent variable models), 혼합모델 (mixture models), 판별 해석(discriminant analysis), 군집화 (clustering), 분류(classification), 차원축소 (dimensionality reduction), 회귀분석 (regression), 커널방법 (kernel methods), VC-차원(VC-dimension), HMM, MLP, RBF 등이다. 주로 여러 기계학습방법을 위한 통계학적, 확률적 방법론에 대하여 배우며, supervised, unsupervised, semi-supervised 학습에 대하여 배운다.","prerequisites":["MATH230"],"cp":[750,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"91","ref":null,"props":{"keyFromParent":91,"crs_id":"CSED518","name":"자연언어처리를 위한 언어학 기초","description":"인간의 언어능력을 어떻게 기계화할 수 있는가를 연구하는 자연언어처리 분야의 기초 입문 과목이다. 우선 언어학 용어 및 개념을 강의하고, 특히 정보처리(기계화) 관점에서 한국어 문법을 소개한다. 한글을 포함한 다국어 문자 처리 기법을 강의하며, 텍스트 처리 기법을 위하여 여러 문법이론 및 언어분석 모델 등을 소개한다. 또한 이들 기법들이 응용분야로서 기계번역, 정보검색 등에 어떻게 응용되는지를 소개한다.","prerequisites":[],"cp":[150,1350],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"65","ref":null,"props":{"keyFromParent":65,"crs_id":"CSED523","name":"통계적 자연언어처리","description":"최근 자연어 처리에서 다시 각광받고 있는 통계적인 방법들을 소개한다. 통계적 언어처리를 위한 확률통계기초와 정보이론 기초에 대해 review한 후 품사태깅, 구문분석 (파싱), 단어의미 애매성 해결 및 담화처리의 통계적인 해결 방법과 아울러 음성인식/합성을 위한 통계적 언어모델을 소개한다.","prerequisites":["MATH230"],"cp":[150,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"66","ref":null,"props":{"keyFromParent":66,"crs_id":"CSED524","name":"확률 그래프 모델","description":"확률 그래프 모델은 확률 이론과 그래프 이론이 서로의 장점을 살릴 수 있게 결합된 새로운 모델링 방법이다. 본 과목에서는 크게 다음과 같은 세 가지 토픽을 다룬다. 첫째, 확률변수의 결합 확률 분포를 세 가지 종류의 그래프 (directed graphs, undirected graphs, factor graphs)로 어떻게 표현하는지에 대하여 배운다. 둘째, 노이즈 데이터가 관측되었을 때, 그래프 상에서 특정 노드의 조건부 확률을 구하는 확률적 추론 (probabilistic inference) 방법에 대하여 배운다. Sum product algorithm, belief propagation, junction tree algorithm과 같은 exact inference 방법과 variational method, sampling methods 와 같은 approximate inference 방법에 대하여 배운다. 셋째, 그래프 상에서 매개변수들을 추정하는 학습 (learning) 방법에 대하여 다루고, maximum likelihood estimation, MAP, Bayesian estimation, expectation maximization 방법을 배운다. 이와 같은 기본적인 그래프 모델을 다루면서, 마지막으로 컴퓨터 비전, 생물정보학, 텍스트 마이닝, 자연언어 처리등 응용 분야에 적용되는 사례를 선택하여 스스로 해보는 기회를 갖는다.","prerequisites":["MATH230"],"cp":[450,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"95","ref":null,"props":{"keyFromParent":95,"crs_id":"CSED526","name":"데이터마이닝","description":"데이터마이닝이란 대용량의 데이터를 효과적으로 분석하여 의미 있는 지식을 추출하기 위한 기술을 다루는 분야이다. 본 과목에서는 구체적으로 데이터 전처리 (data preprocessing), 웨어하우징(warehousing)과 OLAP, 빈번패턴과 관계분석(frequent pattern and association analysis), 분류 및 예측(classification and prediction), 군집(clustering), 랭킹(ranking) 등의 내용을 다룬다. 선수과목은 없으나 확률통계에 대한 기본 지식이 필요하고, 학부 3, 4학년과 대학원생들을 대상으로 한다.","prerequisites":[],"cp":[1350,1350],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"104","ref":null,"props":{"keyFromParent":104,"crs_id":"CSED611","name":"기계번역","description":"텍스트 자동번역 시스템이나 대화체 자동통역 시스템 구축을 위한 여러 가지 방법론들로서 규칙기반 시스템(Rule-based MT)과 말뭉치기반 시스템(Corpus-based MT)을 강의하며 번역 시스템의 평가 방법론에 대해서도 다룬다. 또한 이를 바탕으로 기존의 대표적인 실용 시스템들을 상호 비교, 분석해 봄으로써 기계번역 시스템에 대한 평가 및 설계 안목을 높인다.","prerequisites":["CSED518"],"cp":[150,1530],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"78","ref":null,"props":{"keyFromParent":78,"crs_id":"CSED616","name":"인간언어 처리론","description":"최근에 개별적으로 연구되던 자연어처리, 음성처리, 정보검색, 기계번역 등의 분야가 인간언어처리라는 하나의 공통된 분야로 결합되면서 서로 시너지 효과를 찾기 시작했다. 본 과목은 이러한 추세를 반영하여 인간언어 처리의 관련 연구분야(즉 멀티미디어 정보검색/정보추출, 음성대화, 멀티모달 처리, 음성합성, 음성인식, 고급 기계학습, 통계적 자동 번역 등)의 공통된 최신 기술을 비교하고 한꺼번에 같이 배울 수 있는 기회를 제공한다.","prerequisites":[],"cp":[150,1170],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"83","ref":null,"props":{"keyFromParent":83,"crs_id":"CSED703A-","name":"인공지능 특론 A-","description":"인공지능 전반에 걸친 개별적 주제에 대하여 최근 활발히 연구되고 있는 내용을 중심으로 공부한다.","prerequisites":[],"cp":[1650,1170],"offset":80,"display":"none"},"_owner":null,"_store":{}}],"map":{"2":"CSED261","4":"CSED101","15":"MATH230","18":"CSED232","19":"MATH203","30":"CSED233","65":"CSED523","66":"CSED524","67":"CSED515","68":"CSED514","69":"CSED331","70":"CSED442","71":"CSED441","72":"CSED451","78":"CSED616","82":"CSED426","83":"CSED703A-","91":"CSED518","95":"CSED526","104":"CSED611"}}
+{
+    "view_size": [
+        3900,
+        2700
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            3150,
+            90
+        ],
+        [
+            3450,
+            90
+        ],
+        [
+            3750,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            3150,
+            270
+        ],
+        [
+            3450,
+            270
+        ],
+        [
+            3750,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            3150,
+            450
+        ],
+        [
+            3450,
+            450
+        ],
+        [
+            3750,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            3150,
+            630
+        ],
+        [
+            3450,
+            630
+        ],
+        [
+            3750,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            3150,
+            810
+        ],
+        [
+            3450,
+            810
+        ],
+        [
+            3750,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            3150,
+            990
+        ],
+        [
+            3450,
+            990
+        ],
+        [
+            3750,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            3150,
+            1170
+        ],
+        [
+            3450,
+            1170
+        ],
+        [
+            3750,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            3150,
+            1350
+        ],
+        [
+            3450,
+            1350
+        ],
+        [
+            3750,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            3150,
+            1530
+        ],
+        [
+            3450,
+            1530
+        ],
+        [
+            3750,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ],
+        [
+            3150,
+            1710
+        ],
+        [
+            3450,
+            1710
+        ],
+        [
+            3750,
+            1710
+        ],
+        [
+            150,
+            1890
+        ],
+        [
+            450,
+            1890
+        ],
+        [
+            750,
+            1890
+        ],
+        [
+            1050,
+            1890
+        ],
+        [
+            1350,
+            1890
+        ],
+        [
+            1650,
+            1890
+        ],
+        [
+            1950,
+            1890
+        ],
+        [
+            2250,
+            1890
+        ],
+        [
+            2550,
+            1890
+        ],
+        [
+            2850,
+            1890
+        ],
+        [
+            3150,
+            1890
+        ],
+        [
+            3450,
+            1890
+        ],
+        [
+            3750,
+            1890
+        ],
+        [
+            150,
+            2070
+        ],
+        [
+            450,
+            2070
+        ],
+        [
+            750,
+            2070
+        ],
+        [
+            1050,
+            2070
+        ],
+        [
+            1350,
+            2070
+        ],
+        [
+            1650,
+            2070
+        ],
+        [
+            1950,
+            2070
+        ],
+        [
+            2250,
+            2070
+        ],
+        [
+            2550,
+            2070
+        ],
+        [
+            2850,
+            2070
+        ],
+        [
+            3150,
+            2070
+        ],
+        [
+            3450,
+            2070
+        ],
+        [
+            3750,
+            2070
+        ],
+        [
+            150,
+            2250
+        ],
+        [
+            450,
+            2250
+        ],
+        [
+            750,
+            2250
+        ],
+        [
+            1050,
+            2250
+        ],
+        [
+            1350,
+            2250
+        ],
+        [
+            1650,
+            2250
+        ],
+        [
+            1950,
+            2250
+        ],
+        [
+            2250,
+            2250
+        ],
+        [
+            2550,
+            2250
+        ],
+        [
+            2850,
+            2250
+        ],
+        [
+            3150,
+            2250
+        ],
+        [
+            3450,
+            2250
+        ],
+        [
+            3750,
+            2250
+        ],
+        [
+            150,
+            2430
+        ],
+        [
+            450,
+            2430
+        ],
+        [
+            750,
+            2430
+        ],
+        [
+            1050,
+            2430
+        ],
+        [
+            1350,
+            2430
+        ],
+        [
+            1650,
+            2430
+        ],
+        [
+            1950,
+            2430
+        ],
+        [
+            2250,
+            2430
+        ],
+        [
+            2550,
+            2430
+        ],
+        [
+            2850,
+            2430
+        ],
+        [
+            3150,
+            2430
+        ],
+        [
+            3450,
+            2430
+        ],
+        [
+            3750,
+            2430
+        ],
+        [
+            150,
+            2610
+        ],
+        [
+            450,
+            2610
+        ],
+        [
+            750,
+            2610
+        ],
+        [
+            1050,
+            2610
+        ],
+        [
+            1350,
+            2610
+        ],
+        [
+            1650,
+            2610
+        ],
+        [
+            1950,
+            2610
+        ],
+        [
+            2250,
+            2610
+        ],
+        [
+            2550,
+            2610
+        ],
+        [
+            2850,
+            2610
+        ],
+        [
+            3150,
+            2610
+        ],
+        [
+            3450,
+            2610
+        ],
+        [
+            3750,
+            2610
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "7",
+            "ref": null,
+            "props": {
+                "keyFromParent": 7,
+                "crs_id": "CC510",
+                "name": "전산응용개론",
+                "description": "",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "5",
+            "ref": null,
+            "props": {
+                "keyFromParent": 5,
+                "crs_id": "CS101",
+                "name": "프로그래밍기초",
+                "description": "The course teaches the basic technique of computer programming and the basic knowledge in the computer structure, and use of the elective programming language to resolve given problems in structural programming. Based on the elective programming language, it teaches the data structure, input and output, flow control and incidental program, and by using the systematic division of problem solution and concept of module to solve the problems in numerical value field and non-numerical value field with the program experiment.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "4",
+            "ref": null,
+            "props": {
+                "keyFromParent": 4,
+                "crs_id": "CS109",
+                "name": "프로그래밍 실습",
+                "description": "In this course students who have taken CS101 but who have otherwise little programming experience can develop their programming skills. The course introduces basic concepts of programming and computer science, such as dynamic and static typing, dynamic memory allocation, objects and methods, binary representation of numbers, using an editor and compiler from the command line, running programs with arguments from the commmand line, graphical user interfaces and event-based programming, using libraries, and the use of basic data structures such as arrays, lists, stacks, sets, and maps.",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "18",
+            "ref": null,
+            "props": {
+                "keyFromParent": 18,
+                "crs_id": "CS204",
+                "name": "이산구조",
+                "description": "This course covers mathematical concepts that are frequently employed in computer science: sets, relations, propositional logic, predicative logic, graphs, trees, recurrences, recursion, and fundamental notions in abstract algebra such as groups and rings.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "19",
+            "ref": null,
+            "props": {
+                "keyFromParent": 19,
+                "crs_id": "CS206",
+                "name": "데이타구조",
+                "description": "This course provides students with fundamental concepts in data structures and algorithms in a broad context of solving problems using computers.",
+                "prerequisites": [],
+                "cp": [
+                    1950,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "47",
+            "ref": null,
+            "props": {
+                "keyFromParent": 47,
+                "crs_id": "CS211",
+                "name": "디지탈시스템 및 실험",
+                "description": "This course provides students with an understanding of digital systems as building blocks of modern digital computers. This course puts emphasis on providing students with hands-on experience on digital systems. The course includes both lecture and laboratory work on the topics of: boolean algebra, binary system, combinatorial logic, asynchronous sequential circuits, algorithmic state machine, asynchronous sequential circuits, VHDL, CAD tools and FPGAs.",
+                "prerequisites": [],
+                "cp": [
+                    2550,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "6",
+            "ref": null,
+            "props": {
+                "keyFromParent": 6,
+                "crs_id": "CS220",
+                "name": "프로그래밍의 이해",
+                "description": "This course's goal is to provide students with programming principles and a good feel for the elements of style and the aesthetics of programming, which are necessary in controlling the intellectual complexity of large yet robust software systems. The covered topics include: induction and recursion, data abstraction and representation, values and applicative programming, objects and imperative programming, streams and demand-driven programming, modularity and hierarchy, exceptions and advanced control, and higher-order functions and continuations.",
+                "prerequisites": [],
+                "cp": [
+                    1950,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "40",
+            "ref": null,
+            "props": {
+                "keyFromParent": 40,
+                "crs_id": "CS230",
+                "name": "시스템 프로그래밍",
+                "description": "This course's goal is to provide students with programming techniques necessary in dealing with \"systems\" development. The covered topics include low-level machine oriented programming, device-control programming, and other various programming techniques for computer operating environment.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "97",
+            "ref": null,
+            "props": {
+                "keyFromParent": 97,
+                "crs_id": "CS270",
+                "name": "지능 로봇 설계 및 프로그래밍",
+                "description": "This course aims to provide an opportunity for sophomores to experience creative system design using Lego mindstorm NXT kit and URBI robot software platform. In lectures, robotic CS is introduced and various examples are demonstrated to bring out students' interests. In lab hours, students build own intelligent robot system creatively. Students are educated to integrate hardware and software designs, and make presentations at the end of semester.",
+                "prerequisites": [],
+                "cp": [
+                    1950,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "44",
+            "ref": null,
+            "props": {
+                "keyFromParent": 44,
+                "crs_id": "CS300",
+                "name": "알고리즘 개론",
+                "description": "This course introduces the basic concepts of design and analysis of computer algorithms: the basic principles and techniques of computational complexity (worst-case and average behavior, space usage, and lower bounds on the complexity of a problem), and algorithms for fundamental problems. It also introduces the areas of NP-completeness and parallel algorithms. (Prerequisite: CS204, CS206)",
+                "prerequisites": [
+                    "CS204",
+                    "CS206"
+                ],
+                "cp": [
+                    1650,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "60",
+            "ref": null,
+            "props": {
+                "keyFromParent": 60,
+                "crs_id": "CS310",
+                "name": "내장형 컴퓨터 시스템",
+                "description": "Embedded systems are found everywhere. The goal of this course is to develop a comprehensive understanding of the technologies behind the embedded computer systems, including hardware and software components. Students will gain hands-on experience in designing a embedded system using CAD tools and FPGAs. (Prerequisite: CS211)",
+                "prerequisites": [
+                    "CS211"
+                ],
+                "cp": [
+                    2550,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "61",
+            "ref": null,
+            "props": {
+                "keyFromParent": 61,
+                "crs_id": "CS311",
+                "name": "전산기조직",
+                "description": "This course provides students with a basic understanding of computer organization and architecture. It is concerned mostly with the hardware aspects of computer systems: structural organization and hardware design of digital computer systems, underlying design principles and their impact on computer performance, and software impact on computer. (Prerequisite: CS211)",
+                "prerequisites": [
+                    "CS211"
+                ],
+                "cp": [
+                    2850,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "45",
+            "ref": null,
+            "props": {
+                "keyFromParent": 45,
+                "crs_id": "CS320",
+                "name": "프로그래밍 언어",
+                "description": "This course provides students with the necessary underlying principles in the design and implementation of programming languages. Lectures use a variety of existing general-purpose programming languages from different programming paradigms: imperative, functional, logical, and object-oriented programming. (Prerequisite: CS206)",
+                "prerequisites": [
+                    "CS206"
+                ],
+                "cp": [
+                    1950,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "43",
+            "ref": null,
+            "props": {
+                "keyFromParent": 43,
+                "crs_id": "CS322",
+                "name": "형식언어 및 오토마타",
+                "description": "This course covers various types of finite automata, properties of language classes recognizable by automata, context-free grammar, pushdown automata, the Turing machine, and computability. (Prerequisite: CS204)",
+                "prerequisites": [
+                    "CS204"
+                ],
+                "cp": [
+                    1350,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "39",
+            "ref": null,
+            "props": {
+                "keyFromParent": 39,
+                "crs_id": "CS330",
+                "name": "운영체제 및 실험",
+                "description": "In this course, students learn about basic concepts of operating systems, with an emphasis on multi-tasking, and time-sharing. We choose one specific operating system, and study in detail its organization and functions. Students are also required to program a simple operating system, and to develop performance improvement techniques.",
+                "prerequisites": [],
+                "cp": [
+                    150,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "keyFromParent": 53,
+                "crs_id": "CS341",
+                "name": "전산망개론",
+                "description": "The goal of this course is to provide students with sound understanding of fundamental concepts and problems in networking and to train them in network programming. We begin with an introduction to key applications in today's Internet and then cover the reliable transfer protocol, TCP, and its congestion control; and the IP layer that covers the diversity in physical layer technologies and provides an end-to-end abstraction. Finally, we include key concepts in multimedia networking and security in communication networks. (Prerequisite: CS230)",
+                "prerequisites": [
+                    "CS230"
+                ],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "100",
+            "ref": null,
+            "props": {
+                "keyFromParent": 100,
+                "crs_id": "CS350",
+                "name": "소프트웨어 공학개론",
+                "description": "This course provides students with basic concepts in software engineering in order to develop high-quality software economically. Key concepts are life cycle models, development techniques, automation tools, project management skills, and software metrics.",
+                "prerequisites": [],
+                "cp": [
+                    2850,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "46",
+            "ref": null,
+            "props": {
+                "keyFromParent": 46,
+                "crs_id": "CS360",
+                "name": "데이타베이스 개론",
+                "description": "This is an introductory-level course to database systems. Students learn about various models, such as E-R models, relational models, and object-oriented models; query languages such as SQL, relational calculus, and QBE; and file and indexing systems for data storage. Advanced topics, such as data inheritance, database design issues using functional and multivalued dependencies, database security, and access rights, are also covered. (Prerequisite: CS206)",
+                "prerequisites": [
+                    "CS206"
+                ],
+                "cp": [
+                    2250,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "107",
+            "ref": null,
+            "props": {
+                "keyFromParent": 107,
+                "crs_id": "CS372",
+                "name": "파이썬을 통한 자연언어처리",
+                "description": "The course offers students a practical introduction to natural language processing with the Python programming language, helping the students to learn by example, write real programs, and grasp the value of being able to test an idea through implementation, with an extensive collection of linguistic algorithms and data structures in robust language processing software.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "106",
+            "ref": null,
+            "props": {
+                "keyFromParent": 106,
+                "crs_id": "CS376",
+                "name": "기계학습",
+                "description": "Machine learning, a sub-field of computer science, has been popular with the era of intelligent softwares and attracted huge attentions from computer vision, natural language processing, healthcare and finance communities to name a few. In this introductory course, we will cover various basic topics in the area including some recent supervised and unsupervised learning algorithms.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "132",
+            "ref": null,
+            "props": {
+                "keyFromParent": 132,
+                "crs_id": "CS380",
+                "name": "컴퓨터그래픽스 개론",
+                "description": "The goal of this course is for students to acquire theory and hands-on experience in computer graphics. Topics covered are: basic functions and principles of input and output devices used in computer graphics, architectures and features of graphics systems, basic geometric models and their generation algorithms, theories and practice behind 2D and 3D conversion. Basic ideas of hidden line and surface removal and color models are introduced.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "111",
+            "ref": null,
+            "props": {
+                "keyFromParent": 111,
+                "crs_id": "CS423",
+                "name": "확률적 프로그래밍",
+                "description": "The course aims at teaching students techniques from machine learning and programming languages that enable the design and implementation of a programming language for easily writing advanced probabilistic models from machine learning. We will cover a wide range of general-purpose algorithms for probabilistic inference, and discuss how these algorithms can be used to build programming languages and systems for developing models from machine learning. We will also study a mathematical foundation of those languages using tools from measure-theoretic probability theory.",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "65",
+            "ref": null,
+            "props": {
+                "keyFromParent": 65,
+                "crs_id": "CS443",
+                "name": "분산 알고리즘 및 시스템",
+                "description": "The goal of this course is to provide students with theoretical basis of distributed system design and hands-on experience with distributed systems. The course will start with introduction to functional programming, and then proceed to the MapReduce-like cloud computing framework. Then we expose students to distributed algorithms. Students learn how to program massively parallel jobs in a cloud computing environment and build theoretical underpinnings to expand MapReduce experience to a greater diversity of cloud computing applications. (Prerequisite: CS330, CS341)",
+                "prerequisites": [
+                    "CS330",
+                    "CS341"
+                ],
+                "cp": [
+                    150,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "109",
+            "ref": null,
+            "props": {
+                "keyFromParent": 109,
+                "crs_id": "CS454",
+                "name": "인공 지능 기반 소프트웨어 공학",
+                "description": "This course aims to introduce the operations and applications of metaheuristic and bio-inspired algorithms, including genetic algorithm, swarm optimization, and artificial immune system. By considering diverse problems ranging from combinatorial ones to performance improvement of complex software system, students are expected to learn how to apply computational intelligence to unseen problems.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "92",
+            "ref": null,
+            "props": {
+                "keyFromParent": 92,
+                "crs_id": "CS470",
+                "name": "인공지능개론",
+                "description": "This course introduces basic concepts and design techniques of artificial intelligence, and later deals with knowledge representation and inference techniques. Students are to design, implement, and train knowledge-based systems.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "93",
+            "ref": null,
+            "props": {
+                "keyFromParent": 93,
+                "crs_id": "CS474",
+                "name": "텍스트마이닝",
+                "description": "This course will introduce the essential techniques of text mining, understand as the process of deriving high-quality information from unstructured text. The techniques include: the process of analyzing and structuring the input text with natural language processing, deriving patterns with machine learning, and evaluating and interpreting the output. The course will cover some typical text mining tasks such as text categorization, text clustering, document summarization, and relation discovery between entities.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "108",
+            "ref": null,
+            "props": {
+                "keyFromParent": 108,
+                "crs_id": "CS484",
+                "name": "컴퓨터비전개론",
+                "description": "In this course, students will learn the basic principles and techniques of image processing. Expanding the foundations of image processing, they will learn 3-dimensional image processing from camera images and also techniques for deep learning-based image understanding, combined with artificial intelligence. To this end, the curriculum of this course consists of three parts: (1) the basic principles and understanding of image processing, (2) the basic principles and understanding of 3D image processing, and (3) the basic principles and understanding of image processing using artificial intelligence. Students learn and experience basic principles for computer vision and various image processing applications based on the deep understanding of computer vision.",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "135",
+            "ref": null,
+            "props": {
+                "keyFromParent": 135,
+                "crs_id": "CS500",
+                "name": "알고리즘 설계와 해석",
+                "description": "This course introduces basic techniques for the design and analysis of computer algorithms, such as divide-and-conquer, the greedy method, and dynamic programming. Students learn to reason algorithmically about problems arising in computer applications, and experience the practical aspects of implementing an abstract algorithm.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "113",
+            "ref": null,
+            "props": {
+                "keyFromParent": 113,
+                "crs_id": "CS504",
+                "name": "계산기하학",
+                "description": "Computational geometry studies algorithms and data structures for processing and storing geometric objects. This courses discusses algorithm design techniques such as plane sweep and geometric divide & conquer; data structures such as point location structures, interval trees, segment trees, and BSP trees; and geometric structures such as arrangements, triangulations, Voronoi diagrams, and Delaunay triangulations.",
+                "prerequisites": [],
+                "cp": [
+                    2850,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "41",
+            "ref": null,
+            "props": {
+                "keyFromParent": 41,
+                "crs_id": "CS510",
+                "name": "컴퓨터 구조",
+                "description": "This goal of this course is to provide the student with an understanding of (i) the architectural aspect of the performance issues, and (ii) investigation of the full spectrum of design alternatives and their trade-offs.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "138",
+            "ref": null,
+            "props": {
+                "keyFromParent": 138,
+                "crs_id": "CS520",
+                "name": "프로그래밍 언어 이론",
+                "description": "This course reviews design principles and implementation techniques of various programming languages. This course also introduces a wide spectrum of programming paradigms such as functional programming, logic programming, and object-oriented programming.",
+                "prerequisites": [],
+                "cp": [
+                    2550,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "42",
+            "ref": null,
+            "props": {
+                "keyFromParent": 42,
+                "crs_id": "CS530",
+                "name": "운영체제",
+                "description": "The main focus of this course is to understand the concurrency features of modern operating systems. Concurrent programming is dealt with in detail to simulate various parts of an OS. Other topics that are required to understand the process-oriented OS structure are also discussed.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "123",
+            "ref": null,
+            "props": {
+                "keyFromParent": 123,
+                "crs_id": "CS540",
+                "name": "네트워크아키텍춰",
+                "description": "The goal of this course is to provide students with an understanding on the following topics. (1) the concept of layered architectures, (2) the design and implementation of communication protocols, (3) the multimedia communication protocol, and (4) the design of high-speed protocols. The course also covers many aspects of protocol engineering: design, implementation and test of communication protocols.",
+                "prerequisites": [],
+                "cp": [
+                    1950,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "124",
+            "ref": null,
+            "props": {
+                "keyFromParent": 124,
+                "crs_id": "CS542",
+                "name": "인터넷 시스템 기술",
+                "description": "This course reviews the state-of-the-art of today's Internet system as well as service architectures, describes the challenges facing them, and discusses emerging approaches. In particular, the course covers issues around Internet traffic characterization; protocols; server architectures and performance; mobile and pervasive services and systems, virtualization; content distribution; peer-to-peer architecture, quality of services (QoS); and architectural alternatives for applications and services. The goal of the course is to gain understanding of the current research issues and a vision of the next generation Internet system and service architecture.",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "67",
+            "ref": null,
+            "props": {
+                "keyFromParent": 67,
+                "crs_id": "CS543",
+                "name": "분산시스템",
+                "description": "This course provides theoretical knowledge and hands-on experience with distributed systems' design and implementation. The course will focus on the principles underlying modern distributed systems such as networking, naming, security, distributed sychronization, concurrency, fault tolerance, etc. along with case studies. Emphasis will be on evaluating and critiquing approaches and ideas. (Prerequisite: CS510, CS530)",
+                "prerequisites": [
+                    "CS510",
+                    "CS530"
+                ],
+                "cp": [
+                    750,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "137",
+            "ref": null,
+            "props": {
+                "keyFromParent": 137,
+                "crs_id": "CS550",
+                "name": "소프트웨어 공학",
+                "description": "This course covers fundamental concepts required in developing reliable softwares in a cost-effective manner.",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "104",
+            "ref": null,
+            "props": {
+                "keyFromParent": 104,
+                "crs_id": "CS552",
+                "name": "소프트웨어 시스템 모델링",
+                "description": "For long time, computer scientists have investigated the problem of automating software development from a specification to its program. So far the efforts were not fully successful but much of the results can be fruitfully applied to development of small programs and critical small portions of large programs. In this course, we study the important results of such efforts and, for that, we learn how to model software systems with formal description techniques, how to model software systems such that the various properties expected of the software systems are verifiable and how to verify various properties of software systems though the models.",
+                "prerequisites": [],
+                "cp": [
+                    150,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "136",
+            "ref": null,
+            "props": {
+                "keyFromParent": 136,
+                "crs_id": "CS554",
+                "name": "소프트웨어 및 시스템 설계",
+                "description": "Development of software and systems requires to understand engineering design paradigms and methods for bridging the gap between a problem to be solved and a working system. This course teaches how to understand problems and to design, architect, and evaluate software solutions.",
+                "prerequisites": [],
+                "cp": [
+                    1950,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "125",
+            "ref": null,
+            "props": {
+                "keyFromParent": 125,
+                "crs_id": "CS560",
+                "name": "데이타베이스 시스템",
+                "description": "This course addresses current technologies of various aspects of database systems. The main objective of this course is to study the design and implementation issues of high performance and high functionality database systems. Through this course, the students will have concrete concepts on database systems and will have in-depth knowledge on most issues of advanced database researches.",
+                "prerequisites": [],
+                "cp": [
+                    2550,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "133",
+            "ref": null,
+            "props": {
+                "keyFromParent": 133,
+                "crs_id": "CS562",
+                "name": "데이터베이스 설계",
+                "description": "The goal of this course is to establish a consistent framework for database design. Practical database design methodology, major principles, tools and analysis techniques for various phases of database design process are studied.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "105",
+            "ref": null,
+            "props": {
+                "keyFromParent": 105,
+                "crs_id": "CS564",
+                "name": "R을 활용한 빅데이터 분석 기초",
+                "description": "The ability to handle big data and statistically analyse them is crucial for data scientists. This course covers social data basics and tools to handle, analyze, and visualize such data via utilizing key analysis packages in R.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "110",
+            "ref": null,
+            "props": {
+                "keyFromParent": 110,
+                "crs_id": "CS570",
+                "name": "인공지능 및 기계학습",
+                "description": "Classical artificial intelligence algorithms and introduction to machine learning based on probability and statistics.",
+                "prerequisites": [],
+                "cp": [
+                    1950,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "95",
+            "ref": null,
+            "props": {
+                "keyFromParent": 95,
+                "crs_id": "CS572",
+                "name": "지능형 로보틱스",
+                "description": "The goal of this course is to provide students with state-of-the-art technologies in intelligent robotics. Major topics include sensing, path planning, and navigation, as well as artificial intelligence and neural networks for robotics.",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "112",
+            "ref": null,
+            "props": {
+                "keyFromParent": 112,
+                "crs_id": "CS574",
+                "name": "자연언어 처리I",
+                "description": "As a typical application of symbolic AI machine translation (M.T) addresses the major issues involving computational linguistics, rules base, and more fundamentally knowledge representation and inference. In this regard, the goal of the course is to provide students with first-hand experience with a real AI problem. The topics include application of M.T., basic problems in M.T., and classical approaches to the problems.",
+                "prerequisites": [],
+                "cp": [
+                    2550,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "keyFromParent": 94,
+                "crs_id": "CS576",
+                "name": "컴퓨터 비젼",
+                "description": "The goal of this course is to provide students with theory and application of computer vision. Major topics include digital image fundamentals, binary vision, gray-level vision, 3-D vision, motion detection and analysis, computer vision system hardware and architecture, CAD-based vision, knowledge-based vision, neural-network-based vision.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "134",
+            "ref": null,
+            "props": {
+                "keyFromParent": 134,
+                "crs_id": "CS579",
+                "name": "계산언어학",
+                "description": "This course focuses on universal models for languages, especially English and Korean. For computational study, issues on knowledge representation, generalized explanation on linguistic phenomena are discussed. When these models are applied to natural language processing, properties needed for computational models and their implementation methodologies are studied.",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "131",
+            "ref": null,
+            "props": {
+                "keyFromParent": 131,
+                "crs_id": "CS580",
+                "name": "컴퓨터그래픽스",
+                "description": "We will study fundamentals of computer graphics and their applications to games, movies, and other related areas. In particular, we will study different branches, fundamentals, rendering, animation, and modeling, of computer graphics. Also, CS580 can be taken by students who have not taken any computer graphics related courses in their undergraduate courses.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    1890
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "122",
+            "ref": null,
+            "props": {
+                "keyFromParent": 122,
+                "crs_id": "CS590",
+                "name": "시멘틱웹",
+                "description": "\"Semantic Web\" allows machines to process and integrate Web resources intelligently. Beyond enabling quick and accurate web search, this technology may also allow the development of intelligent internet agents and facilitate communication between a multitude of heterogeneous web-accessible devices.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "98",
+            "ref": null,
+            "props": {
+                "keyFromParent": 98,
+                "crs_id": "CS671",
+                "name": "고급 기계학습",
+                "description": "This course will cover advanced and state-of-the-art machine learning such as graphical models, Bayesian inference, and nonparametric models.",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "121",
+            "ref": null,
+            "props": {
+                "keyFromParent": 121,
+                "crs_id": "CS672",
+                "name": "강화학습",
+                "description": "This course covers reinforcement learning, which is one of the core research areas in machine learning and artificial intelligence. Reinforcement learning has various applications, such as robot navigation/control, intelligent user interfaces, and network routing. Students will be able to understand the fundamental concepts, and capture the recent research trends.",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "keyFromParent": 96,
+                "crs_id": "CS674",
+                "name": "자연언어 처리II",
+                "description": "The goal of this course is to provide students with current topics in natural language processing (NLP). Students are expected to get acquainted with various leading-edge ideas and techniques in NLP.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "119",
+            "ref": null,
+            "props": {
+                "keyFromParent": 119,
+                "crs_id": "CS676",
+                "name": "패턴인식",
+                "description": "Through this course, students are expected to acquire general ideas of pattern recognition and its application. Three fields (character, speech and image processing) will be studied in which pattern recognition techniques can be successfully applied.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "99",
+            "ref": null,
+            "props": {
+                "keyFromParent": 99,
+                "crs_id": "CS770",
+                "name": "컴퓨터비젼 특강",
+                "description": "This course consists of lectures about major topics related to computer vision, seminars, and projects. Recent major topics are motion detection and analysis, parallel computer vision systems, CAD-based 3-D vision, knowledge-based vision, neural network-based vision, etc.",
+                "prerequisites": [],
+                "cp": [
+                    2550,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "91",
+            "ref": null,
+            "props": {
+                "keyFromParent": 91,
+                "crs_id": "CS772",
+                "name": "자연언어 처리 특강",
+                "description": "This course covers the theory of natural language processing and recent developments in practice. Students study the theory of language, parsing, situational semantics, belief models etc. They practice by designing and developing utilities and systems.",
+                "prerequisites": [],
+                "cp": [
+                    150,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "120",
+            "ref": null,
+            "props": {
+                "keyFromParent": 120,
+                "crs_id": "CS774",
+                "name": "인공지능 특강",
+                "description": "The goal of this course is to provide students with recent theory of AI and its application. It covers information representation. heuristic search, logic and logic language, robot planning, AI languages, expert system, distributed AI system, uncertainty problem and so on.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "118",
+            "ref": null,
+            "props": {
+                "keyFromParent": 118,
+                "crs_id": "CS776",
+                "name": "인지과학 특강",
+                "description": "This course defines humans' cognitive ability, and then studies a variety of methodologies by which cognitive psychology, artificial intelligence, computer science, linguistics, and philosophy apply this ability to machines. This course focuses on 'neural networks' as a computational model of the brain and as a method for approaching fields that computers cannot solve efficiently, such as pattern recognition, voice recognition and natural language processing.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    1710
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        }
+    ],
+    "map": {
+        "4": "CS109",
+        "5": "CS101",
+        "6": "CS220",
+        "7": "CC510",
+        "18": "CS204",
+        "19": "CS206",
+        "39": "CS330",
+        "40": "CS230",
+        "41": "CS510",
+        "42": "CS530",
+        "43": "CS322",
+        "44": "CS300",
+        "45": "CS320",
+        "46": "CS360",
+        "47": "CS211",
+        "53": "CS341",
+        "60": "CS310",
+        "61": "CS311",
+        "65": "CS443",
+        "67": "CS543",
+        "91": "CS772",
+        "92": "CS470",
+        "93": "CS474",
+        "94": "CS576",
+        "95": "CS572",
+        "96": "CS674",
+        "97": "CS270",
+        "98": "CS671",
+        "99": "CS770",
+        "100": "CS350",
+        "104": "CS552",
+        "105": "CS564",
+        "106": "CS376",
+        "107": "CS372",
+        "108": "CS484",
+        "109": "CS454",
+        "110": "CS570",
+        "111": "CS423",
+        "112": "CS574",
+        "113": "CS504",
+        "118": "CS776",
+        "119": "CS676",
+        "120": "CS774",
+        "121": "CS672",
+        "122": "CS590",
+        "123": "CS540",
+        "124": "CS542",
+        "125": "CS560",
+        "131": "CS580",
+        "132": "CS380",
+        "133": "CS562",
+        "134": "CS579",
+        "135": "CS500",
+        "136": "CS554",
+        "137": "CS550",
+        "138": "CS520"
+    }
+}

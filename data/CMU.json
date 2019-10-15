@@ -787,6 +787,78 @@
     ],
     "crsList": [
         {
+            "key": "1",
+            "ref": null,
+            "props": {
+                "keyFromParent": 189,
+                "crs_id": "15112",
+                "name": "Fundamentals of Programming and Computer Science",
+                "description": "A technical introduction to the fundamentals of programming with an emphasis on producing clear, robust, and reasonably efficient code using top-down design, informal analysis, and effective testing and debugging. Starting from first principles, we will cover a large subset of the Python programming language, including its standard libraries and programming paradigms. We will also target numerous deployment scenarios, including standalone programs, shell scripts, and web-based applications. This course assumes no prior programming experience. Even so, it is a fast-paced and rigorous preparation for 15-122. Students seeking a more gentle introduction to computer science should consider first taking 15-110. NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "2",
+            "ref": null,
+            "props": {
+                "keyFromParent": 189,
+                "crs_id": "21127",
+                "name": "Concepts of Mathematics",
+                "description": "This course introduces the basic concepts, ideas and tools involved in doing mathematics. As such, its main focus is on presenting informal logic, and the methods of mathematical proof. These subjects are closely related to the application of mathematics in many areas, particularly computer science. Topics discussed include a basic introduction to elementary number theory, induction, the algebra of sets, relations, equivalence relations, congruences, partitions, and functions, including injections, surjections, and bijections. A basic introduction to the real numbers, rational and irrational numbers. Supremum and infimum of a set. 3 hrs. lec., 2 hrs. rec.",
+                "prerequisites": [],
+                "cp": [
+                    750,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "3",
+            "ref": null,
+            "props": {
+                "keyFromParent": 189,
+                "crs_id": "21128",
+                "name": "Mathematical Concepts and Proofs",
+                "description": "This course is intended for MCS first-semester students who are interested in pursuing a major in mathematical sciences. The course introduces the basic concepts, ideas and tools involved in doing mathematics. As such, its main focus in on presenting informal logic, and the methods of mathematical proof. These subjects are closely related to the application of mathematics in many areas, particularly computer science. Topics discussed include a basic introduction to elementary number theory, induction, the algebra of sets, relations, equivalence relations, congruences, partitions, and functions, including injections, surjections, and bijections. A basic introduction to the real numbers, rational and irrational numbers. Supremum and infimum of a set. This course is a superset of 21-127, with additional out of class time devoted to proofs and additional topics in math. 3 hrs. lec., 2 hrs. rec.",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
+            "key": "7",
+            "ref": null,
+            "props": {
+                "keyFromParent": 189,
+                "crs_id": "21325",
+                "name": "Probability",
+                "description": "This course focuses on the understanding of basic concepts in probability theory and illustrates how these concepts can be applied to develop and analyze a variety of models arising in computational biology, finance, engineering and computer science. The firm grounding in the fundamentals is aimed at providing students the flexibility to build and analyze models from diverse applications as well as preparing the interested student for advanced work in these areas. The course will cover core concepts such as probability spaces, random variables, random vectors, multivariate densities, distributions, expectations, sampling and simulation; independence, conditioning, conditional distributions and expectations; limit theorems such as the strong law of large numbers and the central limit theorem; as well as additional topics such as large deviations, random walks and Markov chains, as time permits. 3 hrs. lec.",
+                "prerequisites": [],
+                "cp": [
+                    2250,
+                    90
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null
+        },
+        {
             "key": "189",
             "ref": null,
             "props": {
@@ -814,8 +886,6 @@
                 "description": "Why are things so hard to use these days? Why doesnt this thing I just bought work? Why is this web site so hard to use? These are frustrations that we have all faced from systems not designed with people in mind. The question this course will focus on is: how can we design human-centered systems that people find useful and usable? This course is an introduction to designing, prototyping, and evaluating user interfaces. If you take only one course in Human-Computer Interaction, this is the course for you. This class is open to all undergrads and grad students, with either technical or non-technical backgrounds. We will cover theory as well as practical application of ideas from Human-Computer Interaction. Course work includes lectures, class discussion, homework, class presentations, and group project.",
                 "prerequisites": [
                     "15112",
-                    "15110",
-                    "15104",
                     "15122"
                 ],
                 "cp": [
@@ -862,10 +932,7 @@
                     "21128",
                     "15151",
                     "21325",
-                    "36217",
-                    "36218",
-                    "36225",
-                    "15359"
+                    "36218"
                 ],
                 "cp": [
                     1950,
@@ -885,9 +952,7 @@
                 "name": "Deep Reinforcement Learning & Control",
                 "description": "This course will cover latest advances in Reinforcement Learning and Imitation learning. This is a fast developing research field and an official textbook is available only for about one forth of the course material. The rest will be taught from recent research papers. This course brings together many disciplines of Artificial Intelligence to show how to develop intelligent agent that can learn to sense the world and learn to act imitating others or maximizing sparse rewards Particular focus will be given in incorporating visual sensory input and learning suitable visual state representations.",
                 "prerequisites": [
-                    "10301",
                     "10315",
-                    "10401",
                     "10601",
                     "10701",
                     "10715"
@@ -936,7 +1001,6 @@
                 "prerequisites": [
                     "10301",
                     "10315",
-                    "10401",
                     "10601",
                     "10701",
                     "10715"
@@ -963,7 +1027,6 @@
                     "15210",
                     "17214",
                     "10315",
-                    "10401",
                     "10601",
                     "10701",
                     "10715"
@@ -988,7 +1051,6 @@
                 "prerequisites": [
                     "10301",
                     "10315",
-                    "10401",
                     "10601",
                     "10701",
                     "10715"
@@ -1011,7 +1073,6 @@
                 "name": "Topics in Deep Learning",
                 "description": "Building intelligent machines that are capable of extracting meaningful representations from high-dimensional data lies at the core of solving many AI related tasks. In the past few years, researchers across many different communities, from applied statistics to engineering, computer science and neuroscience, have developed deep (hierarchical) models -- models that are composed of several layers of nonlinear processing. An important property of these models is that they can learn useful representations by re-using and combining intermediate concepts, allowing these models to be successfully applied in a wide variety of domains, including visual object recognition, information retrieval, natural language processing, and speech perception. This is an advanced graduate course, designed for Masters and Ph.D. level students, and will assume a reasonable degree of mathematical maturity. The goal of this course is to introduce students to the recent and exciting developments of various deep learning methods. Some topics to be covered include: restricted Boltzmann machines (RBMs) and their multi-layer extensions Deep Belief Networks and Deep Boltzmann machines; sparse coding, autoencoders, variational autoencoders, convolutional neural networks, recurrent neural networks, generative adversarial networks, and attention-based models with applications in vision, NLP, and multimodal learning. We will also address mathematical issues, focusing on efficient large-scale optimization methods for inference and learning, as well as training density models with intractable partition functions. Prerequisite: ML: 10-701 or 10-715, and strong programming skills.",
                 "prerequisites": [
-                    "10401",
                     "10601",
                     "10701",
                     "10715"
@@ -1060,9 +1121,6 @@
                     "21127",
                     "15151",
                     "15259",
-                    "15359",
-                    "36225",
-                    "36217",
                     "21325",
                     "36218"
                 ],
@@ -1145,7 +1203,6 @@
                 "prerequisites": [
                     "10301",
                     "10315",
-                    "10401",
                     "10601",
                     "10701",
                     "10715"

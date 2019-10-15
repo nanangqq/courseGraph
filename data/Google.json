@@ -1,1 +1,1148 @@
-{"view_size":[3900,2700],"cps":[[150,90],[450,90],[750,90],[1050,90],[1350,90],[1650,90],[1950,90],[2250,90],[2550,90],[2850,90],[3150,90],[3450,90],[3750,90],[150,270],[450,270],[750,270],[1050,270],[1350,270],[1650,270],[1950,270],[2250,270],[2550,270],[2850,270],[3150,270],[3450,270],[3750,270],[150,450],[450,450],[750,450],[1050,450],[1350,450],[1650,450],[1950,450],[2250,450],[2550,450],[2850,450],[3150,450],[3450,450],[3750,450],[150,630],[450,630],[750,630],[1050,630],[1350,630],[1650,630],[1950,630],[2250,630],[2550,630],[2850,630],[3150,630],[3450,630],[3750,630],[150,810],[450,810],[750,810],[1050,810],[1350,810],[1650,810],[1950,810],[2250,810],[2550,810],[2850,810],[3150,810],[3450,810],[3750,810],[150,990],[450,990],[750,990],[1050,990],[1350,990],[1650,990],[1950,990],[2250,990],[2550,990],[2850,990],[3150,990],[3450,990],[3750,990],[150,1170],[450,1170],[750,1170],[1050,1170],[1350,1170],[1650,1170],[1950,1170],[2250,1170],[2550,1170],[2850,1170],[3150,1170],[3450,1170],[3750,1170],[150,1350],[450,1350],[750,1350],[1050,1350],[1350,1350],[1650,1350],[1950,1350],[2250,1350],[2550,1350],[2850,1350],[3150,1350],[3450,1350],[3750,1350],[150,1530],[450,1530],[750,1530],[1050,1530],[1350,1530],[1650,1530],[1950,1530],[2250,1530],[2550,1530],[2850,1530],[3150,1530],[3450,1530],[3750,1530],[150,1710],[450,1710],[750,1710],[1050,1710],[1350,1710],[1650,1710],[1950,1710],[2250,1710],[2550,1710],[2850,1710],[3150,1710],[3450,1710],[3750,1710],[150,1890],[450,1890],[750,1890],[1050,1890],[1350,1890],[1650,1890],[1950,1890],[2250,1890],[2550,1890],[2850,1890],[3150,1890],[3450,1890],[3750,1890],[150,2070],[450,2070],[750,2070],[1050,2070],[1350,2070],[1650,2070],[1950,2070],[2250,2070],[2550,2070],[2850,2070],[3150,2070],[3450,2070],[3750,2070],[150,2250],[450,2250],[750,2250],[1050,2250],[1350,2250],[1650,2250],[1950,2250],[2250,2250],[2550,2250],[2850,2250],[3150,2250],[3450,2250],[3750,2250],[150,2430],[450,2430],[750,2430],[1050,2430],[1350,2430],[1650,2430],[1950,2430],[2250,2430],[2550,2430],[2850,2430],[3150,2430],[3450,2430],[3750,2430],[150,2610],[450,2610],[750,2610],[1050,2610],[1350,2610],[1650,2610],[1950,2610],[2250,2610],[2550,2610],[2850,2610],[3150,2610],[3450,2610],[3750,2610]],"crsList":[{"key":"14","ref":null,"props":{"keyFromParent":14,"crs_id":"gg 1","name":"AI Adventures: 7 Steps of Machine Learning","description":"우리는 주어진 술이 맥주인지 와인인지 어떻게 구별할 수 있을까요? 물론, 머신 러닝을 통해서 가능합니다! 이번 클라우드 AI 어드벤쳐 에피소드에서는 유펭(Yufeng)이 응용 머신 러닝의 7가지 단계를 소개합니다.","prerequisites":[],"cp":[450,270],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"40","ref":null,"props":{"keyFromParent":40,"crs_id":"gg 2","name":"AI for Social Good Guide","description":"This guide helps nonprofits and social enterprises learn how to apply artificial intelligence and machine learning to social, humanitarian and environmental challenges.","prerequisites":["gg 1"],"cp":[450,630],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"53","ref":null,"props":{"keyFromParent":53,"crs_id":"gg 3","name":"Introduction to Machine Learning Problem Framing","description":"Welcome to Introduction to Machine Learning Problem Framing! This course helps you frame machine learning (ML) problems. This course does not cover how to implement ML or work with data.","prerequisites":["gg 2"],"cp":[450,810],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"66","ref":null,"props":{"keyFromParent":66,"crs_id":"gg 4","name":"Responsible AI practices","description":"we share some of our current work and recommended practices. As with all of our research, we will take our latest findings into account, work to incorporate them as appropriate, and adapt as we learn more over time.","prerequisites":["gg 3"],"cp":[450,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"16","ref":null,"props":{"keyFromParent":16,"crs_id":"gg 5","name":"Rules of Machine Learning","description":"본 문서의 목적은 머신러닝에 관한 기초 지식을 갖춘 독자들이 Google의 머신러닝 관련 권장사항을 참고할 수 있도록 돕는 것으로, Google C++ 스타일 가이드 등의 인기 있는 실무 프로그래밍 가이드처럼 머신러닝에 관한 스타일을 제시합니다. 머신러닝 수업을 들은 적이 있거나 머신러닝 모델을 개발하거나 다뤄본 경험이 있다면 이 문서를 읽는 데 필요한 배경 지식을 갖춘 것입니다.","prerequisites":["gg4","gg3"],"cp":[1050,270],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"42","ref":null,"props":{"keyFromParent":42,"crs_id":"gg 6","name":"Deep Playground","description":"Tinker With a Neural Network Right Here in Your Browser. Don’t Worry, You Can’t Break It. We Promise.","prerequisites":["gg 5"],"cp":[1050,630],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"55","ref":null,"props":{"keyFromParent":55,"crs_id":"gg 7","name":"Kaggle Learn","description":"Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills.","prerequisites":["gg 6"],"cp":[1050,810],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"18","ref":null,"props":{"keyFromParent":18,"crs_id":"gg 8","name":"Machine Learning Crash Course with TensorFlow APIs","description":"단기집중과정을 통해 머신러닝의 기본 개념을 학습 및 적용하고, 컴패니언 Kaggle 대회에 참가하여 실전 경험을 쌓고, Google AI로 배우기를 방문하여 전체 학습 리소스 라이브러리를 살펴보세요.","prerequisites":[],"cp":[1650,270],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"30","ref":null,"props":{"keyFromParent":30,"crs_id":"gg 9","name":"Machine Learning Recipes with Josh Gordon: Hello World","description":"파이썬에 여섯 줄만 쓰면 여러분의 첫 번째 머신 러닝 프로그램이 되는 겁니다! 이번 강의에서는 머신 러닝이란 무엇인지 그것이 왜 중요한지 간략하게 소개해 드리겠습니다. 그리고 지도학습(예시로부터 분류기를 생성하는 기법)에 대한 방법도 다뤄보고 코딩해 보겠습니다.","prerequisites":[],"cp":[1350,450],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"44","ref":null,"props":{"keyFromParent":44,"crs_id":"gg 10","name":"Data Preparation and Feature Engineering for Machine Learning","description":"Machine learning helps us find patterns in data—patterns we then use to make predictions about new data points. To get those predictions right, we must construct the data set and transform the data correctly. This course covers these two key steps. We'll also see how training/serving considerations play into these steps.","prerequisites":["gg 8"],"cp":[1650,630],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"83","ref":null,"props":{"keyFromParent":83,"crs_id":"gg 11","name":"Data Engineering on Google Cloud Platform Specialization","description":"Google Cloud Platform를 통한 데이터 공학. Launch your career in Data Engineering. Deliver business value with big data and machine learning.","prerequisites":[],"cp":[1650,1170],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"70","ref":null,"props":{"keyFromParent":70,"crs_id":"gg 12","name":"TensorFlow Workshops","description":"Jupyter notebooks that introduce developers to TensorFlow.","prerequisites":[],"cp":[1650,990],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"109","ref":null,"props":{"keyFromParent":109,"crs_id":"gg 13","name":"Serverless Machine Learning with TensorFlow on Google Cloud Platform","description":"This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, participants will learn machine learning (ML) and TensorFlow concepts, and develop hands-on skills in developing, evaluating, and productionizing ML models.","prerequisites":[],"cp":[1650,1530],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"96","ref":null,"props":{"keyFromParent":96,"crs_id":"gg 14","name":"Android and TensorFlow: Artistic Style Transfer Codelab","description":"In this codelab, you're going to take an existing Android app and add a TensorFlow model to generate stylised images using the device's camera. You'll build the following skills:","prerequisites":[],"cp":[1650,1350],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"92","ref":null,"props":{"keyFromParent":92,"crs_id":"gg 15","name":"Intro to Fairness Machine Learning module","description":"머신러닝 모델을 책임감 있게 평가하려면 단순한 손실 통계를 계산하는 것 이상의 활동이 필요합니다. 모델을 제품에 투입하기 전에 학습 데이터를 점검하고 예측에 편향성이 없는지 평가해야 합니다. 이 모듈에서는 데이터 학습에서 나타날 수 있는 다양한 유형의 사람이 갖는 편향을 살펴봅니다. 그런 다음 편향을 식별하고 그 영향을 평가할 수 있는 전략을 제시합니다.","prerequisites":[],"cp":[450,1350],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"81","ref":null,"props":{"keyFromParent":81,"crs_id":"gg 16","name":"AI Experimets","description":"AI Experiments is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more.","prerequisites":["MATH230"],"cp":[1050,1170],"offset":80,"display":"none"},"_owner":null,"_store":{}},{"key":"94","ref":null,"props":{"keyFromParent":94,"crs_id":"gg 17","name":"Seedbank - Machine Learning Discovery","description":"Collection of Interactive Machine Learning Examples","prerequisites":[],"cp":[1050,1350],"offset":80,"display":"none"},"_owner":null,"_store":{}}],"map":{"14":"gg 1","16":"gg 5","18":"gg 8","30":"gg 9","40":"gg 2","42":"gg 6","44":"gg 10","53":"gg 3","55":"gg 7","66":"gg 4","70":"gg 12","81":"gg 16","83":"gg 11","92":"gg 15","94":"gg 17","96":"gg 14","109":"gg 13"}}
+{
+    "view_size": [
+        3900,
+        2700
+    ],
+    "cps": [
+        [
+            150,
+            90
+        ],
+        [
+            450,
+            90
+        ],
+        [
+            750,
+            90
+        ],
+        [
+            1050,
+            90
+        ],
+        [
+            1350,
+            90
+        ],
+        [
+            1650,
+            90
+        ],
+        [
+            1950,
+            90
+        ],
+        [
+            2250,
+            90
+        ],
+        [
+            2550,
+            90
+        ],
+        [
+            2850,
+            90
+        ],
+        [
+            3150,
+            90
+        ],
+        [
+            3450,
+            90
+        ],
+        [
+            3750,
+            90
+        ],
+        [
+            150,
+            270
+        ],
+        [
+            450,
+            270
+        ],
+        [
+            750,
+            270
+        ],
+        [
+            1050,
+            270
+        ],
+        [
+            1350,
+            270
+        ],
+        [
+            1650,
+            270
+        ],
+        [
+            1950,
+            270
+        ],
+        [
+            2250,
+            270
+        ],
+        [
+            2550,
+            270
+        ],
+        [
+            2850,
+            270
+        ],
+        [
+            3150,
+            270
+        ],
+        [
+            3450,
+            270
+        ],
+        [
+            3750,
+            270
+        ],
+        [
+            150,
+            450
+        ],
+        [
+            450,
+            450
+        ],
+        [
+            750,
+            450
+        ],
+        [
+            1050,
+            450
+        ],
+        [
+            1350,
+            450
+        ],
+        [
+            1650,
+            450
+        ],
+        [
+            1950,
+            450
+        ],
+        [
+            2250,
+            450
+        ],
+        [
+            2550,
+            450
+        ],
+        [
+            2850,
+            450
+        ],
+        [
+            3150,
+            450
+        ],
+        [
+            3450,
+            450
+        ],
+        [
+            3750,
+            450
+        ],
+        [
+            150,
+            630
+        ],
+        [
+            450,
+            630
+        ],
+        [
+            750,
+            630
+        ],
+        [
+            1050,
+            630
+        ],
+        [
+            1350,
+            630
+        ],
+        [
+            1650,
+            630
+        ],
+        [
+            1950,
+            630
+        ],
+        [
+            2250,
+            630
+        ],
+        [
+            2550,
+            630
+        ],
+        [
+            2850,
+            630
+        ],
+        [
+            3150,
+            630
+        ],
+        [
+            3450,
+            630
+        ],
+        [
+            3750,
+            630
+        ],
+        [
+            150,
+            810
+        ],
+        [
+            450,
+            810
+        ],
+        [
+            750,
+            810
+        ],
+        [
+            1050,
+            810
+        ],
+        [
+            1350,
+            810
+        ],
+        [
+            1650,
+            810
+        ],
+        [
+            1950,
+            810
+        ],
+        [
+            2250,
+            810
+        ],
+        [
+            2550,
+            810
+        ],
+        [
+            2850,
+            810
+        ],
+        [
+            3150,
+            810
+        ],
+        [
+            3450,
+            810
+        ],
+        [
+            3750,
+            810
+        ],
+        [
+            150,
+            990
+        ],
+        [
+            450,
+            990
+        ],
+        [
+            750,
+            990
+        ],
+        [
+            1050,
+            990
+        ],
+        [
+            1350,
+            990
+        ],
+        [
+            1650,
+            990
+        ],
+        [
+            1950,
+            990
+        ],
+        [
+            2250,
+            990
+        ],
+        [
+            2550,
+            990
+        ],
+        [
+            2850,
+            990
+        ],
+        [
+            3150,
+            990
+        ],
+        [
+            3450,
+            990
+        ],
+        [
+            3750,
+            990
+        ],
+        [
+            150,
+            1170
+        ],
+        [
+            450,
+            1170
+        ],
+        [
+            750,
+            1170
+        ],
+        [
+            1050,
+            1170
+        ],
+        [
+            1350,
+            1170
+        ],
+        [
+            1650,
+            1170
+        ],
+        [
+            1950,
+            1170
+        ],
+        [
+            2250,
+            1170
+        ],
+        [
+            2550,
+            1170
+        ],
+        [
+            2850,
+            1170
+        ],
+        [
+            3150,
+            1170
+        ],
+        [
+            3450,
+            1170
+        ],
+        [
+            3750,
+            1170
+        ],
+        [
+            150,
+            1350
+        ],
+        [
+            450,
+            1350
+        ],
+        [
+            750,
+            1350
+        ],
+        [
+            1050,
+            1350
+        ],
+        [
+            1350,
+            1350
+        ],
+        [
+            1650,
+            1350
+        ],
+        [
+            1950,
+            1350
+        ],
+        [
+            2250,
+            1350
+        ],
+        [
+            2550,
+            1350
+        ],
+        [
+            2850,
+            1350
+        ],
+        [
+            3150,
+            1350
+        ],
+        [
+            3450,
+            1350
+        ],
+        [
+            3750,
+            1350
+        ],
+        [
+            150,
+            1530
+        ],
+        [
+            450,
+            1530
+        ],
+        [
+            750,
+            1530
+        ],
+        [
+            1050,
+            1530
+        ],
+        [
+            1350,
+            1530
+        ],
+        [
+            1650,
+            1530
+        ],
+        [
+            1950,
+            1530
+        ],
+        [
+            2250,
+            1530
+        ],
+        [
+            2550,
+            1530
+        ],
+        [
+            2850,
+            1530
+        ],
+        [
+            3150,
+            1530
+        ],
+        [
+            3450,
+            1530
+        ],
+        [
+            3750,
+            1530
+        ],
+        [
+            150,
+            1710
+        ],
+        [
+            450,
+            1710
+        ],
+        [
+            750,
+            1710
+        ],
+        [
+            1050,
+            1710
+        ],
+        [
+            1350,
+            1710
+        ],
+        [
+            1650,
+            1710
+        ],
+        [
+            1950,
+            1710
+        ],
+        [
+            2250,
+            1710
+        ],
+        [
+            2550,
+            1710
+        ],
+        [
+            2850,
+            1710
+        ],
+        [
+            3150,
+            1710
+        ],
+        [
+            3450,
+            1710
+        ],
+        [
+            3750,
+            1710
+        ],
+        [
+            150,
+            1890
+        ],
+        [
+            450,
+            1890
+        ],
+        [
+            750,
+            1890
+        ],
+        [
+            1050,
+            1890
+        ],
+        [
+            1350,
+            1890
+        ],
+        [
+            1650,
+            1890
+        ],
+        [
+            1950,
+            1890
+        ],
+        [
+            2250,
+            1890
+        ],
+        [
+            2550,
+            1890
+        ],
+        [
+            2850,
+            1890
+        ],
+        [
+            3150,
+            1890
+        ],
+        [
+            3450,
+            1890
+        ],
+        [
+            3750,
+            1890
+        ],
+        [
+            150,
+            2070
+        ],
+        [
+            450,
+            2070
+        ],
+        [
+            750,
+            2070
+        ],
+        [
+            1050,
+            2070
+        ],
+        [
+            1350,
+            2070
+        ],
+        [
+            1650,
+            2070
+        ],
+        [
+            1950,
+            2070
+        ],
+        [
+            2250,
+            2070
+        ],
+        [
+            2550,
+            2070
+        ],
+        [
+            2850,
+            2070
+        ],
+        [
+            3150,
+            2070
+        ],
+        [
+            3450,
+            2070
+        ],
+        [
+            3750,
+            2070
+        ],
+        [
+            150,
+            2250
+        ],
+        [
+            450,
+            2250
+        ],
+        [
+            750,
+            2250
+        ],
+        [
+            1050,
+            2250
+        ],
+        [
+            1350,
+            2250
+        ],
+        [
+            1650,
+            2250
+        ],
+        [
+            1950,
+            2250
+        ],
+        [
+            2250,
+            2250
+        ],
+        [
+            2550,
+            2250
+        ],
+        [
+            2850,
+            2250
+        ],
+        [
+            3150,
+            2250
+        ],
+        [
+            3450,
+            2250
+        ],
+        [
+            3750,
+            2250
+        ],
+        [
+            150,
+            2430
+        ],
+        [
+            450,
+            2430
+        ],
+        [
+            750,
+            2430
+        ],
+        [
+            1050,
+            2430
+        ],
+        [
+            1350,
+            2430
+        ],
+        [
+            1650,
+            2430
+        ],
+        [
+            1950,
+            2430
+        ],
+        [
+            2250,
+            2430
+        ],
+        [
+            2550,
+            2430
+        ],
+        [
+            2850,
+            2430
+        ],
+        [
+            3150,
+            2430
+        ],
+        [
+            3450,
+            2430
+        ],
+        [
+            3750,
+            2430
+        ],
+        [
+            150,
+            2610
+        ],
+        [
+            450,
+            2610
+        ],
+        [
+            750,
+            2610
+        ],
+        [
+            1050,
+            2610
+        ],
+        [
+            1350,
+            2610
+        ],
+        [
+            1650,
+            2610
+        ],
+        [
+            1950,
+            2610
+        ],
+        [
+            2250,
+            2610
+        ],
+        [
+            2550,
+            2610
+        ],
+        [
+            2850,
+            2610
+        ],
+        [
+            3150,
+            2610
+        ],
+        [
+            3450,
+            2610
+        ],
+        [
+            3750,
+            2610
+        ]
+    ],
+    "crsList": [
+        {
+            "key": "14",
+            "ref": null,
+            "props": {
+                "keyFromParent": 14,
+                "crs_id": "gg 1",
+                "name": "AI Adventures: 7 Steps of Machine Learning",
+                "description": "우리는 주어진 술이 맥주인지 와인인지 어떻게 구별할 수 있을까요? 물론, 머신 러닝을 통해서 가능합니다! 이번 클라우드 AI 어드벤쳐 에피소드에서는 유펭(Yufeng)이 응용 머신 러닝의 7가지 단계를 소개합니다.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "40",
+            "ref": null,
+            "props": {
+                "keyFromParent": 40,
+                "crs_id": "gg 2",
+                "name": "AI for Social Good Guide",
+                "description": "This guide helps nonprofits and social enterprises learn how to apply artificial intelligence and machine learning to social, humanitarian and environmental challenges.",
+                "prerequisites": [
+                    "gg 1"
+                ],
+                "cp": [
+                    450,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "53",
+            "ref": null,
+            "props": {
+                "keyFromParent": 53,
+                "crs_id": "gg 3",
+                "name": "Introduction to Machine Learning Problem Framing",
+                "description": "Welcome to Introduction to Machine Learning Problem Framing! This course helps you frame machine learning (ML) problems. This course does not cover how to implement ML or work with data.",
+                "prerequisites": [
+                    "gg 2"
+                ],
+                "cp": [
+                    450,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "66",
+            "ref": null,
+            "props": {
+                "keyFromParent": 66,
+                "crs_id": "gg 4",
+                "name": "Responsible AI practices",
+                "description": "we share some of our current work and recommended practices. As with all of our research, we will take our latest findings into account, work to incorporate them as appropriate, and adapt as we learn more over time.",
+                "prerequisites": [
+                    "gg 3"
+                ],
+                "cp": [
+                    450,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "16",
+            "ref": null,
+            "props": {
+                "keyFromParent": 16,
+                "crs_id": "gg 5",
+                "name": "Rules of Machine Learning",
+                "description": "본 문서의 목적은 머신러닝에 관한 기초 지식을 갖춘 독자들이 Google의 머신러닝 관련 권장사항을 참고할 수 있도록 돕는 것으로, Google C++ 스타일 가이드 등의 인기 있는 실무 프로그래밍 가이드처럼 머신러닝에 관한 스타일을 제시합니다. 머신러닝 수업을 들은 적이 있거나 머신러닝 모델을 개발하거나 다뤄본 경험이 있다면 이 문서를 읽는 데 필요한 배경 지식을 갖춘 것입니다.",
+                "prerequisites": [
+                    "gg 4",
+                    "gg 3"
+                ],
+                "cp": [
+                    1050,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "42",
+            "ref": null,
+            "props": {
+                "keyFromParent": 42,
+                "crs_id": "gg 6",
+                "name": "Deep Playground",
+                "description": "Tinker With a Neural Network Right Here in Your Browser. Don’t Worry, You Can’t Break It. We Promise.",
+                "prerequisites": [
+                    "gg 5"
+                ],
+                "cp": [
+                    1050,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "55",
+            "ref": null,
+            "props": {
+                "keyFromParent": 55,
+                "crs_id": "gg 7",
+                "name": "Kaggle Learn",
+                "description": "Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills.",
+                "prerequisites": [
+                    "gg 6"
+                ],
+                "cp": [
+                    1050,
+                    810
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "18",
+            "ref": null,
+            "props": {
+                "keyFromParent": 18,
+                "crs_id": "gg 8",
+                "name": "Machine Learning Crash Course with TensorFlow APIs",
+                "description": "단기집중과정을 통해 머신러닝의 기본 개념을 학습 및 적용하고, 컴패니언 Kaggle 대회에 참가하여 실전 경험을 쌓고, Google AI로 배우기를 방문하여 전체 학습 리소스 라이브러리를 살펴보세요.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    270
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "30",
+            "ref": null,
+            "props": {
+                "keyFromParent": 30,
+                "crs_id": "gg 9",
+                "name": "Machine Learning Recipes with Josh Gordon: Hello World",
+                "description": "파이썬에 여섯 줄만 쓰면 여러분의 첫 번째 머신 러닝 프로그램이 되는 겁니다! 이번 강의에서는 머신 러닝이란 무엇인지 그것이 왜 중요한지 간략하게 소개해 드리겠습니다. 그리고 지도학습(예시로부터 분류기를 생성하는 기법)에 대한 방법도 다뤄보고 코딩해 보겠습니다.",
+                "prerequisites": [],
+                "cp": [
+                    1350,
+                    450
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "44",
+            "ref": null,
+            "props": {
+                "keyFromParent": 44,
+                "crs_id": "gg 10",
+                "name": "Data Preparation and Feature Engineering for Machine Learning",
+                "description": "Machine learning helps us find patterns in data—patterns we then use to make predictions about new data points. To get those predictions right, we must construct the data set and transform the data correctly. This course covers these two key steps. We'll also see how training/serving considerations play into these steps.",
+                "prerequisites": [
+                    "gg 8"
+                ],
+                "cp": [
+                    1650,
+                    630
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "83",
+            "ref": null,
+            "props": {
+                "keyFromParent": 83,
+                "crs_id": "gg 11",
+                "name": "Data Engineering on Google Cloud Platform Specialization",
+                "description": "Google Cloud Platform를 통한 데이터 공학. Launch your career in Data Engineering. Deliver business value with big data and machine learning.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "70",
+            "ref": null,
+            "props": {
+                "keyFromParent": 70,
+                "crs_id": "gg 12",
+                "name": "TensorFlow Workshops",
+                "description": "Jupyter notebooks that introduce developers to TensorFlow.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    990
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "109",
+            "ref": null,
+            "props": {
+                "keyFromParent": 109,
+                "crs_id": "gg 13",
+                "name": "Serverless Machine Learning with TensorFlow on Google Cloud Platform",
+                "description": "This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google Cloud Platform. Through a combination of presentations, demos, and hand-on labs, participants will learn machine learning (ML) and TensorFlow concepts, and develop hands-on skills in developing, evaluating, and productionizing ML models.",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    1530
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "96",
+            "ref": null,
+            "props": {
+                "keyFromParent": 96,
+                "crs_id": "gg 14",
+                "name": "Android and TensorFlow: Artistic Style Transfer Codelab",
+                "description": "In this codelab, you're going to take an existing Android app and add a TensorFlow model to generate stylised images using the device's camera. You'll build the following skills:",
+                "prerequisites": [],
+                "cp": [
+                    1650,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "92",
+            "ref": null,
+            "props": {
+                "keyFromParent": 92,
+                "crs_id": "gg 15",
+                "name": "Intro to Fairness Machine Learning module",
+                "description": "머신러닝 모델을 책임감 있게 평가하려면 단순한 손실 통계를 계산하는 것 이상의 활동이 필요합니다. 모델을 제품에 투입하기 전에 학습 데이터를 점검하고 예측에 편향성이 없는지 평가해야 합니다. 이 모듈에서는 데이터 학습에서 나타날 수 있는 다양한 유형의 사람이 갖는 편향을 살펴봅니다. 그런 다음 편향을 식별하고 그 영향을 평가할 수 있는 전략을 제시합니다.",
+                "prerequisites": [],
+                "cp": [
+                    450,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "81",
+            "ref": null,
+            "props": {
+                "keyFromParent": 81,
+                "crs_id": "gg 16",
+                "name": "AI Experimets",
+                "description": "AI Experiments is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more.",
+                "prerequisites": [
+                ],
+                "cp": [
+                    1050,
+                    1170
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        },
+        {
+            "key": "94",
+            "ref": null,
+            "props": {
+                "keyFromParent": 94,
+                "crs_id": "gg 17",
+                "name": "Seedbank - Machine Learning Discovery",
+                "description": "Collection of Interactive Machine Learning Examples",
+                "prerequisites": [],
+                "cp": [
+                    1050,
+                    1350
+                ],
+                "offset": 80,
+                "display": "none"
+            },
+            "_owner": null,
+            "_store": {}
+        }
+    ],
+    "map": {
+        "14": "gg 1",
+        "16": "gg 5",
+        "18": "gg 8",
+        "30": "gg 9",
+        "40": "gg 2",
+        "42": "gg 6",
+        "44": "gg 10",
+        "53": "gg 3",
+        "55": "gg 7",
+        "66": "gg 4",
+        "70": "gg 12",
+        "81": "gg 16",
+        "83": "gg 11",
+        "92": "gg 15",
+        "94": "gg 17",
+        "96": "gg 14",
+        "109": "gg 13"
+    }
+}
